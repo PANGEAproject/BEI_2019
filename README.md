@@ -4,4 +4,4 @@ Aquí se encuentra el repositorio que los archivo de la primera entrega del proy
 
 1.  Creación de una base de datos de variantes genómicas.
 
-2.  Clasificación automática.
+2.  Clasificación automática de textos por medio de aprendizaje máquina.
