@@ -71,9 +71,15 @@ def create_training_and_test_classes(file_RI,file_OTHER,len_RI,len_OTHER,p_TEST,
         output_file_TEST_CLASS = 'testClass' + '.' + feacture
         output_file_TRAINING_CLASS = 'trainingClass' + '.' + feacture
 
-        os.system("echo '{}' > {}".format(testClass,output_file_TEST_CLASS))
-        os.system("echo '{}' > {}".format(trainingClass,output_file_TRAINING_CLASS))
-
+        #os.system("echo '{}' > {}".format(testClass,output_file_TEST_CLASS))
+        #os.system("echo '{}' > {}".format(trainingClass,output_file_TRAINING_CLASS))
+        
+        # Print it.
+        with open(output_file_TEST_CLASS,'w') as test:
+            test.write(testClass + '\n')
+        with open(output_file_TRAINING_CLASS,'w') as training:
+            training.write(trainingClass + '\n')
+        
 if __name__ == '__main__':
     if sys.argv[1] == '1':
         try:
