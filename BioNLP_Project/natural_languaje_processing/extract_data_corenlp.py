@@ -37,7 +37,7 @@ def parse_corenlp_results(corenlp_results,check = 'PANGEA'):
 def get_category(corenlp_resulst_parsed,category):
     with open(corenlp_resulst_parsed,'r') as f:
         for line in f:
-            line = line.strip('\n')split(' ')
+            line = line.strip('\n').split(' ')
             print(' '.join([word.split('|')[category] for word in line]))
 
 def create_training_and_test_classes(file_RI,file_OTHER,len_RI,len_OTHER,p_TEST,p_TRAINING,feactures,category='RI'):
