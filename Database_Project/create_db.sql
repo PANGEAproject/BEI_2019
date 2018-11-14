@@ -25,7 +25,7 @@ CREATE TABLE ALTERNATIVE_ALLELE
  id_alternative_allele INT NOT NULL AUTO_INCREMENT ,
  rs_id                 VARCHAR(15) NOT NULL ,
  alternative_allele    VARCHAR(1000) NOT NULL ,
- end_position          INT unsigned NOT NULL ,
+ end_position          INT unsigned,
 
 PRIMARY KEY (id_alternative_allele, rs_id),
 KEY `fkIdx_25` (rs_id),
