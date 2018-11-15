@@ -9,7 +9,7 @@ CREATE TABLE RS
  reference_allele VARCHAR(1000) NOT NULL ,
  chromosome
 ENUM('chr1','chr2','chr3','chr4','chr5','chr6','chr7','chr8','chr9','chr10','chr11','chr12','chr13','chr14','chr15','chr16','chr17','chr18','chr19','chr20','chr21','chr22','chrX','chrY') ,
- variation        ENUM('unknown', 'single', 'in-del', 'het', 'microsatellite', 'named', 'mnp', 'insertion', 'deletion', 'Multiallelic_SNP', 'Multiallelic_INDEL', 'Biallelic_SNP', 'Bilallelic_INDEL') NOT NULL ,
+ variation        ENUM('unknown', 'single', 'in-del', 'het', 'microsatellite', 'named', 'mnp', 'insertion', 'deletion', 'Multiallelic_SNP', 'Multiallelic_INDEL', 'Biallelic_SNP', 'Biallelic_INDEL') NOT NULL ,
  strand           ENUM('+','-') ,
  source           ENUM('SNP138','1000GP','SNP138-1000GP') NOT NULL ,
  start_position   INT unsigned ,
