@@ -60,15 +60,15 @@ with open ('./snp_parsing.txt') as snp:
 			for i in all_geno:
 				if all_snp.has_key(i):
 					continue
-				tempo = str(i) + ',' + str(all_geno[i]).replace('[','').replace(']','').replace('\'','').replace('NULL', '\N').replace(' ','') + '\n'
+				tempo = str(i) + ',' + str(all_geno[i]).replace('[','').replace(']','').replace('\'','').replace('NULL', '\N').replace(' ','') + ',' + 'https://www.ncbi.nlm.nih.gov/snp/' + str(i) + '\n'
 				parsing.write(tempo)
 #si el rs está en ambas bases se escribe lo que está en SNP, pero con la fuente cambiada
 			for i in all_snp:
 				if all_geno.has_key(i):
-					tempo = str(i) + ',' +  str(all_snp[i]).replace('[','').replace(']','').replace('\'','').replace('SNP138','SNP138-1000GP').replace(' ','') + '\n'
+					tempo = str(i) + ',' +  str(all_snp[i]).replace('[','').replace(']','').replace('\'','').replace('SNP138','SNP138-1000GP').replace(' ','')+ ',' + 'https://www.ncbi.nlm.nih.gov/snp/' + str(i) + '\n'
 					parsing.write(tempo)
 					continue
 #si no está en la intersección solo se escribe la información de SNP
-				tempo = str(i) + ',' +  str(all_snp[i]).replace('[','').replace(']','').replace('\'','').replace(' ','') + '\n'
+				tempo = str(i) + ',' +  str(all_snp[i]).replace('[','').replace(']','').replace('\'','').replace(' ','') + ',' + 'https://www.ncbi.nlm.nih.gov/snp/' + str(i) + '\n'
 				parsing.write(tempo)
 
