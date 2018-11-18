@@ -52,3 +52,9 @@ AND rs.rs_id = alt.rs_id
 AND rs.start_position BETWEEN 10 and 100 -- valores ejemplo
 AND alt.end_position BETWEEN 10 and 100; -- valores ejemplo
 
+----------------------------- Para agregar frecuencias poblacionales a un RS ------------------------------
+---- Privilegio para Laura
+
+insert into FREQUENCY_RS_CONTINENT(AFR, AMR, EAS, EUR, SAS, GLOBALFREQS)
+values ('0.1', '0.5', '0.10', '0.15', '0.20', '0.25'); --valores ejemplo
+
