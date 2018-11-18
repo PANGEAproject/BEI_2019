@@ -39,7 +39,7 @@ CREATE TABLE FREQUENCY_RS_CONTINENT
 (
  rs_id        VARCHAR(15) NOT NULL ,
  id_alternative_allele INT NOT NULL,
- frequency_id INT unsigned NOT NULL AUTO_INCREMENT,
+ frequency_id INT unsigned AUTO_INCREMENT NOT NULL ,
  AFR          FLOAT unsigned NOT NULL, 
  AMR          FLOAT unsigned NOT NULL, 
  EAS          FLOAT unsigned NOT NULL, 
