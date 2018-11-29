@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------------------------------------
 
--- Nombre: queries_rs_and_chrs_v.1.0.sql
+-- Nombre: users.sql
 -- Autora: Diana Salazar
 -- Version 1.0
 -- Creado: 25/11/10
