@@ -1,3 +1,12 @@
+-----------------------------------------------------------------------------------------------------------
+
+-- Nombre: queries_rs_and_chrs_v.1.0.sql
+-- Autora: Diana Salazar
+-- Version 1.0
+-- Creado: 25/11/10
+-- Descripción: Creación de la tabla de usuarios
+-- Lenguaje: MySQL
+
 create table USERS(
 
 	users varchar(50) not null, 
