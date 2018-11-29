@@ -3,12 +3,14 @@
 
 ###########################################################################################
 
-									#parsing_rs_2.0.py
+									#parsing_rs_3.0.py
 
 ############################################################################################
 
 """Descrición
 Autor: Luis Enrique
+
+Version3: correción de errores, se guarda un set con los rs que están mal en 1000g y se eliminan mas tarde, ya quepueden estar en snp
 
 Version: 2.0
 
