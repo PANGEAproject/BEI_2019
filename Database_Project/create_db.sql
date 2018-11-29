@@ -39,7 +39,6 @@ CREATE TABLE FREQUENCY_RS_CONTINENT
 (
  rs_id        VARCHAR(15) NOT NULL ,
  id_alternative_allele INT NOT NULL,
- frequency_id INT unsigned AUTO_INCREMENT NOT NULL ,
  AFR          FLOAT unsigned NOT NULL, 
  AMR          FLOAT unsigned NOT NULL, 
  EAS          FLOAT unsigned NOT NULL, 
@@ -47,13 +46,7 @@ CREATE TABLE FREQUENCY_RS_CONTINENT
  SAS          FLOAT unsigned NOT NULL,
  GLOBAL       FLOAT unsigned NOT NULL, 
 
-PRIMARY KEY (frequency_id,rs_id,id_alternative_allele),
-KEY `fkIdx_28` (rs_id),
-CONSTRAINT `FK_28` FOREIGN KEY `fkIdx_28` (rs_id) REFERENCES RS (rs_id),
-CONSTRAINT `FK_38` FOREIGN KEY `fkIdx_38` (id_alternative_allele) REFERENCES ALTERNATIVE_ALLELE (id_alternative_allele)
+PRIMARY KEY (rs_id,id_alternative_allele),
+CONSTRAINT `FK_rsid` FOREIGN KEY (rs_id) REFERENCES RS (rs_id),
+CONSTRAINT `FK_alter` FOREIGN KEY (id_alternative_allele) REFERENCES ALTERNATIVE_ALLELE (id_alternative_allele)
 );
-
-
-
-
-
