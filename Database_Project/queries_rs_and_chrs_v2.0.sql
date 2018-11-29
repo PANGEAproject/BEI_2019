@@ -1,3 +1,13 @@
+-----------------------------------------------------------------------------------------------------------
+
+-- Nombre: queries_rs_and_chrs_v.2.0.sql
+-- Autora: Diana Salazar
+-- Version 2.0
+-- Creado: 28/11/10
+-- Descripción: Código que permite hacer las consultas a la base de datos solicitadas por  
+--    la cliente. Regresa las búsquedas de RS y cromosoma 
+-- Lenguaje: MySQL
+
 -------------------------------------------------------------------v2------------------------------------------------------------------
 ----- Version 1.5 - No funcionales
 
