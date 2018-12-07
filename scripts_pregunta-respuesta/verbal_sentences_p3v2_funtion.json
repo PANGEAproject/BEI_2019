@@ -1,0 +1,3336 @@
+{
+    "aac": {}, 
+    "aat": {}, 
+    "abc": {}, 
+    "abrb": {}, 
+    "acca": {}, 
+    "acea": {}, 
+    "aceb": {}, 
+    "aceba": {}, 
+    "ach": {}, 
+    "acka": {}, 
+    "acka-pta": {
+        "encoding": "0.8324431488583277\tackA-pta operon\tencoding\tphosphate acetyltransferase\n"
+    }, 
+    "acnb": {}, 
+    "acra": {
+        "encodes": "1.0\tAcrA\tencodes\tputative prophage protein\n", 
+        "has role in": "1.0\tPeriplasmic adaptor protein AcrA\thas role in\tantibiotic resistance of Salmonella enterica serovar Typhimurium\n", 
+        "have": "0.8476250088173763\tacrA\thave\thave described previously\n"
+    }, 
+    "acrab": {
+        "plays role in": "1.0\tAcrAB ef\ufb02ux pump\tplays role in\tantibiotic resistance phenotype of Escherichia coli multiple-anti-biotic-resistance\n"
+    }, 
+    "acrb": {
+        "is essential for": "1.0\tAcrB\tis essential for\tmultidrug-resistant Salmonella enterica serotype Typhimurium colonization of chicks\n", 
+        "is involved in": "1.0\tAcrB multidrug ef\ufb02ux pump\tis involved in\tHfq-mediated multidrug resistance\n", 
+        "plays role in": "1.0\tAcrB multidrug transporter\tplays role in\thigh-level \ufb02uoroquin-olone resistance in Salmonella enterica serovar Typhimurium phage type DT204\n"
+    }, 
+    "acrd": {
+        "contribute to": "1.0\tAcrD\tcontribute to\tmetal resistance in Salmonella\n", 
+        "have": "1.0\tAcrD\thave\tbroader substrate range than its E. coli counterpart\n"
+    }, 
+    "acrf": {}, 
+    "acrr": {
+        "plays role in": "1.0\tlocal repressor AcrR\tplays role in\tregulation of acrAB genes of Escherichia coli by global stress signals\n"
+    }, 
+    "acs": {
+        "can": "1.0\tAcs\tcan\tIn Salmonella can reversibly acetylated also through Pat\n", 
+        "encodes": "0.655530348071119\tacs\tencodes\tacetyl-CoA synthetase\n"
+    }, 
+    "ada": {
+        "play role in": "1.0\tAda protein\tplay role in\tserovar Typhimurium tolerance to organic acid stress\n"
+    }, 
+    "add": {}, 
+    "adhe": {}, 
+    "adi": {
+        "contributes to": "1.0\tSTM4467-encoded ADI\tcontributes to\tSalmonella virulence\n", 
+        "plays role in": "1.0\tADI system\tplays role in\tbacterial pathogenesis\n"
+    }, 
+    "adia": {}, 
+    "adiy": {
+        "acts as": "1.0\tAdiY\tacts as\tconditional regulator for adiA\n", 
+        "is essential for": "1.0\tadiY\tis essential for\tinduction of arginine-dependent AR in Salmo-nella\n", 
+        "is involved in": "1.0\tAraC-like regulator AdiY\tis involved in\tregulation of adiA\n"
+    }, 
+    "adra": {
+        "promotes": "1.0\tGGDEF domain protein AdrA\tpromotes\tbio\ufb01lm formation\n"
+    }, 
+    "aer": {
+        "have": "1.0\tAer\thave\tmethyl-accepting signaling domain common to MCP proteins\n"
+    }, 
+    "agar": {
+        "have": "1.0\tLB agar\thave\thave previously described\n", 
+        "inhibits": "1.0\tsolid agar\tinhibits\tits expression\n"
+    }, 
+    "ahpf": {}, 
+    "air": {}, 
+    "aldb": {}, 
+    "amia": {}, 
+    "amn": {}, 
+    "ampg": {}, 
+    "amph": {
+        "encoding": "0.8046702874182021\tampH\tencoding\tpenicillin-binding protein\n"
+    }, 
+    "amt": {}, 
+    "ansb": {}, 
+    "ant": {}, 
+    "apah": {}, 
+    "apee": {
+        "encodes": "1.0\tapeE gene\tencodes\touter membrane esterase\n", 
+        "play role in": "1.0\tapeE\tplay role in\tuse of phospholipids as phosphate sources\n"
+    }, 
+    "aph": {}, 
+    "arab": {}, 
+    "arabad": {
+        "can": "1.0\tarabinose catabolism operon araBAD\tcan\tcan activated only in growth condition\n"
+    }, 
+    "arac": {
+        "binding to": "0.9152784946897985\tCRP-activated arabinose-responsive protein AraC\tbinding to\tsecondary signal\n"
+    }, 
+    "arae": {}, 
+    "arca": {
+        "activates": "1.0\tArcA\tactivates\tclass 3 flagellar genes\n", 
+        "acts as": "1.0\tArcA\tacts as\tactivator\n", 
+        "affects": "1.0\tArcA\taffects\tfis expression\n", 
+        "bind to": "1.0\tArcA\tbind to\t235 element\n", 
+        "binds to": "1.0\tglobal regulator ArcA\tbinds to\tompW promoter region\n", 
+        "can": "1.0\tArcA regulation\tcan\tcan used\n", 
+        "control": "1.0\tArcA\tcontrol\texpression of at least 392 genes\n", 
+        "is essential for": "1.0\tArcA\tis essential for\tS. Enteritidis\n", 
+        "is involved in": "1.0\tArcA\tis involved in\tenergy metabolism\n", 
+        "is required for": "1.0\tresponse regulator ArcA\tis required for\tCorrespondence\n", 
+        "mediates": "1.0\tresponse regulator ArcA\tmediates\tompW negative regulation\n", 
+        "positively regulates": "1.0\tArcA\tpositively regulates\texpression of genes involved in flagellar bio-synthesis\n", 
+        "regulate": "1.0\tArcA\tregulate\tturnover of reduced glutathione\n", 
+        "regulates": "1.0\tArcA\tregulates\texpression of genes involved in flagellar bio-synthesis\n"
+    }, 
+    "arcb": {}, 
+    "argg": {}, 
+    "argi": {}, 
+    "argr": {
+        "bind to": "1.0\tArgR molecules\tbind to\tregion between NtrC sites\n", 
+        "binds to": "1.0\tArgR\tbinds to\tDNA fragment\n", 
+        "can": "1.0\tSix putative ArgR boxes\tcan\tcan also deduced albeit with varying degrees of homology to consensus sequence\n", 
+        "is essential for": "1.0\tfunctional ArgR\tis essential for\tcAMP-CRP-dependent induction of ast operon under carbon starvation\n"
+    }, 
+    "argt": {}, 
+    "argu": {}, 
+    "aroa": {}, 
+    "arof": {
+        "encodes": "1.0\tS. typhimurium aroF gene\tencodes\tprotein of 356 amino acid residues\n"
+    }, 
+    "arog": {}, 
+    "aroh": {}, 
+    "aroq": {}, 
+    "asd": {}, 
+    "asma": {
+        "activate": "1.0\tasmA mutations\tactivate\tMarA-regulated ef\ufb02ux pump hitherto unknown\n", 
+        "encodes": "1.0\tasmA gene\tencodes\tprotein of 70 kDa located in outer membrane\n", 
+        "is required for": "1.0\tAsmA\tis required for\toptimal invasion of intestinal epithelium\n"
+    }, 
+    "asps": {
+        "have": "1.0\t10 unique stationary-phase ASPs\thave\tIn addition have identi\ufb01ed\n", 
+        "induce": "1.0\tearly-phase ASPs\tinduce\tlater-phase ASPs\n"
+    }, 
+    "asr": {}, 
+    "asra": {}, 
+    "asrabc": {}, 
+    "asrb": {}, 
+    "asrc": {
+        "encode": "1.0\tasrC\tencode\tsiroheme-containing subunit of anaerobic sulfite reductase\n"
+    }, 
+    "atoc": {}, 
+    "avra": {}, 
+    "baer": {
+        "activates": "1.0\tBaeR\tactivates\texpression of multifunctional outer membrane channel gene tolC in S. enterica\n", 
+        "binding to": "1.0\tBaeR\tbinding to\tpromoter regions of acrD\n", 
+        "binds to": "1.0\tB BaeR protein\tbinds to\tpromoter region of mdtA\n", 
+        "can": "1.0\tbaeR growth\tcan\tcan complemented by secreted factor present in wild type\n", 
+        "controls": "1.0\tBaeR\tcontrols\texpression of mdtABC\n", 
+        "determine": "1.0\t1 BaeR\tdetermine\tdue to direct interaction of BaeR with promoter regions of sodA\n", 
+        "is required for": "0.6738369371614691\tBaeR\tis required for\ttungstate waste disposal\n", 
+        "positively regulates": "1.0\tBaeR\tpositively regulates\tsodA\n", 
+        "regulate": "1.0\tBaeR\tregulate\tRND efflux pumps\n", 
+        "regulates": "1.0\tBaeR\tregulates\ttranscription of mdt-bae operon\n"
+    }, 
+    "baes": {}, 
+    "bara": {
+        "activate": "1.0\tBarA\tactivate\ttranscriptional regulator\n", 
+        "activates": "1.0\tBarA\tactivates\thilA expression\n", 
+        "have": "1.0\tBarA\thave\ttwo transmembrane alpha helices\n"
+    }, 
+    "bassr": {
+        "controls": "1.0\tBasSR two component system\tcontrols\texpression of pmr locus\n"
+    }, 
+    "bcp": {}, 
+    "bcsa": {}, 
+    "beta": {}, 
+    "bfd": {}, 
+    "bfr": {}, 
+    "bglj": {}, 
+    "bla": {
+        "encodes": "1.0\tbla gene\tencodes\ta major\n", 
+        "have": "1.0\tbla mutants\thave\thave described earlier\n"
+    }, 
+    "bola": {
+        "mediates": "1.0\tmorphogene bolA\tmediates\treduction in cell size associated with stationary phase\n"
+    }, 
+    "btub": {}, 
+    "btud": {}, 
+    "btuf": {
+        "acts as": "1.0\tBtuF\tacts as\tperiplasmic vitamin B12\n"
+    }, 
+    "btur": {}, 
+    "cada": {
+        "plays role in": "1.0\tcadA gene\tplays role in\tacid tolerance\n"
+    }, 
+    "cadb": {}, 
+    "cadc": {
+        "act as": "1.0\tMembrane-bound CadC\tact as\ttranscriptional activator of cadBA operon\n", 
+        "activates": "1.0\tCadC\tactivates\tpH-dependent expression of Vibrio vulni\ufb01cus cadBA operon at distance\n", 
+        "acts as": "1.0\tCadC\tacts as\tmild repressor of ompR transcription\n", 
+        "affects": "1.0\tS. enterica serovar Typhi-murium CadC\taffects\tglobal translation\n", 
+        "have": "1.0\tcadC mutants\thave\tSimilarly have isolated\n", 
+        "plays role in": "1.0\tS. enterica serovar Typhimurium CadC\tplays role in\tglobal regulation during acid adaptation\n", 
+        "positively regulates": "1.0\tCadC\tpositively regulates\ttranscription of ompC\n", 
+        "regulate": "1.0\tCadC\tregulate\ttwo former genes\n", 
+        "regulates": "1.0\tCadC\tregulates\ttranscription of ompC\n"
+    }, 
+    "cafa": {}, 
+    "cap": {
+        "acts as": "1.0\tCAP\tacts as\trepressor for crp expression\n", 
+        "binds to": "1.0\tCAP\tbinds to\tspeci\ufb01c site within \ufb02hDC promoter region\n", 
+        "have": "1.0\ttheir CAP binding sites\thave\thave determined\n", 
+        "regulates": "1.0\tCAP\tregulates\tactivity of adenylate cyclase\n"
+    }, 
+    "cara": {}, 
+    "carab": {
+        "encodes": "1.0\tcarAB operon\tencodes\ttwo subunits of enzyme carbamoylphosphate synthetase\n"
+    }, 
+    "cat": {
+        "bind": "1.0\t-140 -120 -100 -60 -60 5-TTT ACG CGT CAT ATGAAGATATTCCTGGCTGAGTCGGTGAAAGTCAGGCCACAGATTAACCACTACCACAATAGACGTCAATACATCTGGAC Lys Arg Thr Met\tbind\ttwo regions\n", 
+        "encoding": "0.8431001568050362\tcat gene\tencoding\tresistance to chloramphen-icol\n"
+    }, 
+    "cbik": {}, 
+    "cbl": {
+        "is required for": "1.0\tCBL\tis required for\tfour enzymatic reactions\n"
+    }, 
+    "cca": {}, 
+    "ccdb": {}, 
+    "cdar": {}, 
+    "cdd": {}, 
+    "cdtb": {}, 
+    "cheb": {}, 
+    "chem": {}, 
+    "chev": {}, 
+    "chey": {}, 
+    "chip": {
+        "regulates": "1.0\t12 10 8 6 4 2 ChIP Scor 0 fA\tregulates\tSTM2239 expression\n"
+    }, 
+    "cho": {}, 
+    "cld": {}, 
+    "clpp": {
+        "is essential for": "1.0\tClpP serine protease\tis essential for\tintracellular parasitism of Listeria monocytogenes\n", 
+        "is required for": "1.0\tClpP\tis required for\tsporulation in B. subtilis\n"
+    }, 
+    "clpv": {}, 
+    "clpx": {
+        "affects": "1.0\tclpX mutation\taffects\trate of transcription of \ufb02hD master operon\n", 
+        "represses": "1.0\tprotease ClpX\trepresses\t\ufb02iC expression in macrophages\n"
+    }, 
+    "coba": {
+        "is required for": "1.0\tcobA function\tis required for\tde cobalamin biosynthesis of exogenous corrinoids in Salmonella typhi-murium\n", 
+        "plays role in": "1.0\tCobA protein\tplays role in\tB12 transport\n"
+    }, 
+    "cobb": {
+        "affect": "0.9519760056082017\tCobB proteins\taffect\tprpBCDE operon expression\n", 
+        "is required for": "1.0\tcobB function\tis required for\tcatabolism of propionate in Salmonella typhimurium LT2\n", 
+        "plays role in": "1.0\tCobB\tplays role in\tcatab-olism of propionate\n"
+    }, 
+    "cobi": {}, 
+    "cobt": {
+        "encodes": "1.0\tcobT gene\tencodes\tNaMN\n"
+    }, 
+    "cobu": {
+        "encode": "1.0\tincluded cobU gene\tencode\tprotein with adenosyltransferase activity\n"
+    }, 
+    "cora": {
+        "can": "1.0\tcorA defect\tcan\tcan rescued by complementation with functional S. enterica serovar Typhimurium corA allele\n", 
+        "encodes": "1.0\tcorA\tencodes\tsingle protein of about 40 kDa capable\n", 
+        "have": "1.0\tCorA\thave\tdifferent maximal velocities of Corresponding author\n", 
+        "is involved in": "1.0\tCorA\tis involved in\tvirulence\n", 
+        "is required for": "1.0\tfunctional CorA protein\tis required for\treplication of S. enterica serovar Typhimurium within Caco-2 epithelial cells\n"
+    }, 
+    "core": {
+        "encoding": "0.7252071056859563\tcore gene\tencoding\ttailspike protein\n", 
+        "have": "1.0\tsciG core T6SS gene mutants\thave\tintracellular replication ratio of approximately 0.5\n", 
+        "inhibits": "1.0\tCore L\tinhibits\tresponse regulator-DNA binding for competence development in Bacillus subtilis\n"
+    }, 
+    "cpxa": {
+        "activate": "1.0\tSalmonella enterica serovar Typhimurium CpxA sensor\tactivate\tAraC-like transcription factor\n", 
+        "affects": "1.0\tWT CpxA gene\taffects\tactivity of mutant CpxA protein\n", 
+        "have": "1.0\tcpxA\thave\texcess CpxR-P\n"
+    }, 
+    "cpxp": {
+        "binds to": "1.0\tperiplasmic chaperone CpxP\tbinds to\tCpxA peri-plasmic domain\n"
+    }, 
+    "cpxr": {
+        "act as": "1.0\tCpxR\tact as\tmodulator of other extracytoplasmic response proteins as stand-alone regulator\n", 
+        "activates": "1.0\tCpxR\tactivates\texpression of cell wall-degrading proteins\n", 
+        "have": "1.0\tCpxR binding sites\thave\tweight score\n"
+    }, 
+    "cpxra": {
+        "is required for": "1.0\tCpxRA pathway\tis required for\tmaximal expression of virF\n"
+    }, 
+    "cra": {}, 
+    "crl": {
+        "activates": "1.0\tCrl\tactivates\ttranscription initiation of RpoS-regulated genes involved in multicellular behavior of Salmonella enterica serovar Typhimurium\n", 
+        "affects": "0.6768894294823602\tCrl\taffects\tsubsequent steps in transcription initiation pathway\n", 
+        "bind": "1.0\tCrl\tbind\tS\n", 
+        "binds to": "1.0\tCrl\tbinds to\tS\n", 
+        "can": "1.0\tcrl null mutation\tcan\tcan complemented by increase in RpoS expression\n", 
+        "contribute to": "1.0\tCrl\tcontribute to\tS activity\n", 
+        "contributes to": "0.5349180340577929\tCrl\tcontributes to\tnegative regulation by S. Negative regulation of 70-dependent gene expression by S\n", 
+        "controls": "1.0\tCrl\tcontrols\tgrowth of Salmonella on succinate\n", 
+        "has role in": "1.0\tCrl\thas role in\tS-depen-dent transcription initiation\n", 
+        "is involved in": "1.0\tCrl\tis involved in\tdevelopment of rdar morphotype of Salmo-nella\n", 
+        "is required for": "1.0\tCrl\tis required for\tkatE expression in 2922KrpoSLT2 compensate for reduction in S levels resulting from rpoSLT2 mutation\n", 
+        "plays role in": "1.0\tCrl\tplays role in\ttranscription activation of csgD\n", 
+        "promotes": "1.0\tCrl\tpromotes\trecruitment of E S to S-dependent promoters\n"
+    }, 
+    "crp": {
+        "act as": "1.0\tCrp\tact as\tactivator\n", 
+        "activate": "1.0\tCRP\tactivate\ttranscription of wild-type pepT promoter\n", 
+        "activate transcription": "1.0\tCRP\tactivate transcription\tbinding to well-de\ufb01ned palindromic DNA sequences frequently located at approximately 241 bp relative to start of transcription\n", 
+        "activates": "1.0\tCRP\tactivates\ttranscription\n", 
+        "acts as": "1.0\tCrp\tacts as\trepressor of tcuR\n", 
+        "affect": "1.0\tCrp systems\taffect\tcob\n", 
+        "affects": "1.0\tCRP\taffects\tsecretory function of SPI-1 T3SS\n", 
+        "bind": "1.0\tCRP\tbind\tCF site of P1 promoter\n", 
+        "binding to": "1.0\tCRP\tbinding to\twell-de\ufb01ned palindromic DNA sequences frequently located at approximately 241 bp relative to start of transcription\n", 
+        "binds to": "1.0\tCRP\tbinds to\tilvB promoter DNA of E. coli\n", 
+        "encodes": "1.0\tcrp\tencodes\tconstitutively active form of CRP protein\n", 
+        "encoding": "0.6441710007193251\tmutant crp * gene\tencoding\tconstitutively active form of CRP\n", 
+        "have": "1.0\tCRP\thave\tparticularly important counterregulatory in\ufb02uence on expression of sS-regulated genes\n", 
+        "induce": "1.0\tSalmonella Choleraesuis crp mutants\tinduce\timmune responses in spleen nodes\n", 
+        "regulate": "1.0\tCRP\tregulate\ttheir respective operators\n", 
+        "regulates": "1.0\tCRP\tregulates\tlogarith-mic-phase gene expression in cAMP-independent manner\n", 
+        "represses": "1.0\tCRP\trepresses\tnumber\n"
+    }, 
+    "crr": {}, 
+    "csga": {
+        "have": "1.0\tUTR.Rv CTCGAGCAGATCTTCTTCAGAAATAAGTTTTTGTTCCGAGATATCTTCCAGAGAACG CTCGAGTGCATTGTTTTAATGGATATG GGATCCAACTTCATTGGCATGCAGGTT AAGACGTGACACACTTCGTTT CAGATCTTCTTCAGAAATAAGTTTTTGTTC GCAGGATAATTTAAGCCGCA TAATCCGCTGACCACGTGTTC AGTTAAAAGTATTTTCGTAAATA CCGGCTAGCGTGACCATGAATACTATGGACTT CAAACGATGCCCGTAAATC TTTAGCGTTCCACTGGTCGA csgA.rt.Fw csgA.rt.Rv csgA CGGTAGTCAACGCTCTGTC GGCCAGAAACGTACCATCGT gyrB.rt.Fw gyrB.rt.Rv gyrB CATCTCATTTCTGTCGCAAAT GACTTGAACAGAATCACACT rprA.Fw rprA.Rv rprANB rprA CACACAGCAATTCGTTGTTTCACTCAGGG 5S RNA CTACGGCGTTTCACTTCTGAGTTC 5SNB RESULTS Deletions\thave\tdifferent effects\n"
+    }, 
+    "csgb": {}, 
+    "csgba": {}, 
+    "csgd": {
+        "activate": "1.0\tphosphorylated CsgD\tactivate\tcsgBA transcription\n", 
+        "activates": "1.0\tunphosphorylated CsgD ef\ufb01ciently\tactivates\t\ufb01mbria production\n", 
+        "affects": "1.0\tCsgD\taffects\tthree-dimensional structure of \ufb02ow cell-formed bio\ufb01lms\n", 
+        "binds to": "1.0\tCsgD\tbinds to\tconserved 11-bp sequences upstream of csgB promoters\n", 
+        "can": "1.0\tCsgD expression\tcan\tOn other hand can modulated epigenetically by secondary messenger c-di-GMP\n", 
+        "contributes to": "1.0\tCsgD\tcontributes to\tcellulose production\n", 
+        "controls": "1.0\tU. Unphosphorylated CsgD\tcontrols\tbio\ufb01lm formation\n", 
+        "have": "1.0\tputative CsgD binding sites\thave\thave found upstream from csgB promoters\n", 
+        "is essential for": "1.0\tCsgD\tis essential for\tc-di-GMP-mediated induction of bio\ufb01lm formation\n", 
+        "is required for": "1.0\tCsgD\tis required for\tcellular aggregation during rdar morphotype development\n", 
+        "positively regulates": "1.0\tCsgD\tpositively regulates\ttranscription\n", 
+        "promotes": "1.0\tCsgD\tpromotes\tprimary attachment to glass surface\n", 
+        "regulate": "1.0\tCsgD\tregulate\tproduction of extracellular matrix components\n", 
+        "regulates": "1.0\tCsgD\tregulates\tserine hydroxymethyltransferase synthesis in Escherichia coli K-12\n"
+    }, 
+    "csid": {}, 
+    "csie": {}, 
+    "csp": {
+        "have": "1.0\tCsp family members\thave\ttheir respective optimal temperature ranges\n"
+    }, 
+    "cspa": {
+        "play role in": "1.0\tCspA\tplay role in\ttranscription antiterminator\n"
+    }, 
+    "cspb": {}, 
+    "cspc": {
+        "play role in": "1.0\tCspC\tplay role in\ttranscription antiterminator\n"
+    }, 
+    "cspe": {
+        "play role in": "1.0\tCspE\tplay role in\ttranscription antiterminator\n"
+    }, 
+    "csph": {
+        "bind to": "1.0\tS. enterica serovar Typhimurium CspH\tbind to\tDNA\n", 
+        "have": "1.0\tcspH promoter regions\thave\tonly 52 % nucleotide identity\n"
+    }, 
+    "csra": {
+        "act as": "0.9819918740430026\tcsrA\tact as\tpositive\n", 
+        "activates": "0.6705252638093239\tRNA binding protein CsrA\tactivates\tcsrB transcription in Escherichia coli\n", 
+        "acts as": "1.0\tCsrA\tacts as\tnegative regulator of invasion\n", 
+        "affect": "1.0\tCsrA\taffect\tposttranscriptional regulation of multiple invasion genes\n", 
+        "affects": "1.0\tCsrA\taffects\texpression of genes under different growth conditions\n", 
+        "bind": "1.0\tCsrB-bound CsrA\tbind\ttarget messages\n", 
+        "bind to": "1.0\tCsrA\tbind to\tits target messages\n", 
+        "binds to": "1.0\tCsrA\tbinds to\tmessages of its targets\n", 
+        "control": "1.0\tCsrA\tcontrol\tmotility-sessility switch in S. Typhimurium at multiple levels\n", 
+        "controls": "1.0\tRNA binding protein CsrA\tcontrols\tcyclic di-GMP metabolism\n", 
+        "have": "1.0\tidentified CsrA mRNA targets\thave\thave demonstrated\n", 
+        "inhibits": "1.0\tCsrA\tinhibits\tbiofilm-associated phenotypes\n", 
+        "is required for": "1.0\tcsrA\tis required for\texpression of hilD\n", 
+        "plays role in": "1.0\tpost-transcriptional regulator CsrA\tplays role in\tadaptation of bacterial pathogens\n", 
+        "positively regulates": "1.0\tcsrA\tpositively regulates\texpression of SPI1 genes\n", 
+        "promotes": "1.0\tCsrA\tpromotes\tmotility\n", 
+        "regulate": "1.0\tRNA-binding protein CsrA\tregulate\tclass 2 expression\n", 
+        "regulates": "1.0\tBabitzke P. CsrA\tregulates\ttranslation of Escherichia coli carbon starvation gene\n", 
+        "represses": "1.0\tRomeo T. CsrA\trepresses\tpgaABCD responsible for synthesis of biofilm polysaccharide adhesin of Escherichia coli\n"
+    }, 
+    "csrb": {
+        "bind": "1.0\tCsrB\tbind\tCsrA\n", 
+        "binds to": "1.0\tT. RNA molecule CsrB\tbinds to\tglobal regulatory protein CsrA\n", 
+        "have": "1.0\tCsrB\thave\tmultiple binding sites for CsrA\n", 
+        "induce": "1.0\tCsrB\tinduce\tgene expression\n", 
+        "play role in": "1.0\tCsrB\tplay role in\tSalmonella shown\n"
+    }, 
+    "csta": {}, 
+    "csta2": {}, 
+    "cuer": {}, 
+    "cutc": {}, 
+    "cyaa": {}, 
+    "cybb": {}, 
+    "cydab": {}, 
+    "cyoabcde": {
+        "encoding": "0.8634519824482029\tcyoABCDE genes\tencoding\tcyto-chrome bo\n"
+    }, 
+    "cysa": {}, 
+    "cysb": {
+        "activate": "1.0\tCysB protein\tactivate\ttranscription initiation\n", 
+        "activates": "1.0\tCysB\tactivates\tin transcription initiation\n", 
+        "bind": "1.0\tCysB protein\tbind\tDNA\n", 
+        "bind to": "1.0\tPurified CysB protein\tbind to\tsequences immediately upstream of -35 regions of S. typhimurium cysJIH\n", 
+        "binding to": "1.0\tCysB\tbinding to\tadjacent sites\n", 
+        "binds to": "1.0\tsingle CysB tetramer\tbinds to\t45-bp site attribute of LysR-type proteins\n", 
+        "encodes": "1.0\tcysB gene\tencodes\tpeptide subunit\n", 
+        "have": "1.0\tSalmonella typhimurium CysB\thave\thave found\n", 
+        "inhibits": "1.0\tCysB protein\tinhibits\ttranscription promoter initiation\n", 
+        "is required for": "1.0\tcysB\tis required for\tef\ufb01cient expression of adi\n", 
+        "positively regulates": "1.0\tCysB\tpositively regulates\tat least six different promoters\n", 
+        "regulates": "1.0\tCysB\tregulates\texpression of Salmonella typhimurium cysteine regulon culminating in incorporation of reduced sulfur into L-cysteine\n"
+    }, 
+    "cysc": {}, 
+    "cyse": {}, 
+    "cysg": {
+        "encodes": "1.0\tEscherichia coli cysG gene\tencodes\tS-adenosylme-thionine-dependent uroporphyrinogen III methylase\n", 
+        "have": "1.0\tfew cysG mutants\thave\thave previously tested for B12 synthesis\n"
+    }, 
+    "cysi": {}, 
+    "cysj": {}, 
+    "cysk": {
+        "have": "1.0\tcysK\thave\teven have demonstrated in species\n"
+    }, 
+    "cysm": {
+        "encodes": "1.0\tcysM\tencodes\tO-acetylserine\n"
+    }, 
+    "cysp": {
+        "encode": "1.0\tcysP\tencode\t13\n", 
+        "have": "1.0\tcysP promoters\thave\tsecond discrete binding sites\n"
+    }, 
+    "cysw": {}, 
+    "cysz": {}, 
+    "dam": {
+        "activates": "1.0\tDam methylation\tactivates\tgene expression in wild type\n", 
+        "acts as": "1.0\tDam methylation\tacts as\ttranscriptional repressor\n", 
+        "affect": "1.0\tDam\taffect\tvirulence\n", 
+        "affects": "1.0\tDam\taffects\thilD mRNA stability consistent with our results\n", 
+        "control": "1.0\tDam methylation\tcontrol\tphase variation systems\n", 
+        "controls": "1.0\tDam methylation\tcontrols\telongation of certain transcripts\n", 
+        "have": "1.0\tDam strains\thave\tmotility defect\n", 
+        "is involved in": "1.0\tDam\tis involved in\tepigenetic phase variation in conjunction with Lrp for phase variation of family of pap \ufb01mbrial operons\n", 
+        "is required for": "1.0\tfunctional Dam\tis required for\tadequate levels of pmrA\n", 
+        "regulate": "1.0\tDam methylation\tregulate\texpression of virulence-related genes\n", 
+        "regulates": "1.0\tDam methylation\tregulates\tinvasion genes of pathogenicity island I\n", 
+        "represses": "1.0\tDam methylation\trepresses\ttraJ transcription effect of hns mutation\n"
+    }, 
+    "dbh": {}, 
+    "dcta": {
+        "encodes": "1.0\tS. typhimurium dctA gene\tencodes\thighly hydrophobic polypeptide of 45.4 kDa\n"
+    }, 
+    "dcub": {}, 
+    "ddg": {}, 
+    "dead": {}, 
+    "degp": {}, 
+    "degs": {
+        "activate": "1.0\tDegS\tactivate\tsigma dependent extracytoplasmic stress response\n"
+    }, 
+    "deoc": {}, 
+    "deor": {
+        "binds to": "1.0\tdeoR repressor\tbinds to\tits natural operator sites\n"
+    }, 
+    "dfp": {}, 
+    "dgoa": {
+        "affect": "1.0\tdgoA\taffect\tresistance to high concentrations of iron in mouse model\n", 
+        "encode": "1.0\tdgoA\tencode\t2-oxo-3-deoxygalactonate-6-phosphate aldolase\n"
+    }, 
+    "dica": {}, 
+    "dinf": {}, 
+    "ding": {
+        "is essential for": "1.0\tDing\tis essential for\tVibrio cholerae virulence\n"
+    }, 
+    "dini": {}, 
+    "djla": {}, 
+    "dksa": {
+        "activates": "1.0\tDksA\tactivates\tPthrABC promoters critical for amino acid synthesis\n", 
+        "affects": "1.0\tDksA\taffects\tppGpp induction of RpoS at translational level\n", 
+        "contribute to": "1.0\tDksA\tcontribute to\tantinitrosative defenses of Salmonella\n", 
+        "contributes to": "1.0\tRNA polymerase binding protein DksA\tcontributes to\tantinitrosative defenses of enteric pathogen S. enterica serovar Typhimurium\n", 
+        "controls": "1.0\tRNA polymerase regulatory protein DksA\tcontrols\tstringent response of eubacteria\n", 
+        "have": "1.0\tDksA\thave\tindependent roles in NO defense\n", 
+        "inhibits": "1.0\tDksA\tinhibits\t\ufb02agellar expression\n", 
+        "plays role in": "1.0\tRNA polymerase regulatory protein DksA\tplays role in\texpression of antioxidant defenses of Salmonella\n", 
+        "regulate": "1.0\tDksA\tregulate\tactivity of extracytoplasmic stress factor sigmaE in Escherichia coli by direct\n", 
+        "regulates": "1.0\tDksA\tregulates\tgene transcription\n"
+    }, 
+    "dnaa": {
+        "affects": "1.0\tDnaA protein\taffects\tfrequency of initiation\n", 
+        "bind to": "1.0\tDnaA proteins\tbind to\tnrd promoter region\n", 
+        "binds to": "1.0\treplication initiator DnaA\tbinds to\tchromosome replication origin\n", 
+        "is involved in": "1.0\tDnaA protein\tis involved in\tassembly of initiation complex\n"
+    }, 
+    "dnac": {}, 
+    "dnaj": {
+        "regulate": "1.0\tDnaJ\tregulate\theat shock gene expression\n"
+    }, 
+    "dnak": {
+        "have": "1.0\tmolecular chaperone DnaK\thave\thave shown\n", 
+        "is essential for": "1.0\tDnaK chaperone machinery\tis essential for\tinvasion of epithelial cells\n", 
+        "is involved in": "1.0\tDnaK chaperone machinery\tis involved in\tcontrol of HilD turnover\n", 
+        "positively regulates": "1.0\tDnaK\tpositively regulates\tclass 2 expression\n", 
+        "regulate": "1.0\tDnaK chaperone\tregulate\tclass 2 expression\n", 
+        "regulates": "1.0\tDnaK\tregulates\tclass 2 expression\n"
+    }, 
+    "doc": {
+        "mediates": "1.0\tDoc\tmediates\tcooperative interactions between adjacent sites\n"
+    }, 
+    "dppa": {}, 
+    "dps": {
+        "bind": "1.0\tDps proteins\tbind\tDNA\n", 
+        "contribute to": "1.0\tOxyR-regulated gene dps\tcontribute to\tSalmonella oxidative stress resistance\n", 
+        "encodes": "1.0\tS-dependent gene dps\tencodes\tferritin-like protein involved in Salmonella resistance to oxidative stress\n", 
+        "have": "1.0\tDps\thave\thave identified in distantly related bacteria\n", 
+        "is required for": "1.0\tferritin-like Dps protein\tis required for\tSalmonella enterica serovar Typhimurium oxidative stress resistance\n"
+    }, 
+    "dsba": {
+        "acts as": "1.0\tDsbA\tacts as\tperiplasmic oxidase\n", 
+        "affect": "1.0\tDsbA\taffect\textracellular enzyme formation in Pseudomonas aeruginosa\n", 
+        "encodes": "1.0\tdsbA\tencodes\tperiplasmic disul\ufb01de bond isomerase\n", 
+        "inhibits": "1.0\tDsbA\tinhibits\tactivation of RcsCDB system\n", 
+        "is essential for": "1.0\tDsbA\tis essential for\tmultiple virulence factors\n", 
+        "is involved in": "1.0\tDsbA\tis involved in\t\ufb02agellar biosynthesis\n", 
+        "is required for": "1.0\tDsbA\tis required for\tstability of type IV pilin of enteropathogenic Escherichia coli\n", 
+        "plays role in": "1.0\tdsbA promoter expression\tplays role in\trepression of dsbA transcription in early-exponential-phase growth\n", 
+        "regulate": "1.0\tDsbA\tregulate\thilA\n"
+    }, 
+    "dsbc": {
+        "affect": "1.0\tDsbC\taffect\textracellular enzyme formation in Pseudomonas aeruginosa\n"
+    }, 
+    "dsbd": {}, 
+    "dsra": {
+        "is involved in": "1.0\tDsrA\tis involved in\trepression of H-NS in mutants\n", 
+        "regulates": "1.0\tDsrA RNA\tregulates\ttranslation of RpoS message\n"
+    }, 
+    "dusb": {
+        "have": "1.0\tdusB\thave\t98 % nucleotide identity\n"
+    }, 
+    "ecnb": {}, 
+    "ecnr": {}, 
+    "eco": {}, 
+    "eda": {
+        "is required for": "1.0\tEda\tis required for\tgrowth of S. Typhi-murium with D-glucuronate as carbon source\n"
+    }, 
+    "elac": {}, 
+    "emrr": {
+        "regulate": "1.0\tEmrR\tregulate\tset of genes involved in multiple antibiotic resistance in E. coli\n"
+    }, 
+    "entc": {}, 
+    "entd": {
+        "is involved in": "1.0\tEntD\tis involved in\tbiosynthesis of iron-acquiring siderophore enterobactin\n"
+    }, 
+    "enve": {}, 
+    "envf": {
+        "plays role in": "1.0\tEnvF\tplays role in\tSalmonella virulence\n"
+    }, 
+    "envy": {
+        "affects": "1.0\tGene envY\taffects\tthermoregulation of major porin expression\n"
+    }, 
+    "envz": {
+        "affect": "1.0\tEnvZ\taffect\thilA expression\n", 
+        "controls": "1.0\tsensor protein EnvZ\tcontrols\tphosphorylation of OmpR\n", 
+        "have": "1.0\tenvZ\thave\troles\n", 
+        "induce": "1.0\tEnvZ\tinduce\texpression of hilA again in manner dependent\n", 
+        "is essential for": "1.0\tenvZ\tis essential for\tSPI2 expression\n", 
+        "is required for": "1.0\tEnvZ\tis required for\tinduction of ssaG-gfp by medium shift\n", 
+        "regulate": "1.0\tEnvZ\tregulate\ttranscription of tppB\n", 
+        "regulates": "1.0\tEnvZ\tregulates\texpression of porins encoded by ompC\n"
+    }, 
+    "envz-ompr": {
+        "activates": "1.0\tEnvZ-OmpR\tactivates\texpression of genes\n", 
+        "regulate": "1.0\tEnvZ-OmpR\tregulate\tthree operons\n"
+    }, 
+    "era": {}, 
+    "euta": {}, 
+    "eutb": {
+        "encode": "1.0\teutB genes\tencode\ttwo subunit types of ethanolamine ammonia t Present address\n"
+    }, 
+    "eutc": {}, 
+    "eutd": {
+        "encodes": "1.0\teutD gene\tencodes\tunknown function\n"
+    }, 
+    "eute": {
+        "encodes": "1.0\teutE gene\tencodes\tsecond enzyme in degradative pathway\n"
+    }, 
+    "eutp": {}, 
+    "eutr": {
+        "activates": "1.0\t14028 eutR\tactivates\teut operon\n", 
+        "can": "1.0\tEutR function\tcan\tcan provided by intact chromosomal eutR gene\n", 
+        "controls": "1.0\tEutR protein\tcontrols\tits own production\n", 
+        "induce": "1.0\teutR mutants\tinduce\ttranscription of eut operon\n", 
+        "is required for": "1.0\teutR gene product\tis required for\tonly induction of eut operon transcription\n", 
+        "plays role in": "1.0\tEutR protein\tplays role in\toperon expression\n"
+    }, 
+    "evga": {}, 
+    "exbb": {
+        "is involved in": "1.0\tExbB\tis involved in\ttransport of several compounds across membrane including ferric siderophores\n"
+    }, 
+    "exo": {}, 
+    "fadb": {
+        "encodes": "1.0\tfadB\tencodes\tenzyme required for b-oxida-tion of LCFA\n"
+    }, 
+    "fadd": {
+        "affect": "1.0\tFadD\taffect\thilA expression\n", 
+        "encodes": "1.0\tfadD\tencodes\tprotein required for import of long-chain fatty acids for activation of LCFA with CoA\n", 
+        "have": "1.0\tfadD\thave\troles\n", 
+        "is required for": "1.0\tFadD\tis required for\tuptake of long-chain fatty acids\n", 
+        "regulate": "1.0\tFadD\tregulate\thilA expression\n"
+    }, 
+    "fadl": {}, 
+    "fadr": {
+        "activates": "1.0\tFadR\tactivates\texpression of fatty acid biosynthesis\n", 
+        "represses": "1.0\tFadR\trepresses\texpression of fatty acid degradation\n"
+    }, 
+    "farr": {
+        "represses": "1.0\tFarR\trepresses\texpression of genes\n"
+    }, 
+    "fdhf": {
+        "mediates": "1.0\tfdhF UAS\tmediates\trepression by nitrate\n"
+    }, 
+    "feoa": {}, 
+    "feob": {
+        "contribute to": "0.152782616924227\tFeoB expression\tcontribute to\tSalmonella 's ability grow under Fe2\n"
+    }, 
+    "feoc": {
+        "bind to": "1.0\tFeoC protein\tbind to\tFeoB transporter\n", 
+        "binds to": "1.0\tFeoC protein\tbinds to\tFeoB transporter\n", 
+        "contributes to": "1.0\tFeoC protein\tcontributes to\tincrease in FeoB protein levels at posttranslational level\n", 
+        "regulates": "1.0\tFeoC protein\tregulates\ttranscription of feoB gene\n"
+    }, 
+    "fepa": {}, 
+    "fepd": {}, 
+    "fhla": {}, 
+    "fhua": {
+        "encode": "1.0\tfhuA\tencode\tcomponents of hydroxamate-dependent iron transport system\n"
+    }, 
+    "fhub": {}, 
+    "fhuc": {
+        "encode": "1.0\tfhuC\tencode\tcomponents of hydroxamate-dependent iron transport system\n"
+    }, 
+    "fhucdb": {
+        "mediates": "1.0\tFhuCDB\tmediates\ttransport of ferrioxamine\n"
+    }, 
+    "fhue": {}, 
+    "fhuf": {}, 
+    "fidl": {}, 
+    "fima": {
+        "activate": "1.0\tfimA promoter\tactivate\tits expression\n"
+    }, 
+    "fimb": {
+        "mediates": "1.0\tFimB\tmediates\trecombination\n"
+    }, 
+    "fimc": {}, 
+    "fimd": {}, 
+    "fimf": {
+        "encode": "1.0\tfimF\tencode\tminor fimbrial components\n"
+    }, 
+    "fimh": {
+        "encode": "1.0\tfimH\tencode\tminor fimbrial components\n"
+    }, 
+    "fimi": {}, 
+    "fimw": {
+        "act as": "1.0\tFimW\tact as\ttranscriptional coactivator\n", 
+        "bind to": "1.0\tFimW\tbind to\tDNA\n", 
+        "have": "1.0\tFimW\thave\twider regulatory role\n", 
+        "inhibits": "1.0\tFimW\tinhibits\tFimZ-dependent activation of \ufb01m promoters\n", 
+        "is involved in": "1.0\tFimW\tis involved in\tserovar Typhimurium type 1 \ufb01mbrial regulation\n", 
+        "regulate": "1.0\tFimW\tregulate\t\ufb01m gene expression\n", 
+        "regulates": "1.0\tFimW\tregulates\t\ufb01m gene expression\n", 
+        "represses": "1.0\t\ufb01mW FimW\trepresses\texpression from P promoter\n"
+    }, 
+    "fimy": {
+        "act as": "1.0\tFimY\tact as\ttranscriptional coactivator\n", 
+        "activate": "1.0\tFimY\tactivate\t\ufb01mA expression\n", 
+        "activates": "1.0\tFimY\tactivates\texpression of P\ufb01mW promoter\n", 
+        "have": "1.0\tFimY\thave\thave previously shown\n", 
+        "is involved in": "0.6000899191122763\tFimY\tis involved in\tphosphorylation of FimZ\n", 
+        "plays role in": "1.0\tFimY polypeptide\tplays role in\t\ufb01mbrial expression in two independent isolates\n", 
+        "regulate": "1.0\tFimY\tregulate\tfimbrial production\n"
+    }, 
+    "fimz": {
+        "activate": "1.0\tFimZ\tactivate\tfimA expression in S. Typhimurium\n", 
+        "activates": "1.0\tFimZ regulator\tactivates\texpression of fimAICDHF operon\n", 
+        "acts as": "1.0\tFimZ\tacts as\tpositive regulator of \ufb01mA\n", 
+        "affect": "1.0\tFimZ\taffect\texpression of \ufb01mY\n", 
+        "affects": "1.0\tFimz production\taffects\tability of S. enterica serovar Typhi-murium \ufb01mz2\n", 
+        "bind": "1.0\tFimZ\tbind\tP\ufb01mA promoter\n", 
+        "bind to": "1.0\tFimZ\tbind to\t\ufb01mA promoter\n", 
+        "binding to": "1.0\tFimZ transcriptional factor\tbinding to\tfimA promoter\n", 
+        "binds to": "1.0\tFimZ protein\tbinds to\t\ufb01mA promoter\n", 
+        "controls": "1.0\tFimZ\tcontrols\tdynamics of SPI1 gene expression\n", 
+        "inhibits": "1.0\tFimZ\tinhibits\tmotility\n", 
+        "is required for": "1.0\tFimZ\tis required for\tfimA expression\n", 
+        "mediates": "1.0\tFimZ\tmediates\t\ufb01mA expression\n", 
+        "positively regulates": "1.0\tFimZ\tpositively regulates\tits own transcription\n", 
+        "regulate": "1.0\tFimZ\tregulate\texpression of its own gene\n", 
+        "regulates": "1.0\tFimZ\tregulates\tdynamics of SPI1 gene expression\n", 
+        "represses": "1.0\tFimZ\trepresses\texpression of \ufb02agellar genes\n"
+    }, 
+    "fino": {}, 
+    "finp": {}, 
+    "fis": {
+        "activates": "1.0\tFis\tactivates\tRpoS-dependent station-ary-phase expression of proP in Escherichia coli\n", 
+        "acts as": "1.0\tFis\tacts as\trepressor of PrpoS promoter\n", 
+        "affect": "1.0\tFis\taffect\tderepression of hilA by HilD\n", 
+        "affects": "1.0\tFis\taffects\texpression of H2 \ufb02agellar gene\n", 
+        "bind": "1.0\tFis\tbind\toriC\n", 
+        "bind to": "1.0\tFuchs JA Escherichia coli Fis\tbind to\tnrd promoter region\n", 
+        "binding to": "1.0\tFis protein\tbinding to\t\ufb01s promoter\n", 
+        "binds to": "1.0\tFis\tbinds to\tsix sites within E. coli \ufb01s promoter region\n", 
+        "contribute to": "1.0\tFis\tcontribute to\tinvasion ability of S. enterica\n", 
+        "contributes to": "1.0\tFIS\tcontributes to\ttranscriptional activation of promoters\n", 
+        "controls": "1.0\tFis\tcontrols\ttranscription of 303 genes\n", 
+        "have": "1.0\tCharacterized Fis sites\thave\ttotal scores for random sequences average 0\n", 
+        "is involved in": "1.0\tFis\tis involved in\tSalmonella typhimurium SPI-1 invasion gene expression\n", 
+        "is required for": "1.0\tFis\tis required for\tproper regulation of ssaG expression in Salmonella enterica serovar Typhi-murium\n", 
+        "play role in": "1.0\tFis\tplay role in\tinitiation of DNA replication\n", 
+        "plays role in": "1.0\tFis\tplays role in\tTn5\n", 
+        "regulate": "1.0\tFis\tregulate\texpression\n", 
+        "regulates": "1.0\tElliott T. Fis\tregulates\ttranscriptional induction of RpoS in Salmonella enterica\n", 
+        "represses": "1.0\tFis\trepresses\ttranscription from PrpoS\n"
+    }, 
+    "flag": {
+        "binding to": "0.7716285039874085\tC-terminal FLAG tag\tbinding to\tompC\n", 
+        "have": "0.7186869976510638\t3 FLAG alleles\thave\thave transduced respectively\n"
+    }, 
+    "flga": {
+        "is required for": "1.0\tFlgA protein\tis required for\tP-ring assembly\n"
+    }, 
+    "flgd": {
+        "acts as": "1.0\tFlgD protein\tacts as\tscaffold for hook subunits\n"
+    }, 
+    "flge": {}, 
+    "flgh": {}, 
+    "flgi": {}, 
+    "flgj": {}, 
+    "flgk": {}, 
+    "flgkl": {}, 
+    "flgl": {
+        "bind to": "1.0\tFlgL\tbind to\tFlgN\n"
+    }, 
+    "flgm": {
+        "act as": "1.0\tFlgM\tact as\tanti-sigma factor\n", 
+        "acts as": "1.0\tFlgM\tacts as\tanti-sigma factor\n", 
+        "affect": "1.0\tFlgM\taffect\ts28 activity\n", 
+        "bind": "1.0\tFlgM\tbind\tnumbers\n", 
+        "binding to": "1.0\tFlgM\tbinding to\tamino-terminal conserved s regions\n", 
+        "binds to": "1.0\tFlgM protein\tbinds to\ts28\n", 
+        "can": "1.0\tCytoplasmic FlgM\tcan\tcan targeted to \ufb02agellar secretion channel through amino acid secretion signals\n", 
+        "determine": "1.0\tlabeled FlgM\tdetermine\tloss of Flk results in increase in FlgM turnover in P-and L-ring mutant strains\n", 
+        "encodes": "1.0\tflgM\tencodes\tdiffusible protein product\n", 
+        "inhibits": "1.0\tFlgM protein\tinhibits\t\ufb02agellum-speci\ufb01c transcription factor s28\n", 
+        "is essential for": "1.0\tflgM gene\tis essential for\tcomplementation\n", 
+        "mediates": "1.0\tFlgM protein\tmediates\tits negative regulation of flagellin genes presumably of class 3 operons interacting with U25\n", 
+        "regulates": "1.0\tflgM gene product\tregulates\tflagellin-specific sigma factor\n"
+    }, 
+    "flgmn": {}, 
+    "flgn": {
+        "bind": "1.0\tsecretion chaperone FlgN\tbind\tclass 3 \ufb02gM transcript\n", 
+        "bind to": "1.0\t\ufb02agellar FlgN chaperone\tbind to\tsecretion apparatus\n", 
+        "have": "1.0\tFlgN proteins\thave\thave reported\n", 
+        "regulate": "1.0\tFlgN\tregulate\ttranslation of class 3-speci\ufb01c anti-sigma factor gene \ufb02gM\n", 
+        "regulates": "1.0\ttype III secretion chaperone FlgN\tregulates\t\ufb02agellar assembly\n"
+    }, 
+    "flha": {}, 
+    "flhb": {
+        "acts as": "1.0\tFlhB C-terminal homologue HP1575\tacts as\tspare part\n", 
+        "affect": "1.0\tHelicobacter pylori FlhB processing-deficient variants\taffect\tflagellar gene expression\n", 
+        "can": "1.0\tFlhB protein\tcan\tcan altered\n", 
+        "regulates": "1.0\tFlhB\tregulates\tordered export of flagellar components\n"
+    }, 
+    "flhc": {
+        "bind to": "1.0\tFlhC\tbind to\tDNA region upstream of class 2 promoter\n"
+    }, 
+    "flhd": {
+        "regulates": "1.0\tEscherichia coli \ufb02agellar transcriptional activator FlhD\tregulates\tcell division\n"
+    }, 
+    "flhdc": {
+        "activates": "1.0\tFlhDC complex\tactivates\tclass 2 promoter transcription\n", 
+        "encode": "1.0\tflhDC\tencode\tgenes required for hook-basal body formation\n", 
+        "encoding": "0.5266687325145608\tflhDC\tencoding\tmaster transcriptional regulator FlhD4C2\n", 
+        "play role in": "1.0\tFlhDC\tplay role in\ttranscriptional regulation of genes\n", 
+        "regulates": "1.0\tFlhDC\tregulates\tclass 2 genes\n"
+    }, 
+    "flhe": {
+        "encode": "1.0\tflhE genes\tencode\tproteins of approximately 14 kDa\n", 
+        "have": "1.0\tFlhE proteins\thave\tputative signal peptidase I leader sequence indicative of periplasmic location\n"
+    }, 
+    "flia": {
+        "activate": "1.0\tFliA\tactivate\ttranscription of late assembly genes from class 3 promoter\n", 
+        "activates": "1.0\tFliA\tactivates\tproteins required for chemotaxis of \ufb01lament\n", 
+        "acts as": "1.0\tFliA\tacts as\tsigma factor\n", 
+        "affects": "1.0\t\ufb02agellar sigma factor FliA\taffects\tbacterial invasion of epithelial cells\n", 
+        "control": "1.0\tFliA\tcontrol\ttranscription of hilA\n", 
+        "encodes": "1.0\tIino T. Gene fliA\tencodes\talternative sigma factor specific for flagellar operons in Salmonella typhimurium\n", 
+        "have": "1.0\tfliA mutants insensitive toflgM regulation\thave\tRecently have isolated\n", 
+        "induce": "1.0\tFliA\tinduce\texpression of late genes\n", 
+        "is involved in": "1.0\tFliA\tis involved in\tvirulence\n", 
+        "is required for": "1.0\tFliA\tis required for\tonly its enhancement in FlgM-depletion condition\n", 
+        "play role in": "1.0\tFliA\tplay role in\ttranscriptional regulation of genes\n", 
+        "regulates": "1.0\t\ufb02agellar sigma factor FliA 28\tregulates\texpression of Salmonella genes associated with centisome 63 type III secretion system\n"
+    }, 
+    "flib": {}, 
+    "flic": {}, 
+    "flid": {
+        "bind to": "1.0\tFliD\tbind to\tFliT\n", 
+        "regulates": "1.0\tFliD\tregulates\tFliT activity\n"
+    }, 
+    "flidst": {}, 
+    "flif": {}, 
+    "flig": {}, 
+    "flih": {
+        "inhibits": "1.0\tOrgB-related \ufb02agellar protein FliH\tinhibits\tits ATPase activity\n"
+    }, 
+    "flii": {}, 
+    "flik": {
+        "act as": "1.0\tFliK proteins\tact as\tmolecular rulers\n", 
+        "is required for": "1.0\tFliK\tis required for\tswitch in substrate specificity\n", 
+        "regulates": "1.0\tFliK\tregulates\tswitching of substrate specificity\n"
+    }, 
+    "flil": {}, 
+    "flim": {}, 
+    "flin": {}, 
+    "flis": {}, 
+    "flit": {
+        "act as": "1.0\tFliT\tact as\t* Corresponding author\n", 
+        "acts as": "1.0\tFliT\tacts as\tanti-FlhD C factor 2 2\n", 
+        "bind": "1.0\tFliT\tbind\tFlhDC complex\n", 
+        "binding to": "0.8058714169154989\tFliT\tbinding to\tDNA\n", 
+        "binds to": "1.0\tFliT\tbinds to\tFlhD2C2\n", 
+        "inhibits": "1.0\tFliT\tinhibits\tbinding of FlhD2C2 to class 2 promoter\n"
+    }, 
+    "fliz": {
+        "act as": "1.0\tFliZ\tact as\tpositive regulator\n", 
+        "activates": "1.0\texpressed FliZ protein\tactivates\ttranscription from P1 promoter\n", 
+        "acts as": "1.0\tFliZ\tacts as\trepressor of its transcription\n", 
+        "affect": "1.0\tFliZ\taffect\tSPI1 expression in dsbA mutant\n", 
+        "affects": "1.0\tFliZ\taffects\tactivation process of class 2 operons\n", 
+        "bind to": "1.0\tFliZ\tbind to\tpromoter region of \ufb02hDC operon\n", 
+        "binding to": "1.0\tFliZ\tbinding to\t\ufb02hDC promoter\n", 
+        "binds to": "1.0\tFliZ\tbinds to\tpromoter region of nlpC-ydiV operon\n", 
+        "contributes to": "1.0\tFliZ\tcontributes to\tinvasion mechanism of virulence\n", 
+        "control": "1.0\tFliZ\tcontrol\thilA expression\n", 
+        "controls": "1.0\tFliZ\tcontrols\tcellular levels of transcriptional regulators\n", 
+        "encoding": "1.0\tFliZ\tencoding\tclass III-speci\ufb01c sigma factor\n", 
+        "have": "1.0\tFliZ\thave\thave previously shown\n", 
+        "is involved in": "1.0\tFliZ\tis involved in\tregulation of many cellular processes\n", 
+        "is required for": "1.0\tFliZ\tis required for\tef\ufb01cient expression of class 2 \ufb02agellar operons in poor medium in Salmonella\n", 
+        "mediates": "1.0\t\ufb02agellar regulator FliZ\tmediates\tregulation\n", 
+        "plays role in": "1.0\tFliZ\tplays role in\tregulation of SPI1 in response to periplasmic disul\ufb01de bond status\n", 
+        "positively regulates": "1.0\tFliZ\tpositively regulates\thilA expression thus serving as important connection between \ufb02agellar systems\n", 
+        "regulate": "1.0\tFliZ\tregulate\tthree very different transcriptional regulators\n", 
+        "regulates": "1.0\tFliZ\tregulates\thilA expression thus serving as important connection between \ufb02agellar systems\n", 
+        "represses": "1.0\tFliZ\trepresses\tydiV transcription from nlpC promoter\n"
+    }, 
+    "flja": {
+        "bind": "1.0\tFljA\tbind\tRNA\n", 
+        "bind to": "1.0\tPuri\ufb01ed His-tagged FljA protein\tbind to\t\ufb02iC mRNA\n", 
+        "binding to": "1.0\tFljA\tbinding to\toperator site on DNA\n", 
+        "binds to": "1.0\tFljA\tbinds to\ttranslationinitiation region of fliC 5 UTR\n", 
+        "control": "1.0\tFljA\tcontrol\tfliC mRNA translation\n", 
+        "controls": "1.0\tFljA\tcontrols\tlater use of FliC protein\n", 
+        "encoding": "1.0\tfljA gene\tencoding\trHl\n", 
+        "inhibits": "1.0\tFljA\tinhibits\ttranslation of posttranslational use of FliC flagellin\n"
+    }, 
+    "fljb": {
+        "have": "1.0\tFljB synthesis\thave\teffect\n"
+    }, 
+    "flk": {
+        "acts as": "1.0\tFlk\tacts as\tregulator of flagellar gene expression\n", 
+        "bind": "1.0\tFlk\tbind\tribosomes\n", 
+        "determine": "1.0\ttwo plasmid-encoded flk constructs\tdetermine\teffect of C-terminal hydrophobic tail on membrane localization Flk\n", 
+        "inhibits": "1.0\tFlk\tinhibits\tFlgM secretion\n", 
+        "is involved in": "1.0\tFlk\tis involved in\tdouble-lock gating mechanism for flagellar-associated T3S apparatus\n", 
+        "plays role in": "1.0\tFlk\tplays role in\ttransition from export of hook subunits to export of class 3 proteins including \ufb02agel-lin\n", 
+        "regulate": "1.0\tFlk protein\tregulate\t\ufb02gM mRNA translation\n", 
+        "regulates": "1.0\tmembrane protein Flk\tregulates\ttranslation of \ufb02agellum-speci\ufb01c anti-sigma factor\n"
+    }, 
+    "fnr": {
+        "activate": "1.0\tFnr\tactivate\tSPI1 genes\n", 
+        "activates": "1.0\tFNR\tactivates\tgenes required for anaerobic metabolism of pyruvate\n", 
+        "acts as": "1.0\tFnr\tacts as\tcytoplasmic oxygen sensor\n", 
+        "binding to": "1.0\tFNR\tbinding to\tCF site\n", 
+        "contribute to": "1.0\tfnr\tcontribute to\tdesiccation tolerance\n", 
+        "contributes to": "1.0\tFnr\tcontributes to\tactivation of ftnB\n", 
+        "control": "1.0\tfnr\tcontrol\texpression of anaerobic respiratory genes\n", 
+        "induce": "1.0\tFnr\tinduce\tftnB\n", 
+        "is required for": "1.0\tfnr gene product\tis required for\tanaerobic induction of nitrate reductase\n", 
+        "plays role in": "1.0\tFnr\tplays role in\tpathogenesis\n", 
+        "positively regulates": "1.0\tFNR\tpositively regulates\texpression of several loci involved in \ufb02agellar biosynthesis\n", 
+        "promotes": "1.0\toxygen-sensing Fnr regulator\tpromotes\tfeoB transcription\n", 
+        "regulate": "1.0\tFnr\tregulate\ttranscription of hybABCDEFG\n", 
+        "regulates": "1.0\tFNR\tregulates\texpression of several loci involved in \ufb02agellar biosynthesis\n", 
+        "represses": "0.3571142505278733\tFNR\trepresses\tgenes required for utilization of L-lactate for production oxaloacetate from phosphoenol-pyruvate\n"
+    }, 
+    "fold": {}, 
+    "foxa": {}, 
+    "fpr": {}, 
+    "frua": {}, 
+    "frub": {}, 
+    "fruf": {}, 
+    "frur": {
+        "bind to": "1.0\tFruR\tbind to\thairpin structure\n"
+    }, 
+    "ftnb": {}, 
+    "ftsh": {
+        "controls": "1.0\tFtsH protease\tcontrols\tFeoB levels\n", 
+        "is involved in": "1.0\tFtsH protease\tis involved in\tMgtC negative regulation mediated by MgtR\n", 
+        "plays role in": "1.0\tFtsH\tplays role in\tMgtC degradation\n"
+    }, 
+    "ftsk": {}, 
+    "ftsz": {}, 
+    "fuma": {}, 
+    "fur": {
+        "act as": "1.0\tFur\tact as\tpositive regulator of pH-regulated locus\n", 
+        "activate": "1.0\tiron-regulatory protein Fur\tactivate\t\ufb02agellar transcription\n", 
+        "activates": "1.0\tFur\tactivates\thilA transcription\n", 
+        "acts as": "1.0\tFur\tacts as\trepressor of genes required for iron homeostasis\n", 
+        "affect": "1.0\tFur\taffect\texpression of genes in apparent iron-independent fashion\n", 
+        "affects": "1.0\tFur\taffects\tthreshold of HilD required\n", 
+        "binding to": "0.8220464122468529\tFur\tbinding to\tpromoter sequences in vitro\n", 
+        "contribute to": "1.0\tFur\tcontribute to\tantinitrosative defenses of Salmonella\n", 
+        "contributes to": "1.0\tFur\tcontributes to\tSalmonella pathogenesis in acute model of infection\n", 
+        "control": "1.0\tFur\tcontrol\tstep in biosynthesis of ALA.\n", 
+        "controls": "1.0\tFur\tcontrols\tinnate mechanism of detoxi\ufb01cation of NO\n", 
+        "encoding": "1.0\tSinorhizobium meliloti fur gene\tencoding\tmetal-type transporter\n", 
+        "has role in": "1.0\tFur\thas role in\tcell\n", 
+        "is involved in": "0.44101916194641844\tFur\tis involved in\tmanganese-dependent regulation of mntA in Sinorhizobium meliloti\n", 
+        "is required for": "1.0\tet al. Fur\tis required for\texpression of HilA in Salmonella enterica serovar Typhimurium\n", 
+        "mediates": "1.0\tFur\tmediates\tFe2 repression of mntH\n", 
+        "play role in": "1.0\tFur protein\tplay role in\tstress resistance alterations induced in same model\n", 
+        "plays role in": "1.0\tFur\tplays role in\tmetal regulation of hilA\n", 
+        "regulate": "1.0\tFur\tregulate\tacid shock genes\n", 
+        "regulates": "0.8621143863015562\tFur\tregulates\texpression of Salmonella pathogenicity island 1 type III secretion system\n", 
+        "represses": "1.0\tiron-sensing Fur regulator\trepresses\tfeoB transcription\n"
+    }, 
+    "fusa": {}, 
+    "fxsa": {}, 
+    "gadw": {}, 
+    "gadx": {}, 
+    "gale": {
+        "can": "1.0\tgalE mutants\tcan\tcan infected by E. coli-spe-ci\ufb01c phage P1\n"
+    }, 
+    "galk": {}, 
+    "galr": {}, 
+    "galt": {}, 
+    "gap": {}, 
+    "gapa": {}, 
+    "gark": {}, 
+    "gatc": {
+        "affect": "1.0\tGATC mutations\taffect\texpression\n", 
+        "can": "1.0\tregulatory GATC sites\tcan\tcan located in promoter in upstream regulatory regions in operator\n"
+    }, 
+    "gcva": {}, 
+    "gcvb": {
+        "encodes": "1.0\tgcvB gene\tencodes\tsmall untranslated RNA involved in expression of dipeptide transport systems in Escherichia coli\n", 
+        "regulates": "1.0\tGcvB\tregulates\texpression of multiple ABC transporters of amino acids\n"
+    }, 
+    "gdh": {}, 
+    "gdha": {}, 
+    "ggt": {}, 
+    "glgs": {}, 
+    "glms": {}, 
+    "glmus": {}, 
+    "glna": {}, 
+    "glng": {}, 
+    "glnl": {}, 
+    "glnq": {}, 
+    "glpabc": {}, 
+    "glpb": {
+        "encode": "1.0\tglpB\tencode\tsubunits of anaerobic dimethyl sulfoxide reductase\n"
+    }, 
+    "glpc": {}, 
+    "glpd": {}, 
+    "glpk": {}, 
+    "glrk": {}, 
+    "glrr": {
+        "activates": "1.0\tGlrR\tactivates\ts54-promoter\n", 
+        "bind to": "1.0\tpuri\ufb01ed GlrR protein\tbind to\tpromoters\n", 
+        "binds to": "1.0\tGlrR\tbinds to\tthree activator binding sites present upstream\n", 
+        "regulate": "1.0\tGlrR\tregulate\tglmZ genes of S. typhimurium\n"
+    }, 
+    "gltb": {}, 
+    "gltd": {}, 
+    "glya": {
+        "encode": "1.0\tglyA genes\tencode\tenzymes\n"
+    }, 
+    "gmk": {}, 
+    "gmm": {}, 
+    "gnd": {
+        "encodes": "1.0\tgnd gene\tencodes\t6-phosphogluconate of dehydrogenase\n"
+    }, 
+    "gntt": {}, 
+    "gogb": {}, 
+    "gor": {}, 
+    "groel": {
+        "have": "1.0\tGroEL\thave\tConsistently have shown\n"
+    }, 
+    "groes": {
+        "regulate": "1.0\tGroES chaperone machineries\tregulate\t32\n"
+    }, 
+    "grpe": {
+        "regulate": "1.0\tGrpE heat shock proteins\tregulate\theat shock gene expression\n"
+    }, 
+    "gsha": {
+        "encodes": "1.0\tgshA\tencodes\tg-glutamylcysteine synthetase\n"
+    }, 
+    "gst": {}, 
+    "gtge": {}, 
+    "gtra": {
+        "encode": "1.0\tgtrA genes\tencode\tmembrane proteins\n"
+    }, 
+    "guac": {}, 
+    "gyra": {
+        "contribute to": "1.0\tsingle gyrA mutation\tcontribute to\tnalidixic acid resistance\n", 
+        "have": "1.0\tgyrA mutations\thave\tadditionally have shown\n"
+    }, 
+    "gyrb": {
+        "have": "1.0\tUTR.Rv CTCGAGCAGATCTTCTTCAGAAATAAGTTTTTGTTCCGAGATATCTTCCAGAGAACG CTCGAGTGCATTGTTTTAATGGATATG GGATCCAACTTCATTGGCATGCAGGTT AAGACGTGACACACTTCGTTT CAGATCTTCTTCAGAAATAAGTTTTTGTTC GCAGGATAATTTAAGCCGCA TAATCCGCTGACCACGTGTTC AGTTAAAAGTATTTTCGTAAATA CCGGCTAGCGTGACCATGAATACTATGGACTT CAAACGATGCCCGTAAATC TTTAGCGTTCCACTGGTCGA csgA.rt.Fw csgA.rt.Rv csgA CGGTAGTCAACGCTCTGTC GGCCAGAAACGTACCATCGT gyrB.rt.Fw gyrB.rt.Rv gyrB CATCTCATTTCTGTCGCAAAT GACTTGAACAGAATCACACT rprA.Fw rprA.Rv rprANB rprA CACACAGCAATTCGTTGTTTCACTCAGGG 5S RNA CTACGGCGTTTCACTTCTGAGTTC 5SNB RESULTS Deletions\thave\tdifferent effects\n"
+    }, 
+    "h-ns": {
+        "act as": "1.0\tH-NS\tact as\ttranscriptional repressor\n", 
+        "activate": "1.0\tH-NS\tactivate\tclass 1 expression\n", 
+        "acts as": "1.0\tH-NS\tacts as\tpleiotropic regulator of gene expression\n", 
+        "affects": "1.0\tH-NS\taffects\thilD mRNA levels\n", 
+        "bind": "1.0\tnucleoid associated protein H-NS\tbind\tAT-rich sequences of HGT DNA of genes\n", 
+        "bind to": "1.0\tH-NS protein\tbind to\tAT-rich genes in two different S. typhimurium strains grown in two distinct media\n", 
+        "binding to": "1.0\tH-NS\tbinding to\tcurved AT-rich DNA region upstream of leuO promoter\n", 
+        "binds to": "1.0\tH-NS\tbinds to\tmany Salmonella genes acquired by lateral gene transfer\n", 
+        "can": "1.0\tH-NS\tcan\tSecond can out-competed by DNA-binding proteins with higher binding affinity\n", 
+        "control": "1.0\tH-NS nucleoprotein complexes\tcontrol\thylE expression in Escherichia coli K-12\n", 
+        "controls": "1.0\tH-NS\tcontrols\tgene expression\n", 
+        "have": "1.0\tDNA-binding protein H-NS\thave\trelated functions\n", 
+        "is essential for": "1.0\tH-NS\tis essential for\tprevention of decreased \ufb01tness associated with uncontrolled expression of pathogenicity island genes\n", 
+        "is involved in": "1.0\tH-NS\tis involved in\tadaptative response of bacterial cells to changes in environmental factors\n", 
+        "is required for": "1.0\tnucleoid-associated DNA-binding protein H-NS\tis required for\tef\ufb01cient adaptation of Escherichia coli to cold environment\n", 
+        "mediates": "1.0\tet al. H-NS\tmediates\tsilencing of laterally acquired genes in bacteria\n", 
+        "plays role in": "1.0\tH-NS dsbA\tplays role in\tproper folding of many proteins\n", 
+        "regulate": "1.0\tH-NS\tregulate\texpression\n", 
+        "regulates": "1.0\tH-NS\tregulates\thilA expression in Salmonella serovar Typhimurium\n", 
+        "represses": "1.0\tH-NS\trepresses\texpression of virulence genes present on pathogenicity islands in various Gram-negative bacteria including Salmonella\n"
+    }, 
+    "hcp": {
+        "have": "1.0\thcp hcr genes\thave\tLike ytfE have also shown\n"
+    }, 
+    "hcr": {
+        "have": "1.0\thcp hcr genes\thave\tLike ytfE have also shown\n"
+    }, 
+    "hdeb": {
+        "encodes": "1.0\thdeB\tencodes\tacid stress chaperone\n"
+    }, 
+    "hdfr": {
+        "activates": "1.0\tHdfR\tactivates\tstd transcription\n"
+    }, 
+    "hema": {
+        "can": "1.0\tHemA enzyme\tcan\tcan accumulated\n", 
+        "encodes": "1.0\themA gene\tencodes\tglutamyl-tRNA reductase\n", 
+        "have": "1.0\themA mutants\thave\tsame growth characteristics\n"
+    }, 
+    "hemb": {}, 
+    "heme": {
+        "is essential for": "1.0\theme\tis essential for\tactivity of cytochromes in respiratory chains\n", 
+        "is required for": "1.0\tHeme\tis required for\tgrowth on nonfermentable carbon sources\n", 
+        "plays role in": "1.0\theme\tplays role in\tdefense against toxic oxygen metabolite H2O2\n"
+    }, 
+    "hemf": {
+        "encode": "1.0\themF\tencode\toxygen-dependent cop-roporphyrinogen oxidase similar to yeast enzyme\n", 
+        "encodes": "1.0\themF gene\tencodes\toxygen-dependent coproporphyrinogen oxidase\n", 
+        "have": "1.0\themF\thave\tits own weak insertion ~ ~ ~ aciit\n"
+    }, 
+    "hemh": {
+        "encodes": "1.0\themH gene\tencodes\tredundant ferrochelatase activity\n", 
+        "have": "1.0\themH mutants\thave\tHowever have isolated in S. typhimunum\n"
+    }, 
+    "heml": {}, 
+    "hemn": {
+        "encodes": "1.0\themN gene\tencodes\toxygen-independent coproporphyrinogen oxidase\n"
+    }, 
+    "hfq": {
+        "affects": "1.0\tHfq\taffects\tintrinsic acri\ufb02avine resistance of Salmonella\n", 
+        "bind": "1.0\tHfq protein\tbind\tRho\n", 
+        "binding to": "0.8058714169154989\tHfq\tbinding to\ttranslational initiation region of target\n", 
+        "binds to": "1.0\tHfq\tbinds to\tRNA molecules\n", 
+        "contributes to": "1.0\tHfq\tcontributes to\tpolarity suppression in rho mutants\n", 
+        "control": "1.0\tHfq\tcontrol\tSalmonella gene expression at post-transcriptional level\n", 
+        "controls": "1.0\tHfq\tcontrols\texpression of Salmonella genes in several horizontally acquired pathogenicity islands\n", 
+        "have": "1.0\thfq cells\thave\tsevenfold-reduced levels of hilC\n", 
+        "is essential for": "1.0\tRNA chaperone Hfq\tis essential for\tvirulence of Salmonella typhimurium\n", 
+        "is involved in": "1.0\tHfq\tis involved in\tbacterial space flight response confirmed in ground-based model of microgravity conditions\n", 
+        "is required for": "1.0\tfunctional hfq gene\tis required for\tef\ufb01cient translation of sta-tionary-phase sigma factor RpoS\n", 
+        "mediates": "1.0\tSm-like RNA chaperone Hfq\tmediates\ttranscription antitermination\n", 
+        "play role in": "1.0\tHfq\tplay role in\tregulation of translational machinery itself\n", 
+        "plays role in": "1.0\tconserved RNA-binding protein Hfq\tplays role in\tmicrobial response to space flight conditions\n", 
+        "positively regulates": "1.0\tHfq\tpositively regulates\tproduction of AcrB drug ef\ufb02ux pump\n", 
+        "promotes": "1.0\tHfq\tpromotes\texpression of large class of ribosomal structural protein genes\n", 
+        "regulate": "1.0\tHfq\tregulate\texpression within host\n", 
+        "regulates": "1.0\tSm-like protein Hfq\tregulates\tpolyadenylation dependent mRNA decay in Escherichia coli\n", 
+        "represses": "1.0\tHfq\trepresses\ttranslation of genes\n"
+    }, 
+    "hha": {
+        "activate": "1.0\tHha\tactivate\tgene expression\n", 
+        "acts as": "1.0\thistonelike protein Hha\tacts as\trepressor of hilA\n", 
+        "affects": "0.9862907536940843\tHha\taffects\tregulators\n", 
+        "bind to": "1.0\tpuri\ufb01ed Hha protein\tbind to\thilA DNA promoter fragment\n", 
+        "binding to": "1.0\tNucleoid protein Hha\tbinding to\tH-NS\n", 
+        "binds to": "1.0\tHha protein\tbinds to\thilA upstream regulatory sequences\n", 
+        "contributes to": "1.0\tHha paralogue YdgT\tcontributes to\tmodulation of virulence genes in S. enterica serovar Typhimurium SPI2\n", 
+        "encodes": "1.0\thha\tencodes\tnegative regulator of serovar Typhimurium hilA invasion transcriptional activator\n", 
+        "have": "1.0\tHha\thave\trole\n", 
+        "plays role in": "1.0\thha\tplays role in\thilA expression\n", 
+        "regulate": "1.0\tHha proteins\tregulate\t\ufb02agellar genes\n", 
+        "regulates": "1.0\tHha\tregulates\tSalmonella enterica serovar Typhimurium hilA modulator of Salmonella pathogenicity island 1\n", 
+        "represses": "1.0\tHha\trepresses\tSPI1 expression\n"
+    }, 
+    "hila": {
+        "act as": "1.0\tHilA\tact as\tactivator for sicA gene\n", 
+        "activate": "1.0\tHilA\tactivate\texpression from invF promoters\n", 
+        "activates": "1.0\tHilA\tactivates\ttranscription o invFA required for secretion of effector proteins\n", 
+        "acts as": "1.0\tHilA\tacts as\tcentral regulator of HilA regulon\n", 
+        "affect": "1.0\tHilA\taffect\tSPI4 expression\n", 
+        "affects": "1.0\thilA\taffects\texpression of invF\n", 
+        "bind": "1.0\tHilA\tbind\tPsprB promoter\n", 
+        "bind to": "1.0\tHilA\tbind to\tneighboring sites\n", 
+        "binding to": "1.0\tHilA\tbinding to\tPhilA promoter\n", 
+        "binds to": "1.0\tHilA\tbinds to\tputative HilA box within sicA promoter region\n", 
+        "can": "1.0\tHilA\tcan\tcan converted to repressor\n", 
+        "control": "1.0\tHilA\tcontrol\texpression of different sets of genes associated with SPI-1 type III protein secretion system\n", 
+        "controls": "1.0\tHilA\tcontrols\texpression of sopB under invasion-inducing conditions\n", 
+        "determine": "1.0\tHilA box\tdetermine\tmagnitude of HilA-dependent activation of PprgH from Sal-monella pathogenicity island 1\n", 
+        "encodes": "1.0\thilA\tencodes\tregulator of other three genes\n", 
+        "encoding": "1.0\tHilA\tencoding\tSPI-2 secretion system apparatus component\n", 
+        "have": "1.0\tHilA\thave\tsubtle effects\n", 
+        "induce": "1.0\thilA regulators\tinduce\ttranscription\n", 
+        "is involved in": "1.0\tHilA\tis involved in\tinvasion of broad range of hosts\n", 
+        "is required for": "1.0\thilA\tis required for\ttranscriptional activation of essential invasion genes\n", 
+        "plays role in": "1.0\thilA\tplays role in\texpression of Salmonella invasive phenotype\n", 
+        "promotes": "1.0\tHilA\tpromotes\tSPI4 expression\n", 
+        "regulate": "1.0\tHilA\tregulate\texpression of genes located outside SPI1 independently of InvF\n", 
+        "regulates": "1.0\tHilA\tregulates\texpression of type III secretion system\n", 
+        "represses": "1.0\tHilA\trepresses\tits own expression\n"
+    }, 
+    "hilc": {
+        "act as": "1.0\tHilC\tact as\tampli\ufb01ers of activating signals\n", 
+        "activate": "1.0\tHilC proteins\tactivate\tsilent downstream promoter\n", 
+        "activates": "1.0\tHilC\tactivates\thilA\n", 
+        "affect": "1.0\tHilC\taffect\thilA expression\n", 
+        "bind": "1.0\tHilC\tbind\tsame DNA sites upstream of hilD\n", 
+        "bind to": "1.0\tHilC\tbind to\tmultiple sites in hilC promoter besides C2 region\n", 
+        "binds to": "1.0\tHilC\tbinds to\tat least three sites in hilC promoter\n", 
+        "contribute to": "1.0\tHilC\tcontribute to\tSPI1 gene expression\n", 
+        "control": "1.0\tHilC\tcontrol\ttheir own transcription\n", 
+        "encode": "1.0\thilC\tencode\tknown regulators of Salmonella virulence\n", 
+        "has role in": "1.0\thilC gene\thas role in\tinvasion\n", 
+        "have": "1.0\tHilC\thave\thave implicated in de-repressing hilA expression\n", 
+        "induce": "1.0\tHilC\tinduce\texpression of inv/spa operon independent of HilA\n", 
+        "is required for": "1.0\thilC\tis required for\tEnvZ/OmpR regulation of hilA expression\n", 
+        "mediates": "1.0\tHilC\tmediates\tonly action of EnvZ/OmpR\n", 
+        "plays role in": "1.0\tHilC\tplays role in\tco-ordinating expression of SPI-1 genes\n", 
+        "regulate": "1.0\tHilC\tregulate\texpression of other genes independent of their effects on hilA expression\n", 
+        "regulates": "1.0\tHilC\tregulates\thilD expression\n"
+    }, 
+    "hild": {
+        "act as": "1.0\tHilD\tact as\trepressors of different \ufb02hDC promoters\n", 
+        "activate": "1.0\tHilD\tactivate\texpression of other SPI1 regulators\n", 
+        "activates": "1.0\tHilD\tactivates\texpression of hilA by direct contact with C-terminal domain of RNA polymerase\n", 
+        "acts as": "1.0\tHilD\tacts as\tmajor point of integration of regulatory signals\n", 
+        "affects": "1.0\tHilD\taffects\thilA expression\n", 
+        "bind": "1.0\tHilD\tbind\tsame DNA sites upstream of hilD\n", 
+        "bind to": "1.0\tHilD proteins\tbind to\tmultiple regions in hilA promoters\n", 
+        "binding to": "1.0\tHilD\tbinding to\tsame sites in promoter region\n", 
+        "binds to": "1.0\tHilD\tbinds to\tdegenerate sequence motif\n", 
+        "can": "1.0\thilD\tcan\tcan expressed from lac promoter\n", 
+        "control": "1.0\tHilD\tcontrol\ttranscription of hilA gene\n", 
+        "controls": "1.0\tHilD\tcontrols\ttranscription of genes\n", 
+        "encode": "1.0\thilD\tencode\tknown regulators of Salmonella virulence\n", 
+        "have": "1.0\tHilD\thave\tsimilar consensus DNA-binding sites\n", 
+        "induce": "1.0\tHilD\tinduce\texpression of inv/spa operon independent of HilA\n", 
+        "is essential for": "1.0\thilD gene\tis essential for\thilA expression\n", 
+        "is required for": "1.0\thilD\tis required for\tpropionate-mediated repression of Salmonella genes essential for tissue invasion\n", 
+        "mediates": "1.0\tHilD\tmediates\ttranscriptional cross talk between SPI-1\n", 
+        "play role in": "1.0\thilD\tplay role in\tregulation of hilA expression\n", 
+        "promotes": "1.0\tHilD\tpromotes\thilA expression\n", 
+        "regulate": "1.0\tHilD\tregulate\texpression of other genes independent of their effects on hilA expression\n", 
+        "regulates": "1.0\tHilD\tregulates\thilC expression\n"
+    }, 
+    "hima": {}, 
+    "hin": {
+        "is involved in": "1.0\thin gene\tis involved in\tsite-specific inversion of promoter segment\n", 
+        "mediates": "1.0\tHin\tmediates\trecombination\n"
+    }, 
+    "hisa": {}, 
+    "hisb": {}, 
+    "hisd": {}, 
+    "hisg": {}, 
+    "hisj": {}, 
+    "hisl": {}, 
+    "hisp": {}, 
+    "hisr": {}, 
+    "hist": {
+        "affect": "1.0\thisT mutations\taffect\ttranslational efficiency of gnd mRNA\n", 
+        "have": "1.0\tE. coli hisT mutations\thave\tsimilar effect\n"
+    }, 
+    "hit": {}, 
+    "hlye": {
+        "affects": "1.0\tHlyE\taffects\tbacterial growth within human macrophages\n", 
+        "contributes to": "1.0\tHlyE\tcontributes to\tcytotoxicity in epithelial cells\n"
+    }, 
+    "hmp": {
+        "acts as": "1.0\tHmp\tacts as\treductase of broad specificity\n", 
+        "contribute to": "1.0\tHmp\tcontribute to\tantinitrosative defenses of Salmonella\n", 
+        "contributes to": "1.0\t\ufb02avohemoprotein Hmp\tcontributes to\tantinitrosative defenses of\n", 
+        "mediates": "1.0\t\ufb02avohemoprotein Hmp\tmediates\tadaptive antinitrosative defenses seen in fur mutant bacteria\n"
+    }, 
+    "hmpa": {}, 
+    "hnr": {}, 
+    "hns": {
+        "affect": "1.0\thns mutations\taffect\tplasmid supercoiling\n", 
+        "have": "1.0\thns mutants\thave\tincreased level of RpoS\n"
+    }, 
+    "hpai": {}, 
+    "hpt": {}, 
+    "hsls": {}, 
+    "htra": {}, 
+    "hu": {
+        "affect": "1.0\tHU\taffect\tderepression of hilA\n", 
+        "affects": "1.0\tHU\taffects\thilD mRNA levels\n", 
+        "plays role in": "1.0\tHU\tplays role in\thilA expression\n", 
+        "regulates": "1.0\tHU\tregulates\thilA expression\n"
+    }, 
+    "hup": {}, 
+    "hupa": {
+        "encode": "1.0\thupA\tencode\tsubunits\n"
+    }, 
+    "hupb": {
+        "encode": "1.0\thupB\tencode\tsubunits\n", 
+        "encodes": "1.0\thupB\tencodes\tsubunit\n", 
+        "encoding": "0.8046702874182021\thupB\tencoding\tnucleoid-associated protein\n"
+    }, 
+    "hutc": {}, 
+    "hyab": {}, 
+    "hybb": {}, 
+    "hyce": {}, 
+    "hydg": {
+        "is involved in": "1.0\tHydG\tis involved in\tregulation offdhF\n"
+    }, 
+    "hypa": {}, 
+    "iacp": {
+        "acts as": "1.0\tIacP\tacts as\tacyl carrier protein\n", 
+        "affects": "1.0\tIacP\taffects\tphase variation\n", 
+        "is involved in": "1.0\tIacP\tis involved in\tregulation of \ufb02agellin expression in S. Typhimurium under SPI1-inducing conditions\n", 
+        "plays role in": "1.0\tDISCUSSION IacP\tplays role in\tS. Typhimurium virulence\n"
+    }, 
+    "iagb": {
+        "encoding": "0.5707609186384593\tiagB gene\tencoding\tmuramidase\n"
+    }, 
+    "ibpa": {}, 
+    "icd": {}, 
+    "iclr": {}, 
+    "icmf": {
+        "play role in": "1.0\ticmF homologs\tplay role in\tbacterial pathogenesis\n"
+    }, 
+    "igaa": {
+        "can": "1.0\tnull igaA allele\tcan\tcan maintained only in igaA igaA merodiploid\n", 
+        "contribute to": "1.0\tIgaA\tcontribute to\tvirulence\n", 
+        "controls": "1.0\tattenuator IgaA\tcontrols\tpart of Rcs regulon\n", 
+        "encodes": "1.0\tigaA\tencodes\t14\n", 
+        "induce": "1.0\tigaA mutation\tinduce\tRcsB activity\n", 
+        "is required for": "1.0\tIgaA\tis required for\tSalmonella virulence\n", 
+        "regulate": "1.0\tIgaA\tregulate\t\ufb02hDC\n", 
+        "regulates": "1.0\tigaA gene\tregulates\texpression of \ufb02agellar master operon \ufb02hDC\n", 
+        "represses": "1.0\tIgaA\trepresses\tRcs signaling system\n"
+    }, 
+    "ihf": {
+        "are important for": "1.0\tIHF protein\tare important for\ttranscription of prpBCDE operon\n", 
+        "bind to": "1.0\tIHF\tbind to\tpromoter fragments of E. coli glmY\n", 
+        "binding to": "1.0\tDNA-bending protein IHF\tbinding to\tsite located between activator binding sequence\n", 
+        "binds to": "1.0\tIHF\tbinds to\tregulatory region of csrB\n", 
+        "can": "1.0\tIHF\tcan\tcan found among enteric bacteria including various types of purple bacteria\n", 
+        "controls": "1.0\tIHF\tcontrols\texpression of csrB\n", 
+        "have": "1.0\tpredicted IHF\thave\tweight score\n", 
+        "is essential for": "1.0\tIHF\tis essential for\tactivity of s54-promoter of glmY\n", 
+        "is required for": "1.0\tglobal regulatory protein IHF\tis required for\texpression of prpBCDE operon\n", 
+        "regulates": "1.0\tFIG 8 IHF\tregulates\texpression of csrB\n"
+    }, 
+    "ihfa": {}, 
+    "ihfb": {
+        "have": "1.0\tihfB mutants\thave\tlevels of PocR protein equal to\n"
+    }, 
+    "iica": {}, 
+    "ilva": {}, 
+    "ilvb": {}, 
+    "ilvc": {
+        "encodes": "1.0\tilvC gene\tencodes\tremaining enzyme of isoleucine-valine biosynthetic pathway\n"
+    }, 
+    "ilvd": {}, 
+    "ilve": {}, 
+    "ilvg": {}, 
+    "ilvgmeda": {}, 
+    "ilvih": {}, 
+    "ilvy": {
+        "acts as": "1.0\tilvY gene\tacts as\tantiterminator at site between ilv Y\n", 
+        "has role in": "1.0\tilvY gene product\thas role in\texpression of ilvC\n", 
+        "regulate": "1.0\tIlvY\tregulate\ttheir own genes\n"
+    }, 
+    "imp": {}, 
+    "impc": {}, 
+    "int": {}, 
+    "inva": {
+        "encodes": "1.0\tinvA\tencodes\tstructural component of T3SS\n", 
+        "is required for": "1.0\tInvA\tis required for\tits formation\n"
+    }, 
+    "invb": {
+        "is required for": "1.0\tInvB\tis required for\ttype III-dependent secretion of SopA in Salmonella enterica serovar Typhimurium\n"
+    }, 
+    "invc": {}, 
+    "inve": {
+        "controls": "1.0\tSalmonella type III secretion-associated protein InvE\tcontrols\ttranslocation of effector proteins into host cells\n"
+    }, 
+    "invf": {
+        "act as": "1.0\tInvF\tact as\tampli\ufb01er of HilA activity\n", 
+        "activate": "1.0\tInvF\tactivate\texpression of sopB\n", 
+        "activates": "1.0\tHilA-dependent invF expres-A sion\tactivates\tHilC/D-dependent invFD expression\n", 
+        "binding to": "1.0\tInvF\tbinding to\tinternal promoter upstream of sicA\n", 
+        "binds to": "1.0\tInvF\tbinds to\tsequences upstream of sicA\n", 
+        "control": "1.0\tInvF\tcontrol\texpression of different sets of genes associated with SPI-1 type III protein secretion system\n", 
+        "controls": "1.0\tInvF\tcontrols\texpression\n", 
+        "encode": "1.0\tinvF\tencode\tAraCtype transcriptional activator for review\n", 
+        "encodes": "1.0\tinvF gene\tencodes\ttranscriptional regulator required for expression of sipA\n", 
+        "induce": "1.0\tInvF\tinduce\texpression of effector genes\n", 
+        "is essential for": "1.0\tRESULTS InvF\tis essential for\texpression of effector genes\n", 
+        "is required for": "1.0\tAraC-type transcriptional activator InvF\tis required for\texpression of genes\n", 
+        "play role in": "1.0\tInvF\tplay role in\tSPI4 activation\n", 
+        "promotes": "1.0\tInvF\tpromotes\texpression of HilA-activated effector genes on SPI1\n", 
+        "regulate": "1.0\tInvF\tregulate\texpression of phenotypes associated with centisome 63 type III secretion system\n"
+    }, 
+    "invg": {
+        "encodes": "1.0\tinvG\tencodes\tcomponent of SPI1 TTS apparatus\n"
+    }, 
+    "invh": {}, 
+    "iole": {}, 
+    "irap": {
+        "binding to": "1.0\tsmall protein IraP\tbinding to\tRssB protein\n", 
+        "inhibits": "1.0\tsmall anti-adopter protein IraP\tinhibits\tRssB/ClpXP-mediated degradation of RpoS in low Mg2\n"
+    }, 
+    "iron": {
+        "can": "1.0\texcess intracellular iron\tcan\tcan detrimental to cell\n", 
+        "controls": "1.0\tIron availability\tcontrols\tsynthesis\n", 
+        "have": "1.0\tiron chelation property\thave\trole\n", 
+        "is essential for": "1.0\tiron\tis essential for\tvirulence\n", 
+        "is involved in": "1.0\tIron\tis involved in\telectron transport in cell\n", 
+        "is required for": "0.6511689990642582\tputative iron transport system SitABCD\tis required for\tfull virulence of Salmonella typhimurium\n", 
+        "play role in": "1.0\tiron binding property\tplay role in\ttreatment of cancer\n", 
+        "promotes": "1.0\tiron limitation\tpromotes\texpression\n", 
+        "regulate": "1.0\tiron\tregulate\texpression of Pseudomonas aeruginosa tol-oprL gene cluster\n", 
+        "regulates": "0.8273859754973969\tiron homeostasis\tregulates\thilA\n", 
+        "represses": "1.0\tIron\trepresses\tfeoB transcription at acidic pH.\n"
+    }, 
+    "isca": {}, 
+    "iscr": {
+        "represses": "1.0\tIscR\trepresses\texpression of Escherichia coli genes\n"
+    }, 
+    "iscu": {}, 
+    "kate": {
+        "encode": "1.0\tkatE\tencode\ttrehalose-6-phosphate synthase\n", 
+        "encodes": "1.0\tS-dependent gene katE\tencodes\tcatalase\n"
+    }, 
+    "katg": {}, 
+    "kbl": {}, 
+    "kdgr": {}, 
+    "kdpa": {}, 
+    "kdpd": {
+        "is required for": "1.0\ttwo-component sensor kinase KdpD\tis required for\tSalmonella typhimurium colonization of Caenorhabditis elegans in macrophages\n"
+    }, 
+    "kdpe": {
+        "bind to": "1.0\tKdpE\tbind to\tDNA promoters\n", 
+        "binding to": "1.0\tKdpE\tbinding to\ttheir promoters\n", 
+        "can": "1.0\tKdpE\tcan\tcan also activated by QseC histidine kinase\n", 
+        "plays role in": "1.0\textent KdpE\tplays role in\tEHEC virulence\n", 
+        "regulate": "1.0\tKdpE\tregulate\tvirulence factors encoded within a horizontally acquired\n", 
+        "regulates": "1.0\tKdpE\tregulates\tmany downstream genes including virulence factors\n"
+    }, 
+    "kdpf": {}, 
+    "kdsa": {
+        "is involved in": "1.0\tKdsA\tis involved in\tsynthesis of 3-deoxy-D-manno-octulosonic acid\n"
+    }, 
+    "laci": {}, 
+    "lacy": {}, 
+    "lacz": {
+        "can": "1.0\tlacZ gene\tcan\tcan transcribed only from P2 promoter\n"
+    }, 
+    "lamb": {}, 
+    "last": {}, 
+    "ldha": {}, 
+    "leuo": {}, 
+    "leux": {
+        "affects": "1.0\tPai-associated leuX speci\ufb01c tRNA5\taffects\ttype 1 \ufb01mbriation in pathogenic Escherichia coli\n"
+    }, 
+    "levr": {}, 
+    "lexa": {
+        "can": "1.0\tLexA antirepressor-mediated mechanism\tcan\tIn contrast can in principle reversed\n", 
+        "represses": "1.0\tlexA gene product\trepresses\tits own promoter\n"
+    }, 
+    "lola": {
+        "activates": "1.0\tperiplasmic LolA de-rivative\tactivates\tCpxR/CpxA system\n"
+    }, 
+    "lon": {
+        "affects": "1.0\tLon protease\taffects\tSPI1 expression\n", 
+        "control": "1.0\tLon protease\tcontrol\tturnover of HilD\n", 
+        "has role in": "1.0\tCaulobacter Lon protease\thas role in\tcell-cycle control of DNA methylation\n", 
+        "induce": "1.0\tLon\tinduce\ttoxin activity\n", 
+        "is involved in": "1.0\tLon\tis involved in\tproduction of capsular polysaccharides\n", 
+        "is required for": "1.0\tBrucella abortus Lon\tis required for\twild-type virulence in BALB/c mice\n", 
+        "regulate": "1.0\tLon\tregulate\tSPI1 gene expression\n", 
+        "regulates": "1.0\tATP-dependent Lon protease\tregulates\tinvasion of genes carried on Salmo-nella pathogenicity island 1\n", 
+        "represses": "1.0\tLon protease activity\trepresses\thilA expression\n"
+    }, 
+    "lpxa": {}, 
+    "lpxd": {}, 
+    "lpxo": {}, 
+    "lrha": {
+        "promotes": "1.0\tLysR homolog LrhA\tpromotes\tRpoS degradation\n", 
+        "regulates": "1.0\tLrhA\tregulates\trpoS translation\n"
+    }, 
+    "lrp": {
+        "act as": "1.0\tLrp\tact as\tpositive for type 1 fimbriae production depending on intracellular levels\n", 
+        "activates": "1.0\tLrp\tactivates\tgenes for bio-synthetic enzymes\n", 
+        "acts as": "1.0\tLrp\tacts as\tpositive regulator for type 1 \ufb01mbriae production in Salmo-nella enterica serovar Typhimurium\n", 
+        "affect": "1.0\tlrp gene product\taffect\texpression of numerous operons including several involved in amino acid biosynthesis\n", 
+        "affects": "1.0\tLrp\taffects\tSalmonella virulence\n", 
+        "bind to": "1.0\tLrp proteins\tbind to\tPfimA\n", 
+        "binding to": "1.0\tLRP\tbinding to\tpromoter region of fimZ\n", 
+        "binds to": "1.0\tGe Lrp\tbinds to\t\ufb01mZ promoter region\n", 
+        "contributes to": "1.0\tglobal regulator Lrp\tcontributes to\tmutualism in bacterium Xenorhabdus nematophila\n", 
+        "determine": "1.0\tLrp protein\tdetermine\tdirectionality of \ufb01m switch DNA inversion in Escherichia coli K-12\n", 
+        "have": "1.0\tlrp sequence\thave\tA\n", 
+        "is involved in": "1.0\tLrp\tis involved in\tinversion-dependent phase variation\n", 
+        "is required for": "1.0\tg006 Discussion Lrp\tis required for\tsynthesis of type 1 fimbriae\n", 
+        "play role in": "1.0\tLrp\tplay role in\torganization of bacterial chromatin\n", 
+        "regulate": "1.0\tLrp\tregulate\tmany \ufb01mbrial genes\n", 
+        "regulates": "1.0\tLrp\tregulates\ttype 1 \ufb01mbrial genes in E. coli\n", 
+        "represses": "1.0\tLrp\trepresses\tgenes responsible for invasion of epithelial cells by Salmonella\n"
+    }, 
+    "lsrk": {}, 
+    "lsrr": {
+        "binding to": "1.0\tLsrR\tbinding to\ttheir promoters\n", 
+        "controls": "1.0\tLsrR regulator\tcontrols\texpression of SPI-1 genes\n", 
+        "is involved in": "1.0\tLsrR\tis involved in\tregulation of SPI-1 expression\n", 
+        "is required for": "0.8151730663224168\tInvasion Assay Figure S2 LsrR\tis required for\tregulation of invF HEp-2 cells\n", 
+        "regulate": "1.0\tactive LsrR\tregulate\texpression of SPI-1\n", 
+        "regulates": "1.0\tLsrR\tregulates\tinvasiveness of Salmonella\n", 
+        "represses": "1.0\tLsrR\trepresses\texpression of lsr operon in absence of phospho-AI-2\n"
+    }, 
+    "luxs": {
+        "affects": "1.0\tLuxS\taffects\t\ufb02agellar phase variation independently of quorum sensing in Salmonella enterica serovar Typhi-murium\n", 
+        "contributes to": "1.0\tluxS gene\tcontributes to\tSalmonella virulence in mice\n", 
+        "encodes": "1.0\tluxS gene\tencodes\tAI-2 synthase\n", 
+        "have": "1.0\tluxS gene\thave\tnon-QS functions\n", 
+        "is essential for": "0.7336457711633783\tluxS\tis essential for\tproduction of extracellular signaling molecule\n", 
+        "is involved in": "1.0\tgene Salmonella enterica luxS\tis involved in\tproduction of AI-2 molecules from S-adenyl-methionine\n", 
+        "is required for": "0.14955323807813503\tluxS gene\tis required for\tinduction of InvF regulator\n", 
+        "mediates": "1.0\tluxS gene product\tmediates\tproduction of AI-2\n", 
+        "play role in": "1.0\tLuxS\tplay role in\tS. Typhimurium virulence\n", 
+        "regulate": "1.0\tLuxS\tregulate\tpredominant transcriptional activator of prgH expression\n", 
+        "regulates": "1.0\tluxS =\tregulates\tcertain key virulence genes\n"
+    }, 
+    "lysr": {
+        "promotes": "1.0\tLysR homolog LrhA\tpromotes\tRpoS degradation\n", 
+        "regulate": "1.0\tLysR\tregulate\ttheir own genes\n"
+    }, 
+    "male": {}, 
+    "malk": {}, 
+    "malt": {}, 
+    "manb": {}, 
+    "manx": {}, 
+    "many": {
+        "activate": "1.0\tmany carbon sources\tactivate\tPho regulon\n", 
+        "can": "1.0\tmany regulatory sequences\tcan\tcan categorized as P22-like\n", 
+        "contribute to": "1.0\tMany OmpR-regulated S. Typhimuriumspecific targets\tcontribute to\tpathogenesis\n", 
+        "have": "1.0\tMany environmental factors\thave\thave reported to in\ufb02uence SPI1 gene expression including low oxygen tension\n", 
+        "induce": "1.0\tmany solutes\tinduce\tproU expression\n", 
+        "play role in": "1.0\tMany TCS\tplay role in\tSalmonella virulence\n", 
+        "regulate": "1.0\tmany\tregulate\ttheir own expression\n"
+    }, 
+    "map": {}, 
+    "mara": {
+        "activates": "1.0\tMarA protein\tactivates\tsodA expression\n", 
+        "binds to": "1.0\tMarA\tbinds to\tmar box located within marO\n", 
+        "encodes": "1.0\tmarA\tencodes\tpositive regulator of antibiotic resistance response acting\n", 
+        "induce": "1.0\tMarA\tinduce\torganic solvent tolerance\n", 
+        "is involved in": "1.0\tmarA\tis involved in\tvirulence\n", 
+        "mediates": "1.0\tMarA\tmediates\tdrug resistance\n", 
+        "plays role in": "1.0\tmarA\tplays role in\tS. typhi-murium virulence\n", 
+        "regulate": "1.0\tMarA\tregulate\tompW\n", 
+        "regulates": "1.0\tMarA\tregulates\tat least 60 genes\n", 
+        "represses": "1.0\tregulatory protein MarA\trepresses\trob\n"
+    }, 
+    "marb": {}, 
+    "marc": {}, 
+    "marr": {
+        "binding to": "1.0\tMarR\tbinding to\tmarO operator region\n", 
+        "controls": "1.0\tmarR\tcontrols\tproduction of MarA\n", 
+        "encodes": "1.0\tmarR\tencodes\trepressor of marRAB transcription\n", 
+        "regulate": "1.0\tMarR\tregulate\tset of genes involved in multiple antibiotic resistance in E. coli\n", 
+        "regulates": "1.0\tMarR\tregulates\texpression of marRAB\n"
+    }, 
+    "marrab": {
+        "can": "1.0\tmarRAB transcription\tcan\tcan also activated by MarA homologs SoxS\n", 
+        "regulates": "1.0\t1.1-kbp marRAB operon\tregulates\tresistance\n"
+    }, 
+    "mart": {
+        "activates": "1.0\tMarT\tactivates\ttranscription of misL gene\n", 
+        "binding to": "1.0\tMarT\tbinding to\tmisL promoter region\n"
+    }, 
+    "mbp": {}, 
+    "mcp": {}, 
+    "mdab": {}, 
+    "mdoh": {
+        "is involved in": "1.0\tmdoH gene product\tis involved in\tsynthesis of mem-brane-derived oligosaccharides\n"
+    }, 
+    "mdtk": {}, 
+    "menb": {}, 
+    "meng": {}, 
+    "mere": {}, 
+    "merr": {
+        "activates": "1.0\tMerR\tactivates\ttranscription of merTPCAD\n", 
+        "mediates": "1.0\tMerR heavy metal receptor\tmediates\tpositive activation\n", 
+        "represses": "1.0\tMerR\trepresses\tits own transcription from PR\n"
+    }, 
+    "meta": {
+        "encode": "1.0\tmetA genes\tencode\tenzymes\n"
+    }, 
+    "metb": {}, 
+    "metbl": {}, 
+    "metc": {}, 
+    "mete": {
+        "encodes": "1.0\tmetE gene\tencodes\tlast enzyme in methionine biosynthetic pathway\n", 
+        "have": "1.0\thigh MetE levels\thave\teffect similar to that of B12 supplementation\n"
+    }, 
+    "metf": {
+        "is involved in": "1.0\tmetF gene product\tis involved in\tbiosynthesis of 5-methyltetrahy-drofolate from 5,10-methylenetetrahydrofolate\n"
+    }, 
+    "meth": {
+        "can": "1.0\tmetH\tcan\tcan distinguished from metE\n", 
+        "is involved in": "1.0\tmetH gene product\tis involved in\trepression of metE\n"
+    }, 
+    "metj": {
+        "bind to": "1.0\tpurified metJ repressor protein\tbind to\tproposed operator region shared by genes\n", 
+        "is involved in": "1.0\tmetJ gene product\tis involved in\tcontrol of metJ gene itself\n", 
+        "plays role in": "1.0\tmetJ repressor binding site\tplays role in\tautoregulation of metJ gene\n", 
+        "regulate": "1.0\tMetJ protein\tregulate\tmetR gene expression\n", 
+        "regulates": "1.0\tmetJ repressor\tregulates\tmetR gene expression\n"
+    }, 
+    "metk": {}, 
+    "metr": {
+        "activate": "1.0\tMetR protein\tactivate\tmetE gene expression\n", 
+        "activates": "1.0\tMetR gene product\tactivates\tunpublished data\n", 
+        "affect": "0.9309272298285683\tMetR\taffect\tproteinprotein interaction\n", 
+        "affects": "1.0\tmetR gene product\taffects\tthird gene in folate branch of pathway\n", 
+        "bind to": "1.0\tS. typhimu-rium MetR protein\tbind to\tCM-52 column in next step at pH 6.4\n", 
+        "binds to": "0.20092175177216798\tMetR\tbinds to\tpromoter of metH located\n", 
+        "encodes": "1.0\tmetR gene\tencodes\tpolypeptide\n", 
+        "have": "1.0\tE. coli MetR\thave\thave reported\n", 
+        "is involved in": "1.0\tMetR protein\tis involved in\tmetF regulation\n", 
+        "is required for": "1.0\tMetR\tis required for\tactivation of metF-lacZ only under MetJ-mediated repressing conditions\n", 
+        "mediates": "1.0\tMetR protein\tmediates\tinhibitory effect of homocysteine on metA-lacZ expression\n", 
+        "positively regulates": "1.0\tMetR protein\tpositively regulates\tmetH expression\n", 
+        "promotes": "1.0\tMetR protein\tpromotes\tbinding in extract preparation\n", 
+        "regulate": "1.0\tMetR\tregulate\ttheir own genes\n", 
+        "regulates": "1.0\tmetR gene product\tregulates\tits own synthesis\n"
+    }, 
+    "mgla": {}, 
+    "mglb": {}, 
+    "mglc": {}, 
+    "mgrb": {
+        "acts as": "1.0\tmgrB gene product\tacts as\trepressive factor\n", 
+        "mediates": "1.0\tMgrB\tmediates\tnegative feedback in PhoQ/PhoP system\n", 
+        "represses": "1.0\tpeptide MgrB\trepresses\tPhoP phosphor-ylation\n"
+    }, 
+    "mgta": {
+        "can": "1.0\tmgtA expression\tcan\tHowever can markedly induced via PhoP/PhoQ two-component system upon response to stimuli\n", 
+        "contribute to": "1.0\tmgtA\tcontribute to\tacrAB-dependent solvent ef\ufb02ux mechanism\n", 
+        "contributes to": "1.0\tmgtA\tcontributes to\tmechanism of Rob-mediated resistance to cyclohexane in Sal-monella\n", 
+        "controls": "1.0\tPhoP-depen-dent mgtA promoter\tcontrols\tmgtA expression over whole range of Mg2 concentrations tested\n", 
+        "encodes": "1.0\tmgtA gene\tencodes\tslightly smaller protein with predicted molecular mass of about 95 kDa running at 91 kDa\n", 
+        "have": "1.0\tMgtA\thave\tdifferent maximal velocities of Corresponding author\n", 
+        "is involved in": "1.0\tMgtA\tis involved in\tAcrAB-mediated cyclohexane detoxi\ufb01cation mechanism promoted by Rob in Salmonella\n", 
+        "is required for": "1.0\tmgtA\tis required for\tnormal cell growth in Mg2-restricted minimal liquid medium\n", 
+        "mediates": "1.0\tmgtA expression\tmediates\tSalmonella enterica resistance phenotype\n", 
+        "promotes": "1.0\tmgtA leader region\tpromotes\ttranscription of mgtA coding region in low Mg2\n"
+    }, 
+    "mgtb": {
+        "contribute to": "1.0\tmgtB\tcontribute to\toverall Mg2 uptake\n", 
+        "encodes": "1.0\tmgtB\tencodes\t22.5-kDa protein of unknown function\n", 
+        "have": "1.0\tMgtB\thave\tdifferent maximal velocities of Corresponding author\n", 
+        "induce": "1.0\tmgtB genes\tinduce\ttheir respective coding regions\n"
+    }, 
+    "mgtc": {
+        "activates": "1.0\tMgtC virulence factor\tactivates\tATPase\n", 
+        "contributes to": "1.0\tmgtC\tcontributes to\tlong-term infection in mice\n", 
+        "encoding": "1.0\tS. typhimurium mgtC gene\tencoding\tMg 2 \u00fe transporter\n", 
+        "is involved in": "1.0\tMgtC\tis involved in\tadaptation to low-Mg environ-2 \u00fe ments\n", 
+        "is required for": "1.0\tmgtC gene\tis required for\tgrowth in low Mg2 in several phylogenetically unrelated pathogens\n", 
+        "play role in": "1.0\tMgtC residues located\tplay role in\tinteraction with MgtR\n", 
+        "regulate": "1.0\tMgtC protein\tregulate\tATP homeostasis\n"
+    }, 
+    "miaa": {
+        "have": "1.0\tmiaA mutants\thave\thave described previously\n"
+    }, 
+    "miab": {
+        "is involved in": "1.0\tMiaB enzyme\tis involved in\tthiolation reaction\n"
+    }, 
+    "mic": {
+        "determine": "1.0\tMIC assays\tdetermine\tspeci\ufb01c for bile\n"
+    }, 
+    "micf": {}, 
+    "mig-14": {
+        "contribute to": "1.0\tmig-14\tcontribute to\tantimicrobial peptide resistance\n", 
+        "contributes to": "1.0\tmig-14\tcontributes to\tSalmonella resistance to antimicrobial peptides\n", 
+        "play role in": "1.0\tmig-14\tplay role in\tadaptive responses to membrane perturbations\n"
+    }, 
+    "mind": {}, 
+    "mine": {}, 
+    "misl": {
+        "can": "1.0\tMisL C-terminal translocator domain\tcan\tcan used\n", 
+        "encodes": "1.0\tmisL gene\tencodes\tautotransporter protein of sero-type Typhimurium\n", 
+        "is required for": "1.0\tintact misL gene\tis required for\tintestinal colonization in chicks inoculated orally with serotype Typhimurium\n"
+    }, 
+    "mlc": {
+        "act as": "1.0\tMlc\tact as\tnegative regulator of hilE\n", 
+        "activate": "1.0\tMlc\tactivate\tSPI1\n", 
+        "activates": "1.0\tMlc\tactivates\tSPI1 gene expression\n", 
+        "affects": "1.0\tMlc\taffects\tvirulence of Salmonella\n", 
+        "binding to": "1.0\tMlc\tbinding to\ttwo distinct sites in hilE P3 promoter region\n", 
+        "binds to": "1.0\tMlc protein\tbinds to\thilE promoter\n", 
+        "can": "1.0\tMlc regulon\tcan\tcan induced by glucose to lesser extent by mannose\n", 
+        "controls": "1.0\tMlc\tcontrols\tseveral genes involved in sugar utilization\n", 
+        "plays role in": "1.0\tmlc gene\tplays role in\texpression of genes involved in cytotoxicity\n", 
+        "regulate": "1.0\tMlc\tregulate\thilE P3 promoter\n", 
+        "regulates": "1.0\tMlc\tregulates\thilE expression\n", 
+        "represses": "1.0\tMlc\trepresses\thilE P3 promoter\n"
+    }, 
+    "mlra": {}, 
+    "mltc": {
+        "affect": "1.0\tMltC\taffect\tCsgD expression\n", 
+        "have": "1.0\tMltC\thave\tdifferent domain structures\n", 
+        "regulate": "1.0\tMltC\tregulate\texpression of extracellular matrix components\n"
+    }, 
+    "mlte": {
+        "affect": "1.0\tMltE\taffect\tCsgD expression\n", 
+        "affects": "1.0\tMltE\taffects\texpression of rdar morphotype through CsgD\n", 
+        "have": "1.0\tWild-type MltE\thave\tPG hydrolytic activity\n", 
+        "regulate": "1.0\tMltE\tregulate\texpression of extracellular matrix components\n"
+    }, 
+    "mnth": {
+        "contributes to": "1.0\tS. enterica serovar Typhimurium MntH\tcontributes to\tH2O2 resistance\n", 
+        "is required for": "1.0\tS. enterica serovar Typhimurium MntH function\tis required for\tfull virulence\n"
+    }, 
+    "mntr": {
+        "activates": "1.0\tMntR\tactivates\tYbiR Mn2 ef\ufb02ux transporter\n", 
+        "bind to": "1.0\tMntR\tbind to\tFur binding site\n", 
+        "binds to": "1.0\tMntR\tbinds to\theterologous binding site\n", 
+        "control": "1.0\tMntR\tcontrol\tsitABCD operon\n", 
+        "represses": "1.0\tMntR\trepresses\ttwo Mn2 uptake systems\n"
+    }, 
+    "moab": {}, 
+    "moar": {
+        "regulates": "1.0\tMoaR\tregulates\tphysiological link to monoamine oxidation\n"
+    }, 
+    "moda": {}, 
+    "mode": {
+        "have": "1.0\tmode\thave\teffect\n"
+    }, 
+    "mota": {}, 
+    "motb": {}, 
+    "msga": {}, 
+    "mta": {}, 
+    "mukb": {}, 
+    "mura": {}, 
+    "muth": {}, 
+    "mutl": {}, 
+    "mvim": {}, 
+    "nada": {
+        "have": "1.0\tnadA genes\thave\thave cloned into multiple-cloning site of plasmid pUC9\n", 
+        "is required for": "1.0\tNadA function\tis required for\texpression of pnuC gene\n"
+    }, 
+    "nada-pnuc": {}, 
+    "nadb": {}, 
+    "nade": {}, 
+    "nadr": {
+        "acts as": "1.0\tNadR\tacts as\trepressor\n", 
+        "bind": "1.0\tNadR\tbind\tappropriate operator DNA sequences\n", 
+        "bind to": "1.0\tNadR repressor-effector complex\tbind to\tits recognition element\n", 
+        "binding to": "0.7612023465732762\twild-type NadR\tbinding to\toperator DNA\n", 
+        "binds to": "1.0\tNadR\tbinds to\tinverted repeats\n", 
+        "determine": "1.0\t35S-labelled NadR\tdetermine\tnumber of NadR mole-cules present in protein-DNA complex\n", 
+        "encode": "1.0\tnadR\tencode\tbifunctional protein\n", 
+        "regulate": "1.0\tNadR\tregulate\tde biosynthesis of NAD\n", 
+        "represses": "1.0\tNadR\trepresses\tthree genes involved in biosynthesis of NAD\n"
+    }, 
+    "nahr": {}, 
+    "nana": {}, 
+    "nanh": {}, 
+    "napb": {}, 
+    "napf": {}, 
+    "narg": {}, 
+    "nari": {}, 
+    "narl": {
+        "activates": "1.0\tnarL gene product\tactivates\tnitrate reductase operon\n", 
+        "represses": "1.0\tnarL gene product\trepresses\ttrimethylamine N-oxide reductase operons\n"
+    }, 
+    "narz": {}, 
+    "nhoa": {
+        "encodes": "1.0\tnhoA\tencodes\tN-hydroxyarylamine O-acetyltrans-ferase\n"
+    }, 
+    "nifu": {
+        "contribute to": "1.0\tnifU\tcontribute to\tdesiccation tolerance\n"
+    }, 
+    "nine": {}, 
+    "nirb": {}, 
+    "nird": {}, 
+    "nlpc": {}, 
+    "nlpd": {}, 
+    "nlpi": {
+        "represses": "1.0\tperiplasmic lipoprotein NlpI\trepresses\trdar morphotype expression\n"
+    }, 
+    "nmpc": {
+        "encode": "1.0\tnmpC\tencode\tproteins found in outer membrane\n"
+    }, 
+    "norm": {}, 
+    "norr": {}, 
+    "nrdd": {}, 
+    "nrdef": {}, 
+    "nrdg": {}, 
+    "nrdhief": {
+        "have": "1.0\tnrdHIEF\thave\tleading role\n"
+    }, 
+    "nrdr": {
+        "acts as": "1.0\tNrdR\tacts as\trepressor of three ribonucleotide reductases in S. Typhimurium LT2\n", 
+        "regulate": "1.0\tNrdR\tregulate\tnrd expression\n", 
+        "regulates": "1.0\tNrdR\tregulates\ttranscription of class Ia in S. Typhimurium LT2\n"
+    }, 
+    "nrfa": {}, 
+    "nsrr": {
+        "controls": "1.0\tnitric oxide-responsive regulator NsrR\tcontrols\tResDE-dependent gene expression\n", 
+        "have": "1.0\tnsrR mutant bacteria\thave\televated levels of Hmp relative to wild-type\n"
+    }, 
+    "ntra": {
+        "act as": "1.0\tntrA gene products\tact as\tpositive activators of transcription of several unlinked nitrogencontrolled genes\n", 
+        "is required for": "1.0\tNtrA\tis required for\ttranscription initiation\n"
+    }, 
+    "ntrc": {
+        "binds to": "1.0\tntrC protein\tbinds to\tspecific nucleotide sequence within dhuA\n", 
+        "mediates": "1.0\tntrC product\tmediates\trepression of glnA transcription under conditions of nitrogen excess in absence of ntrA gene product\n"
+    }, 
+    "nuoe": {}, 
+    "nusa": {
+        "binds to": "1.0\tNusA\tbinds to\tRNA polymerase core enzyme\n"
+    }, 
+    "nusg": {
+        "inhibits": "1.0\tNusG overexpression\tinhibits\tRho-dependent termination\n"
+    }, 
+    "oafa": {}, 
+    "ogt": {}, 
+    "ompa": {
+        "is involved in": "1.0\tOmpA\tis involved in\talso Salmonella Typhimurium\n"
+    }, 
+    "ompb": {}, 
+    "ompc": {
+        "have": "1.0\tompC\thave\tonly large transient responses\n", 
+        "is involved in": "1.0\tOmpC\tis involved in\tinvasion of epithelial cells by Shigella flexneri\n"
+    }, 
+    "ompd": {
+        "are important for": "1.0\tompD\tare important for\tresistance to cathelicidin antimicrobial peptide\n", 
+        "contributes to": "1.0\tompD\tcontributes to\tpolymyxin B resistance\n", 
+        "encodes": "1.0\tompD gene\tencodes\tporin similar in primary amino acid sequence to major porins OmpC\n", 
+        "mediates": "1.0\tOmpD\tmediates\tinflux of H2O2\n", 
+        "play role in": "1.0\tOmpD\tplay role in\tceftriaxone resistance of S. enterica serovar Typhimurium\n"
+    }, 
+    "ompf": {
+        "contribute to": "1.0\tporin ompF\tcontribute to\tpolymyxin B resistance\n", 
+        "encode": "1.0\tompF genes\tencode\touter membrane porin proteins\n", 
+        "encoding": "0.6862070685258056\tompF\tencoding\touter membrane porin protein\n", 
+        "have": "1.0\tompF genes\thave\tBesides proU have previously shown\n"
+    }, 
+    "ompr": {
+        "act as": "1.0\tOmpR\tact as\tglobal regulator of transcription\n", 
+        "activate": "1.0\tOmpR\tactivate\ttranscription of ssrAB genes\n", 
+        "activates": "1.0\tOmpR regulator\tactivates\tPhoP protein does so for ssrB transcription at posttranscriptional level via as yet undetermined mechanism\n", 
+        "acts as": "1.0\tOmpR\tacts as\tpositive regulator of hilC\n", 
+        "are important for": "1.0\tompR\tare important for\teffective acid induction of sta-tionary-phase ATR\n", 
+        "bind": "1.0\tOmpR\tbind\tdemonstrating\n", 
+        "bind to": "1.0\tOmpR\tbind to\tpromoter of SPI-2 gene regulator ssrAB\n", 
+        "binds to": "1.0\tPerspective OmpR protein\tbinds to\tmuch larger number of targets\n", 
+        "can": "1.0\tE. coli ompR orthologue\tcan\tcan made by introduction of appropriate sequences from S. Typhimurium\n", 
+        "contribute to": "1.0\tOmpR\tcontribute to\tinduction of SPI-2 gene expression in response to environmental stimuli\n", 
+        "control": "1.0\tOmpR proteins\tcontrol\texpression levels of SsrA\n", 
+        "controls": "1.0\tOmpR\tcontrols\ttranscription of its regulon members\n", 
+        "encode": "1.0\tompR\tencode\telements of bacterial two-component regulatory systems PhoP-PhoQ respectively\n", 
+        "have": "1.0\tOmpR binding\thave\trepressive effect\n", 
+        "is involved in": "1.0\tompR gene\tis involved in\tregulation of synthesis of Vi capsular polysaccharide\n", 
+        "is required for": "1.0\tOmpR\tis required for\tincrease in SPI2 expression\n", 
+        "plays role in": "1.0\tregulatory protein OmpR\tplays role in\tcontrolling acid induction of stationary-phase ATR\n", 
+        "positively regulates": "1.0\tOmpR\tpositively regulates\tits transcription\n", 
+        "regulate": "1.0\tompR\tregulate\tSsrA-SsrB two-compo-nent system encoded in SPI2\n", 
+        "regulates": "1.0\tOmpR\tregulates\tstationary-phase acid tolerance response of Salmonella enterica serovar Typhimurium\n", 
+        "represses": "1.0\tOmpR\trepresses\t\ufb02hDC\n"
+    }, 
+    "ompr-envz": {
+        "contribute to": "1.0\tOmpR-EnvZ\tcontribute to\tFigure 1B\n", 
+        "controls": "1.0\ttwo-com-ponent regulatory system ompR-envZ\tcontrols\tvirulence of Shigella \ufb02ex-neri\n", 
+        "is involved in": "1.0\tOmpR-EnvZ two-component system\tis involved in\tregulation of Vi synthesis in S. typhi\n", 
+        "plays role in": "1.0\tompR-envZ two component regulatory system\tplays role in\tregulation of Vi polysaccharide synthesis in S. typhi\n", 
+        "regulates": "1.0\tOmpR-EnvZ system\tregulates\tompF\n"
+    }, 
+    "omps": {
+        "play role in": "1.0\tOMPs\tplay role in\tbacterial adaptation to environmental conditions\n"
+    }, 
+    "omps1": {
+        "encodes": "1.0\tompS1 gene\tencodes\tquiescent porin in Salmonella enterica serovars Typhi\n"
+    }, 
+    "ompw": {
+        "encodes": "1.0\tompW\tencodes\tporin involved in osmoregulation\n", 
+        "mediates": "1.0\tompW gene\tmediates\tmethyl viologen efflux\n"
+    }, 
+    "opda": {
+        "encodes": "1.0\tSalmonella enterica serovar Typhimurium opdA gene\tencodes\tmetalloprotease oligopeptidase A\n", 
+        "is required for": "1.0\tOpdA\tis required for\tproteolytic processing of phage P22 protein in vivo\n"
+    }, 
+    "oppa": {
+        "encodes": "1.0\tGene oppA\tencodes\tperiplasmic protein with molecular weight of 52,000 12\n"
+    }, 
+    "oppb": {}, 
+    "orf242": {}, 
+    "orf7": {}, 
+    "orfx": {
+        "encodes": "1.0\torfX\tencodes\tacetate kinase-like enzyme\n"
+    }, 
+    "orga": {
+        "encode": "1.0\torgA gene\tencode\tprotein of 412 amino acids\n"
+    }, 
+    "orgb": {
+        "is essential for": "1.0\tOrgB\tis essential for\tSalmonella invasion into epithelial cells\n", 
+        "is required for": "1.0\torgB gene\tis required for\tcomplementation of polar serovar Typhimurium prgH\n"
+    }, 
+    "orgc": {
+        "can": "1.0\torgC sequence\tcan\tcan found at bp 1510 1995 on Stm contig 1455 at Washington Universit serovar Typhimurium sequencing database\n", 
+        "encodes": "1.0\torgC gene located\tencodes\tputative protein of 161 amino acids\n"
+    }, 
+    "osmc": {}, 
+    "osmy": {
+        "encodes": "1.0\tYim osmY\tencodes\tperiplasmic protein in Escherichia coli\n"
+    }, 
+    "otsa": {
+        "encode": "1.0\totsA\tencode\ttrehalose-6-phosphate synthase\n", 
+        "have": "1.0\totsA\thave\tmajor role\n"
+    }, 
+    "otsb": {}, 
+    "otsba": {}, 
+    "oxyr": {
+        "act as": "1.0\tOxyR\tact as\ttetramer\n", 
+        "activate": "1.0\tOxyR\tactivate\ttranscription of specific genes involved in resistance to oxidative stress\n", 
+        "activates": "1.0\tOxyR\tactivates\texpression of oxidative-stress-responding genes\n", 
+        "acts as": "1.0\tOxyR\tacts as\ttranscriptional regulator irrespective of its oxidative state\n", 
+        "affects": "1.0\tOxyR half site\taffects\tpromoter activity in OxyR-dependent manner\n", 
+        "binds to": "1.0\tOxyR protein\tbinds to\tfour adjacent major grooves of DNA helix\n", 
+        "control": "1.0\tOxyR\tcontrol\tphase variation of gtrP22 promoter\n", 
+        "determine": "1.0\tmutant oxyR genes\tdetermine\tlocations of mutations\n", 
+        "induce": "1.0\tOxyR\tinduce\texpression\n", 
+        "is essential for": "1.0\tOxyR\tis essential for\texpression of STM2209-STM2208\n", 
+        "is required for": "0.8041850852115159\tOxyR\tis required for\tgtrP22 phase variation\n", 
+        "mediates": "1.0\tOxyR binding\tmediates\tmethylation protection\n", 
+        "regulate": "1.0\tOxyR\tregulate\ttheir own genes\n", 
+        "represses": "1.0\tOxyR\trepresses\texpression of oxyR gene independent of oxidative state of protein\n"
+    }, 
+    "oxys": {
+        "regulates": "1.0\tnovel oxyS RNA\tregulates\texpression of sigma s subunit of Escherichia coli RNA polymerase\n", 
+        "represses": "1.0\tOxyS regulatory RNA\trepresses\trpoS translation\n"
+    }, 
+    "pagc": {}, 
+    "pagd": {}, 
+    "pagk": {}, 
+    "pagm": {}, 
+    "pagn": {
+        "encode": "1.0\tpagN\tencode\tmembrane proteins\n", 
+        "mediates": "1.0\tPagN protein\tmediates\tinvasion\n"
+    }, 
+    "pagp": {}, 
+    "pal": {}, 
+    "parc": {
+        "encoding": "1.0\tparC genes\tencoding\tA subunits of topoisomerase IV\n"
+    }, 
+    "pare": {}, 
+    "pcm": {}, 
+    "pcnb": {}, 
+    "pdua": {}, 
+    "pdub": {}, 
+    "pdud": {}, 
+    "pdue": {}, 
+    "pduf": {}, 
+    "pdug": {}, 
+    "pdun": {}, 
+    "pduo": {}, 
+    "pdup": {
+        "encoding": "1.0\tpduP\tencoding\tputative aldehyde oxidoreductase\n"
+    }, 
+    "pduq": {}, 
+    "pduw": {
+        "encodes": "1.0\tpduW\tencodes\tprotein with propionate kinase enzyme activity\n", 
+        "encoding": "0.6862070685258056\tpduW\tencoding\tpropionate kinase\n"
+    }, 
+    "pdux": {}, 
+    "pdxb": {
+        "is required for": "1.0\tpdxB gene\tis required for\tde biosynthesis of vitamin B6-derived coenzyme pyridoxal 59-phos-phate\n"
+    }, 
+    "pefa": {}, 
+    "pefi": {
+        "controls": "1.0\tPefI\tcontrols\tsynthesis of virulence plasmid-encoded \ufb01mbriae\n", 
+        "regulates": "1.0\tPefI\tregulates\tproduction of PefA\n"
+    }, 
+    "pepe": {}, 
+    "pepn": {}, 
+    "pept": {
+        "can": "1.0\tpepT P1 promoter\tcan\tcan considered\n", 
+        "encoding": "0.6862070685258056\tpepT\tencoding\ttripeptidase\n"
+    }, 
+    "pflb": {}, 
+    "pfs": {
+        "is involved in": "1.0\tPfs\tis involved in\tmethionine metabolism\n", 
+        "is required for": "1.0\tpfs gene product\tis required for\tAI-2 production\n"
+    }, 
+    "pgi": {
+        "is involved in": "1.0\toxrC pgi gene\tis involved in\tgeneration of inducing signal associated primarily with fermentative activities\n"
+    }, 
+    "pgta": {
+        "can": "1.0\tPgtA\tcan\tcan freed from constraints imposed by PgtB\n"
+    }, 
+    "pgtb": {}, 
+    "pgtc": {}, 
+    "pgte": {}, 
+    "pgtp": {}, 
+    "phd": {
+        "binds to": "1.0\tPhd repressor-antitoxin protein\tbinds to\t8-bp palindromic Phd-binding sites in promoter region\n", 
+        "represses": "1.0\tPhd repressor-antitoxin protein\trepresses\ttranscription\n"
+    }, 
+    "phea": {}, 
+    "pher": {}, 
+    "phes": {}, 
+    "phnk": {}, 
+    "phob": {
+        "activates": "1.0\tPhoB ;P\tactivates\tpromoters\n", 
+        "binds to": "1.0\tPhoB\tbinds to\tsequence present in promoter regions of several PhoB-regulated genes including phoBR operon\n", 
+        "have": "1.0\tS. typhimurium phoB mutants\thave\tallele replacement by DNA hybridization\n", 
+        "regulate": "1.0\tPhoB\tregulate\thilA expression\n", 
+        "represses": "1.0\tPhoB ;P\trepresses\thilA genes\n"
+    }, 
+    "phoe": {}, 
+    "phon": {}, 
+    "phop": {
+        "activate": "1.0\tPhosphorylated PhoP\tactivate\ttranscription\n", 
+        "activate transcription": "1.0\tPhoP\tactivate transcription\tbinding to their intergenic regions simultaneously\n", 
+        "activates": "1.0\tPhoP\tactivates\texpression of pmrD gene\n", 
+        "affects": "1.0\tPhoP\taffects\ttranscription of colanic capsule genes\n", 
+        "bind to": "1.0\tPhoP proteins\tbind to\tintergenic regions\n", 
+        "binding to": "1.0\tSalmonella PhoP protein\tbinding to\tdistinct sites in iraP promoter\n", 
+        "binds to": "1.0\tPhoP\tbinds to\tpromoters of target genes resulting in activation\n", 
+        "contributes to": "1.0\tPhoP\tcontributes to\tactivation of SPI-2 type three secretion system required for establishment\n", 
+        "control": "1.0\tPhoP\tcontrol\tSpiR sensor kinase of SPI-2 master SsrB/SpiR regulatory system\n", 
+        "controls": "1.0\tSalmonella PhoP PhoQ system\tcontrols\texpression of 3 % of genome\n", 
+        "encodes": "1.0\tphoP locus\tencodes\ttwo proteins with homology to regulators-receivers respectively\n", 
+        "have": "1.0\tphoP ssrA mutants\thave\tsurvival characteristics\n", 
+        "inhibits": "1.0\texpressed phoP\tinhibits\tmouse-virulence of Salmonella typhi-murium\n", 
+        "is involved in": "1.0\tPhoP\tis involved in\tsurvival\n", 
+        "is required for": "1.0\tPhoP\tis required for\ttranscription of sense mgtCBR transcript\n", 
+        "plays role in": "1.0\tPhoP protein\tplays role in\tSalmonella pathogenesis\n", 
+        "positively regulates": "1.0\tPhoP\tpositively regulates\texpression of slyA\n", 
+        "promotes": "1.0\tphosphorylated PhoP protein\tpromotes\ttranscription of rstA\n", 
+        "regulate": "1.0\tphoP\tregulate\tlevels of orgA transcript\n", 
+        "regulates": "1.0\tPhoP\tregulates\tat least two separate networks of genes responsible for cationic antimicrobial peptide resistance\n", 
+        "represses": "1.0\tPhoP ;P\trepresses\thilA\n"
+    }, 
+    "phopq": {
+        "activates": "1.0\tPhoPQ\tactivates\texpression of PhoP-activated genes including genes on SPI2\n", 
+        "can": "1.0\tPhoPQ system\tcan\tFor example can induced\n", 
+        "contribute to": "1.0\tPhoPQ\tcontribute to\tcationic AMP resistance\n", 
+        "controls": "1.0\tPhoPQ two-component regulator\tcontrols\texpression\n", 
+        "have": "1.0\tPhoPQ\thave\thave implicated in expression of SPI-2 genes\n", 
+        "is essential for": "1.0\tPhoPQ two-component regulatory system\tis essential for\tsurvival of S. Typhimurium within professional phagocytes\n", 
+        "play role in": "1.0\tPhoPQ\tplay role in\texpression of SPI2 under magnesium\n", 
+        "plays role in": "1.0\tPhoPQ\tplays role in\tintracellular survival of S. Typhimurium independent of its control of SPI2\n", 
+        "regulate": "1.0\tPhoPQ\tregulate\tLPS modifying system\n", 
+        "regulates": "1.0\tPhoPQ\tregulates\tSPI2 genes\n"
+    }, 
+    "phoq": {
+        "activates": "1.0\tPhoQ\tactivates\tPhoP\n", 
+        "controls": "1.0\tSalmonella PhoP PhoQ system\tcontrols\texpression of 3 % of genome\n", 
+        "have": "1.0\tPhoQ\thave\tphosphatase activity upon phospho-PhoP\n", 
+        "induce": "1.0\tPhoQ\tinduce\tTCRS-mediated gene activation\n", 
+        "is required for": "1.0\tPhoQ\tis required for\tPhoP-mediated activation of phoPQ\n", 
+        "promotes": "1.0\tPhoP PhoQ system\tpromotes\thigher levels of RpoS protein\n", 
+        "represses": "1.0\tphoQ\trepresses\thilA\n"
+    }, 
+    "phoq-phop": {
+        "mediates": "1.0\tPhoQ-PhoP phosphorelay system\tmediates\tAMP resistance\n"
+    }, 
+    "phor": {
+        "acts as": "1.0\tPhoR\tacts as\tphosphatase\n"
+    }, 
+    "phou": {}, 
+    "pili": {}, 
+    "pldb": {}, 
+    "pldb-yigl": {}, 
+    "pmra": {
+        "activates": "1.0\tPmrA\tactivates\tpmrF-containing op-eron\n", 
+        "acts as": "1.0\tPmrA\tacts as\ttranscriptional repressor of gene\n", 
+        "bind": "1.0\tPmrA\tbind\tpromoters of other PmrA-regulated loci including pmrCAB\n", 
+        "bind to": "1.0\tPmrA protein\tbind to\tpmrD promoter\n", 
+        "binding to": "1.0\tPmrA\tbinding to\tssaG promoter indirectly\n", 
+        "binds to": "1.0\tPmrA protein\tbinds to\tspeci\ufb01c sequence in promoter of ssrB\n", 
+        "can": "1.0\tPmrA PmrB two-component system\tcan\tcan activated independently\n", 
+        "control": "1.0\tPmrA\tcontrol\tmodi\ufb01cation of LPS\n", 
+        "controls": "1.0\tregulatory protein PmrA\tcontrols\tetiologic agent of human gastroenteritis\n", 
+        "encode": "1.0\tpmrA genes\tencode\tproteins homologous to regulators respectively of two-component family of signal transduction systems\n", 
+        "encodes": "1.0\tpmrA locus\tencodes\ttwo-component system\n", 
+        "encoding": "1.0\tPmrA motif\tencoding\tgene with unknown function\n", 
+        "is essential for": "1.0\tPmrA\tis essential for\texpression of subset of PhoP-regu-lated genes\n", 
+        "is required for": "1.0\tSalmonella PmrA PmrB two-component system\tis required for\tresistance to cationic peptide antibiotic poly-myxin B\n", 
+        "promotes": "1.0\tPmrA\tpromotes\tugd transcription\n", 
+        "regulates": "1.0\tPmrA\tregulates\texpression\n", 
+        "represses": "1.0\tactivated PmrA protein\trepresses\ttranscription of pmrD gene\n"
+    }, 
+    "pmrb": {
+        "activate": "1.0\tPmrA-cognate sensor PmrB\tactivate\tPmrA-regulated gene pbgP\n", 
+        "can": "1.0\tPmrA PmrB two-component system\tcan\tcan activated independently\n", 
+        "controls": "1.0\tPmrB two-component system\tcontrols\texpression of its posttranscriptional activator PmrD\n", 
+        "have": "1.0\tpmrB\thave\thave identi\ufb01ed as in vivo-ex-pressed genes\n", 
+        "is required for": "1.0\tSalmonella PmrA PmrB two-component system\tis required for\tresistance to cationic peptide antibiotic poly-myxin B\n", 
+        "plays role in": "1.0\tPmrB\tplays role in\tits capacity of main phosphodonor for PmrA\n", 
+        "represses": "1.0\tPmrA PmrB system\trepresses\tPmrD expression\n"
+    }, 
+    "pmrd": {
+        "activates": "0.5230921450372741\tPmrD protein\tactivates\tPmrA protein\n", 
+        "binds to": "1.0\tPmrD protein\tbinds to\tphosphorylated form of PmrA\n", 
+        "mediates": "1.0\tPmrD\tmediates\ttranscriptional activation\n", 
+        "regulate": "1.0\tPmrD protein\tregulate\tactivity of PmrA\n"
+    }, 
+    "pmrf": {}, 
+    "pnca": {}, 
+    "pncb": {
+        "encodes": "1.0\tpncB gene\tencodes\tNAPRTase\n"
+    }, 
+    "pnp": {}, 
+    "pnuc": {
+        "affect": "1.0\tpnuC mutation\taffect\tNMN deamidase activity\n", 
+        "encodes": "1.0\tpnuC gene\tencodes\tmembrane-associated protein\n"
+    }, 
+    "pocr": {
+        "activate": "1.0\tPocR\tactivate\ttranscription of cob/pdu\n", 
+        "activates": "1.0\tpocR protein\tactivates\ttranscription of its own gene\n", 
+        "acts as": "1.0\tPocR protein\tacts as\tpositive regulatory protein\n", 
+        "binds to": "1.0\tPocR protein\tbinds to\tthree consecutive major grooves of binding site DNA\n", 
+        "have": "1.0\tpocR gene\thave\tone transcriptional start site\n"
+    }, 
+    "pola": {}, 
+    "potb": {}, 
+    "poxb": {
+        "encode": "1.0\tpoxB\tencode\ttrehalose-6-phosphate synthase\n"
+    }, 
+    "ppha": {}, 
+    "ppia": {}, 
+    "pqab": {
+        "affects": "1.0\tSalmonella typhi melittin resistance gene pqaB\taffects\tintracellular growth in PMA-differentiated U937 cells\n"
+    }, 
+    "prfa": {}, 
+    "prgh": {
+        "binds to": "1.0\tprgH HilA box\tbinds to\tHilA\n", 
+        "encodes": "1.0\tprgH\tencodes\tstructural component of SPI-1 T3SS-1 apparatus\n", 
+        "have": "1.0\tprgH mutants\thave\tLD50 of approximately 60 organisms\n", 
+        "is required for": "1.0\tprgH product\tis required for\tsecretion of Sip proteins\n"
+    }, 
+    "prgi": {}, 
+    "prgj": {}, 
+    "prgk": {
+        "is involved in": "1.0\tGene prgK\tis involved in\tformation of membrane-localized basal substructure of complex\n"
+    }, 
+    "prlc": {
+        "encodes": "1.0\tEscherichia coli prlC\tencodes\tendopeptidase\n"
+    }, 
+    "prma": {}, 
+    "prob": {}, 
+    "proc": {}, 
+    "prom": {}, 
+    "prop": {
+        "encodes": "1.0\tSalmonella typhimurium proP gene\tencodes\ttransport system for osmoprotectant betaine\n", 
+        "encoding": "1.0\tproP gene\tencoding\tminor proline permease in S. typhimurium\n", 
+        "have": "1.0\tproP genes\thave\thave also identified in E. coli\n", 
+        "is required for": "1.0\tproP\tis required for\tosmoprotection\n", 
+        "play role in": "1.0\tproP\tplay role in\tbetaine transport\n", 
+        "plays role in": "1.0\tproP gene\tplays role in\tbetaine uptake\n"
+    }, 
+    "prov": {}, 
+    "prow": {}, 
+    "prox": {}, 
+    "prpb": {}, 
+    "prpc": {}, 
+    "prpd": {}, 
+    "prpe": {
+        "encode": "1.0\tprpE\tencode\tacyl-CoA synthetases\n", 
+        "encodes": "1.0\tprpE gene\tencodes\tspeci\ufb01c propionyl-CoA synthetase\n", 
+        "encoding": "0.5260754399790064\tprpE gene\tencoding\tpropionyl-CoA synthetase enzyme\n", 
+        "is involved in": "1.0\tprpE\tis involved in\tpropionate catabolism\n", 
+        "is required for": "1.0\tPrpE activity\tis required for\texpression of prpBCDE operon\n"
+    }, 
+    "prpr": {
+        "activate": "1.0\tWild-type PrpR protein\tactivate\ttranscription\n", 
+        "encodes": "1.0\tprpR\tencodes\tpredicted protein with homology to 50 members of sigma-54-dependent family of transcriptional activators\n", 
+        "is required for": "1.0\tPrpR activity\tis required for\tcatabolism of propionate in S. typhimurium\n"
+    }, 
+    "prsa": {}, 
+    "psd": {}, 
+    "psi": {}, 
+    "psib": {}, 
+    "psif": {}, 
+    "pslt046": {}, 
+    "pslt047": {}, 
+    "pspa": {}, 
+    "pspf": {}, 
+    "psts": {
+        "have": "1.0\tpstS\thave\troles\n"
+    }, 
+    "pta": {
+        "contribute to": "1.0\tPta enzymes\tcontribute to\tsynthesis of acetyl-CoA in cell\n", 
+        "encodes": "0.7271339899990145\tpta\tencodes\tphosphotransacetylase\n"
+    }, 
+    "ptsg": {}, 
+    "ptsh": {}, 
+    "ptsh-ptsi-crr": {}, 
+    "ptsi": {}, 
+    "ptsl": {
+        "have": "1.0\tS. typhimurium ptsl coding regions\thave\tsame length 575 codons\n"
+    }, 
+    "ptsn": {
+        "encodes": "1.0\tptsN gene\tencodes\tcomponent of nitrogen-metabolic PTS\n", 
+        "encoding": "0.7725511539553778\tptsN gene\tencoding\tEIIANtr\n"
+    }, 
+    "pura": {}, 
+    "purb": {}, 
+    "purd": {}, 
+    "pure": {}, 
+    "purl": {}, 
+    "purr": {
+        "encoding": "1.0\tEscherichia coli gene purR\tencoding\trepressor protein for purine nucleotide synthesis\n"
+    }, 
+    "puta": {
+        "act as": "1.0\texcess putA protein\tact as\trepressor of put genes\n", 
+        "acts as": "1.0\tputA protein\tacts as\tautoregulatory 56 PROLINE P-5-C GLUTAMATE FIG. 1\n", 
+        "bind to": "1.0\tPutA protein\tbind to\tmultiple operator sites in put control region\n", 
+        "binds to": "1.0\tpurified PutA protein\tbinds to\toperator sites on DNA fragments from put regulatory region\n", 
+        "can": "1.0\tPutA protein binding\tcan\tcan demonstrated in vivo\n", 
+        "control": "1.0\tPutA protein\tcontrol\tregion DNA from each of deletion mutants\n", 
+        "controls": "1.0\tputa tive promoter region\tcontrols\texpression of yih genes\n", 
+        "encodes": "1.0\tputA gene\tencodes\tbifunctional enzyme with proline dehydrogenase required for oxidation of proline to glutamate\n", 
+        "inhibits": "1.0\tputA gene product\tinhibits\texpression of put genes\n", 
+        "is involved in": "1.0\tPutA protein\tis involved in\tregulation of put operon\n", 
+        "mediates": "1.0\tPutA protein\tmediates\tregulation of put operon by proline\n", 
+        "regulate": "1.0\tPutA protein\tregulate\tgene expression\n", 
+        "regulates": "1.0\tPutA protein\tregulates\ttranscription of put operon\n", 
+        "represses": "1.0\tPutA protein\trepresses\ttranscription of put4\n"
+    }, 
+    "putp": {
+        "encodes": "1.0\tputP gene\tencodes\tmajor proline permease\n", 
+        "is required for": "1.0\tPutP system\tis required for\tutilization of proline\n", 
+        "play role in": "1.0\tputP\tplay role in\tbetaine transport\n"
+    }, 
+    "pykf": {}, 
+    "pyrb": {}, 
+    "pyrc": {}, 
+    "pyrd": {}, 
+    "pyre": {}, 
+    "pyrf": {}, 
+    "pyrh": {}, 
+    "qseb": {
+        "act as": "1.0\tQseB\tact as\trepressor\n", 
+        "binds to": "1.0\tQseB\tbinds to\tdifferent sites\n", 
+        "positively regulates": "1.0\tQseB\tpositively regulates\ttranscription of flagellar genes\n", 
+        "regulates": "1.0\tQseB\tregulates\ttranscription of flagellar genes\n"
+    }, 
+    "rama": {
+        "activate": "1.0\tRamA\tactivate\ttarget gene expression\n", 
+        "activates": "1.0\tramA\tactivates\tMDR cascade\n", 
+        "affect": "1.0\tRamA\taffect\tvirulence\n", 
+        "affects": "1.0\tramA\taffects\texpression of acrB\n", 
+        "bind to": "1.0\tRamA\tbind to\tupstream promoter region of acrAB\n", 
+        "contribute to": "1.0\tramA\tcontribute to\t\ufb02uoroquinolone resistance in serovar Typhimurium\n", 
+        "has role in": "1.0\tRamA\thas role in\tpositive regulation of AcrAB\n", 
+        "plays role in": "1.0\tRamA\tplays role in\tvirulence regulation\n", 
+        "regulates": "0.5462677635983152\ttranscriptional activator RamA\tregulates\tproduction of multidrug resistance ef\ufb02ux AcrAB\n", 
+        "represses": "1.0\tRamA\trepresses\texpression of genes contributing to pathogenicity\n"
+    }, 
+    "rata": {}, 
+    "ratb": {}, 
+    "rbfa": {}, 
+    "rbsa": {}, 
+    "rbsb": {}, 
+    "rck": {
+        "promotes": "1.0\tRck\tpromotes\tadherence to epithelial cells\n"
+    }, 
+    "rcsa": {
+        "activate": "1.0\tEscherichia coli RcsA\tactivate\tits own expression\n", 
+        "binding to": "1.0\tcofactor RcsA\tbinding to\t\ufb02hDC promoter region\n", 
+        "contributes to": "1.0\tRcsA\tcontributes to\tsystemic infection\n", 
+        "controls": "1.0\tRcsA\tcontrols\tpart of Rcs regulon of serovar Typhimurium\n", 
+        "have": "1.0\tRcsA proteins\thave\thave shown\n", 
+        "regulate": "1.0\tcofactor RcsA\tregulate\t\ufb02agellar regulon including FliZ\n"
+    }, 
+    "rcsab": {}, 
+    "rcsb": {
+        "activate": "1.0\tresponse regulator RcsB\tactivate\tRcsCDB phosphorelay system\n", 
+        "activates": "1.0\tRcsB\tactivates\tbiosynthesis of Vi capsular polysaccharide\n", 
+        "acts as": "1.0\tRcsB phosphorylation\tacts as\tkey switch between planktonic life-styles in Salmonella enterica serovar Typhimurium\n", 
+        "are important for": "1.0\tRcsB\tare important for\tsystemic infection in mice\n", 
+        "bind": "1.0\tRcsB phosphorylated form\tbind\tpromoter region of target genes required\n", 
+        "bind to": "1.0\tRcsB P\tbind to\tRcsAB box in promoter region of several genes\n", 
+        "binds to": "1.0\tRcsB\tbinds to\tspeci\ufb01c site termed within class 1 promoter region\n", 
+        "contribute to": "1.0\tRcsB\tcontribute to\tsystemic infection in mice\n", 
+        "induce": "1.0\tunphosphorylated RcsB\tinduce\tincrease in csgD mRNA levels\n", 
+        "is involved in": "0.8752755911055913\trcsB\tis involved in\tregulation of Vi antigen synthesis\n", 
+        "is required for": "1.0\tRcsB binding\tis required for\tstimulation of rcsA transcription\n", 
+        "play role in": "1.0\tdephosphorylated RcsB\tplay role in\tpositive regulation of spvA\n", 
+        "promotes": "1.0\tRcsB\tpromotes\tydeI transcription\n", 
+        "regulate": "1.0\tRcsB\tregulate\t\ufb02agellar regulon including FliZ\n", 
+        "regulates": "1.0\ttwo-component response regulator rcsb\tregulates\ttype 1 piliation in Escherichia coli\n", 
+        "represses": "0.7324170382773826\tRcsB\trepresses\texpression of rcsB\n"
+    }, 
+    "rcsc": {
+        "act as": "1.0\tRcsC\tact as\tindependent kinase proteins able\n", 
+        "are important for": "1.0\trcsC\tare important for\tsystemic Salmonella enterica sero-var Typhimurium infection\n", 
+        "contribute to": "1.0\tRcsC\tcontribute to\tmodulation of other Rcsdependent genes\n", 
+        "contributes to": "1.0\tRcsC\tcontributes to\tpersistent infection of mice\n", 
+        "controls": "1.0\tRcsC sensor kinase\tcontrols\texpression of regulon\n", 
+        "have": "1.0\tRcsC\thave\tability autophosphorylate\n", 
+        "induce": "1.0\tRcsC cytoplasmic regions\tinduce\tRcsB\n", 
+        "is involved in": "1.0\tRcsC\tis involved in\tregulation of colanic acid production in E. coli\n", 
+        "is required for": "1.0\tRcsC sensor kinase\tis required for\tnormal bio\ufb01lm formation in Escherichia coli K-12\n"
+    }, 
+    "rcsf": {}, 
+    "rdoa": {
+        "affects": "1.0\tRdoA\taffects\t\ufb02agellin phase variation\n", 
+        "is involved in": "1.0\tRdoA\tis involved in\t\ufb02agellar phase variation under NlpE-overproducing conditions\n"
+    }, 
+    "reca": {}, 
+    "recb": {}, 
+    "rece": {}, 
+    "recj": {}, 
+    "rect": {}, 
+    "rela": {
+        "encoding": "0.7678931343296692\trelA\tencoding\tppGpp synthase\n", 
+        "is involved in": "1.0\trelA\tis involved in\tresponses of several sti loci\n"
+    }, 
+    "relb": {
+        "bind": "1.0\tRelB antitoxin dimers\tbind\trelO operator half-sites\n"
+    }, 
+    "rele": {
+        "controls": "0.8134050046244917\tRelE\tcontrols\trelBE transcription\n"
+    }, 
+    "rep": {}, 
+    "repa": {}, 
+    "res": {}, 
+    "rfac": {}, 
+    "rfad": {
+        "is required for": "1.0\trfaD\tis required for\tviability of E. coli at high temperature\n"
+    }, 
+    "rfae": {}, 
+    "rfaf": {
+        "determine": "1.0\tgene rfaF\tdetermine\theptosyltransferase II\n"
+    }, 
+    "rfag": {}, 
+    "rfah": {
+        "acts as": "0.09232135070311598\tRfaH\tacts as\tantiterminator\n", 
+        "affects": "1.0\tRfaH\taffects\ttranscription of genes required for outer membrane composition\n", 
+        "encodes": "1.0\trfaH\tencodes\tantitermination factor involved in stabilization of very long transcripts\n", 
+        "is required for": "1.0\tRfaH\tis required for\ttranscription of LPS biosynthetic genes in S. enterica serovar Typhimurium\n", 
+        "positively regulates": "1.0\tRfaH\tpositively regulates\trfaGBIJ expression at transcriptional level\n", 
+        "regulates": "1.0\tRfaH\tregulates\trfaGBIJ expression at transcriptional level\n"
+    }, 
+    "rfaj": {}, 
+    "rfak": {}, 
+    "rfal": {}, 
+    "rfaq": {}, 
+    "rfbh": {
+        "is required for": "1.0\tSalmonella Enteritidis lipopolysaccharide biosynthesis gene rfbH\tis required for\tsurvival in egg albumen\n"
+    }, 
+    "rhaa": {}, 
+    "rhab": {}, 
+    "rhad": {}, 
+    "rhar": {
+        "activate": "1.0\tRhaR\tactivate\ttranscription from L-rhamnose-responsive rhaSR promoter\n", 
+        "activates": "1.0\tRhaR\tactivates\trhaSR genes\n", 
+        "binding to": "1.0\tRhaR\tbinding to\tinverted repeat of two 17 bp half sites separated by 17 bp spacer\n", 
+        "binds to": "1.0\tRhaR repressor\tbinds to\toperator region at rha operon\n", 
+        "controls": "1.0\tDeoR-family regulator RhaR\tcontrols\tFIGURE 2 | Genomic context of L-rhamnose catabolic genes in bacteria from seven diverse taxonomic lineages\n"
+    }, 
+    "rhas": {
+        "activates": "1.0\tRhaS\tactivates\trhaBAD genes\n", 
+        "controls": "1.0\tRhaS activator\tcontrols\tErwinia chrysanthemi 3937 genes involved in rhamnogalacturonan catabolism\n", 
+        "regulate": "1.0\tRhaS\tregulate\trhiTN operon involved in uptake of rhamnogalacturonides\n"
+    }, 
+    "rhat": {}, 
+    "rhau": {}, 
+    "rho": {
+        "bind": "1.0\tRho\tbind\tRNA polymerase\n", 
+        "play role in": "1.0\tRho\tplay role in\tgene control\n", 
+        "promotes": "1.0\tRho\tpromotes\ttranscription termination\n"
+    }, 
+    "rhs": {}, 
+    "rhs1": {}, 
+    "ribb": {
+        "controls": "1.0\tribB riboswitch\tcontrols\ttranscription termination\n"
+    }, 
+    "rna": {
+        "activate": "1.0\tUrban conserved small RNA\tactivate\tGlmS synthesis\n", 
+        "activates": "0.6705252638093239\tRNA binding protein CsrA\tactivates\tcsrB transcription in Escherichia coli\n", 
+        "acts as": "1.0\tsmall RNA\tacts as\tantisilencer of H-NS-silenced rcsA gene of Escherichia coli\n", 
+        "are important for": "1.0\tRNA sequences\tare important for\tFljA binding to 5 UTR\n", 
+        "bind": "1.0\tRNA polymerase\tbind\ttranscribed somewhat less efficiently\n", 
+        "bind to": "1.0\tRNA polymerase\tbind to\tpromoters\n", 
+        "binding to": "0.7391760093598098\tRNA polymerase\tbinding to\t1.4-kb SmaI-SmaI fragment\n", 
+        "binds to": "1.0\tT. RNA molecule CsrB\tbinds to\tglobal regulatory protein CsrA\n", 
+        "can": "1.0\tIsrH-1 RNA\tcan\tUnder conditions can hardly detected at exponential phase\n", 
+        "contributes to": "1.0\tRNA polymerase binding protein DksA\tcontributes to\tantinitrosative defenses of enteric pathogen S. enterica serovar Typhimurium\n", 
+        "control": "1.0\tsmall RNA chaperone Hfq\tcontrol\tquorum sensing in Vibrio harveyi\n", 
+        "controls": "1.0\tRNA polymerase regulatory protein DksA\tcontrols\tstringent response of eubacteria\n", 
+        "determine": "1.0\tRNA samples\tdetermine\ttranscriptional start point in strain backgrounds\n", 
+        "have": "1.0\tUTR.Rv CTCGAGCAGATCTTCTTCAGAAATAAGTTTTTGTTCCGAGATATCTTCCAGAGAACG CTCGAGTGCATTGTTTTAATGGATATG GGATCCAACTTCATTGGCATGCAGGTT AAGACGTGACACACTTCGTTT CAGATCTTCTTCAGAAATAAGTTTTTGTTC GCAGGATAATTTAAGCCGCA TAATCCGCTGACCACGTGTTC AGTTAAAAGTATTTTCGTAAATA CCGGCTAGCGTGACCATGAATACTATGGACTT CAAACGATGCCCGTAAATC TTTAGCGTTCCACTGGTCGA csgA.rt.Fw csgA.rt.Rv csgA CGGTAGTCAACGCTCTGTC GGCCAGAAACGTACCATCGT gyrB.rt.Fw gyrB.rt.Rv gyrB CATCTCATTTCTGTCGCAAAT GACTTGAACAGAATCACACT rprA.Fw rprA.Rv rprANB rprA CACACAGCAATTCGTTGTTTCACTCAGGG 5S RNA CTACGGCGTTTCACTTCTGAGTTC 5SNB RESULTS Deletions\thave\tdifferent effects\n", 
+        "inhibits": "1.0\tS. small RNA IstR\tinhibits\tsynthesis of SOS-induced toxic peptide\n", 
+        "is essential for": "1.0\tsmall RNA\tis essential for\tlow temperature expression of rpoS during exponential growth in Escherichia coli\n", 
+        "is involved in": "1.0\tsmall regulatory RNA mol-ecule MicA\tis involved in\tSalmonella enterica serovar Typhimurium biofilm formation\n", 
+        "is required for": "1.0\tonly RNA polymerase\tis required for\tmaximum expression of aralf promoters\n", 
+        "mediates": "1.0\tSm-like RNA chaperone Hfq\tmediates\ttranscription antitermination\n", 
+        "plays role in": "1.0\tRNA polymerase regulatory protein DksA\tplays role in\texpression of antioxidant defenses of Salmonella\n", 
+        "promotes": "1.0\tUrban conserved small RNA\tpromotes\tdiscoordinate expression of glmUS operon mRNA\n", 
+        "regulate": "1.0\targinine transfer RNA fimU\tregulate\tfimbrial production\n", 
+        "regulates": "1.0\tPhoQ/P-regulated small RNA\tregulates\tsensitivity of Escherichia coli to antimicrobial peptides\n", 
+        "represses": "1.0\tsmall non-coding RNA\trepresses\touter membrane protein synthesis from Salmonella core genome\n"
+    }, 
+    "rnd": {
+        "contribute to": "1.0\tRND pumps\tcontribute to\tpathogenicity\n", 
+        "have": "1.0\tRND pumps\thave\thave also shown\n"
+    }, 
+    "rne": {}, 
+    "rnpa": {}, 
+    "rnr": {}, 
+    "rob": {
+        "affect": "1.0\tRob\taffect\ttranscriptional activity of other PhoP-regulated genes\n", 
+        "contribute to": "1.0\tbasal Rob levels\tcontribute to\tMgtA expression in late exponential phase\n", 
+        "induce": "1.0\tRob\tinduce\tmgtA transcription\n"
+    }, 
+    "rop": {}, 
+    "rpia": {
+        "encoding": "1.0\tEscherichia coli rpiA gene\tencoding\tribose phosphate isomerase A. J. Bacteriol\n"
+    }, 
+    "rpmi": {}, 
+    "rpo": {}, 
+    "rpoa": {
+        "have": "1.0\tC-terminal rpoA mutants\thave\tproperty to considerably lesser degree\n"
+    }, 
+    "rpob": {}, 
+    "rpod": {}, 
+    "rpoe": {
+        "is involved in": "1.0\tRpoE\tis involved in\ttranscriptional activity of subset of virulence genes\n"
+    }, 
+    "rpoh": {
+        "encoding": "0.6862070685258056\trpoH\tencoding\t32\n"
+    }, 
+    "rpon": {
+        "encodes": "0.7609104527473163\trpoN\tencodes\ts54\n", 
+        "is required for": "1.0\trpoN gene\tis required for\tdiverse metabolic functions\n"
+    }, 
+    "rpos": {
+        "activates": "1.0\talternative factor RpoS\tactivates\ttranscription of gene\n", 
+        "affect": "1.0\tRpoS\taffect\tSPI1 expression in Salmonella\n", 
+        "binds to": "1.0\tRpoS\tbinds to\tpromoter of sraL gene\n", 
+        "can": "1.0\tRpoS abundance\tcan\tcan increased in exponential-phase cells\n", 
+        "contribute to": "1.0\tRpoS\tcontribute to\tmultidrug resistance in E. coli\n", 
+        "contributes to": "1.0\t3rd altered rpoS allele\tcontributes to\tavirulence of Salmonella typhimurium LT2\n", 
+        "controls": "1.0\tRpoS\tcontrols\texpression of regulon of genes involved in stress resistance\n", 
+        "encodes": "1.0\trpoS gene\tencodes\talternative primary sigma factor for RNA polymerase\n", 
+        "encoding": "0.9213080148822518\trpoS gene\tencoding\tsS\n", 
+        "has role in": "1.0\tfactor RpoS\thas role in\tpositive in S. typhi-murium\n", 
+        "induce": "0.5923965987150578\trpoS\tinduce\tPBAD\n", 
+        "is involved in": "1.0\tRpoS expression\tis involved in\tCsgD downregulation in mltE mltC double mutant\n", 
+        "is required for": "1.0\tRpoS\tis required for\ttranscription of many genes expressed during onset of stationary phase\n", 
+        "plays role in": "1.0\talternative sigma factor RpoS\tplays role in\tSalmonella infection\n", 
+        "regulate": "1.0\trpoS\tregulate\tbacterial growth within fibroblasts\n", 
+        "regulates": "1.0\trpoS\tregulates\tunidenti\ufb01ed chromosomal gene s involved in colonization of Salmonella in spleens\n", 
+        "represses": "1.0\tRpoS\trepresses\tfis expression\n"
+    }, 
+    "rpra": {
+        "binds to": "1.0\tRprA\tbinds to\t5\n", 
+        "have": "1.0\tUTR.Rv CTCGAGCAGATCTTCTTCAGAAATAAGTTTTTGTTCCGAGATATCTTCCAGAGAACG CTCGAGTGCATTGTTTTAATGGATATG GGATCCAACTTCATTGGCATGCAGGTT AAGACGTGACACACTTCGTTT CAGATCTTCTTCAGAAATAAGTTTTTGTTC GCAGGATAATTTAAGCCGCA TAATCCGCTGACCACGTGTTC AGTTAAAAGTATTTTCGTAAATA CCGGCTAGCGTGACCATGAATACTATGGACTT CAAACGATGCCCGTAAATC TTTAGCGTTCCACTGGTCGA csgA.rt.Fw csgA.rt.Rv csgA CGGTAGTCAACGCTCTGTC GGCCAGAAACGTACCATCGT gyrB.rt.Fw gyrB.rt.Rv gyrB CATCTCATTTCTGTCGCAAAT GACTTGAACAGAATCACACT rprA.Fw rprA.Rv rprANB rprA CACACAGCAATTCGTTGTTTCACTCAGGG 5S RNA CTACGGCGTTTCACTTCTGAGTTC 5SNB RESULTS Deletions\thave\tdifferent effects\n", 
+        "represses": "1.0\tRprA\trepresses\tcsgD translation\n"
+    }, 
+    "rpsm": {}, 
+    "rpsv": {}, 
+    "rrs": {}, 
+    "rsea": {}, 
+    "rseb": {}, 
+    "rsep": {}, 
+    "rsmc": {}, 
+    "rsta": {
+        "binds to": "1.0\tRstA protein\tbinds to\tfeoA promoter\n", 
+        "inhibits": "1.0\tRstA expression\tinhibits\tbio\ufb01lm formation\n", 
+        "promotes": "1.0\tRstA protein\tpromotes\ttranscription of feoAB operon\n"
+    }, 
+    "rstb": {}, 
+    "rutr": {}, 
+    "rybb": {}, 
+    "s28": {
+        "activate": "1.0\ts28\tactivate\ttranscription of \ufb02hDC operon\n"
+    }, 
+    "s32": {}, 
+    "s54": {
+        "control": "1.0\tOverlapping s54\tcontrol\texpression of glmY in Klebsiella\n", 
+        "regulate": "1.0\ts54\tregulate\tglmZ genes of S. typhimurium\n"
+    }, 
+    "s70": {
+        "binds to": "1.0\ts70 RNA polymerase\tbinds to\tE. coli \ufb01s P region\n"
+    }, 
+    "safa": {}, 
+    "safc": {
+        "encoding": "0.6989356815557889\tsafC gene\tencoding\tsmall outer membrane fimbrial usher protein\n"
+    }, 
+    "sapa": {}, 
+    "sapabcdf": {}, 
+    "sapb": {}, 
+    "sapc": {}, 
+    "sapd": {
+        "have": "1.0\tSapD\thave\thigh degree of sequence similarity with several members of ATP binding cassette family of transporters\n"
+    }, 
+    "sapf": {
+        "have": "1.0\tSapF\thave\thigh degree of sequence similarity with several members of ATP binding cassette family of transporters\n", 
+        "is required for": "1.0\tsapF\tis required for\tactivity\n"
+    }, 
+    "sapg": {}, 
+    "sbca": {}, 
+    "sbce": {}, 
+    "scid": {}, 
+    "scig": {
+        "have": "1.0\tsciG core T6SS gene mutants\thave\tintracellular replication ratio of approximately 0.5\n"
+    }, 
+    "scii": {}, 
+    "scil": {
+        "have": "1.0\tsciL genes\thave\tlargest number\n"
+    }, 
+    "sciq": {}, 
+    "scir": {}, 
+    "scis": {
+        "play role in": "1.0\tsciS\tplay role in\tS. enterica serovar Typhimurium\n"
+    }, 
+    "scit": {}, 
+    "sciu": {}, 
+    "sciv": {}, 
+    "scix": {}, 
+    "sdia": {
+        "activate": "1.0\tS. typhimurium sdiA\tactivate\tE. coli ftsQAZ\n", 
+        "activates": "1.0\tE. coli SdiA\tactivates\tftsQ\n", 
+        "bind": "1.0\tSdiA\tbind\tits activators\n", 
+        "controls": "1.0\tSdiA\tcontrols\texpression of virulence factors in enterohaemorrhagic Escherichia coli O157\n", 
+        "encode": "1.0\tsdiA genes\tencode\tLuxR homologs\n", 
+        "regulates": "1.0\tSdiA\tregulates\tits own expression\n"
+    }, 
+    "selc": {}, 
+    "seqa": {
+        "bind": "1.0\tSeqA\tbind\tnonmethylated DNA\n", 
+        "is required for": "1.0\tGATC-binding protein SeqA\tis required for\tbile resistance in Salmonella enterica serovar Typhimurium\n", 
+        "represses": "1.0\tGATC-binding protein SeqA\trepresses\tstd expression\n"
+    }, 
+    "sera": {}, 
+    "serb": {}, 
+    "serc": {}, 
+    "sert": {}, 
+    "setb": {}, 
+    "sgrr": {}, 
+    "shda": {
+        "binds to": "1.0\tShdA adhesin\tbinds to\tcationic cradle of \ufb01bronectin 13FnIII repeat module\n", 
+        "contributes to": "1.0\tshdA gene\tcontributes to\tef\ufb01cient fecal shedding\n"
+    }, 
+    "sica": {
+        "activate": "1.0\tTTSS chaperone protein SicA\tactivate\texpression of several effector proteins including protein encoded by sopB\n", 
+        "encode": "1.0\tsicA\tencode\tchaperone\n", 
+        "is required for": "1.0\tSicA\tis required for\texpression of invF\n"
+    }, 
+    "sicp": {}, 
+    "sifa": {
+        "binds to": "1.0\tSifA\tbinds to\tmammalian kinesin-binding protein SKIP\n"
+    }, 
+    "sifb": {}, 
+    "sigd": {
+        "encoding": "0.7224612613536737\tsigD allele\tencoding\ttruncated SigD from pHH26\n", 
+        "have": "1.0\tSigD\thave\t16 cysteines\n"
+    }, 
+    "sige": {
+        "have": "1.0\tSigE\thave\tonly 5\n"
+    }, 
+    "sigma70": {}, 
+    "siia": {}, 
+    "siib": {}, 
+    "siic": {}, 
+    "siid": {}, 
+    "siie": {
+        "can": "1.0\tSiiE\tcan\tcan secreted independently of SPI1-encoded T3SS\n", 
+        "contributes to": "1.0\tSiiE\tcontributes to\tintestinal colonization of cattle\n", 
+        "is required for": "1.0\tsiiE\tis required for\tlong-term survival\n"
+    }, 
+    "siif": {}, 
+    "sinr": {
+        "affects": "1.0\tSinR\taffects\tsD activity\n", 
+        "encodes": "1.0\tsinR\tencodes\tLysR family transcription factor\n", 
+        "is required for": "1.0\tSinR\tis required for\tmotility in B. subtilis\n", 
+        "positively regulates": "1.0\tSinR\tpositively regulates\tB. subtilis\n", 
+        "regulates": "1.0\tSinR\tregulates\tB. subtilis\n"
+    }, 
+    "sipa": {
+        "contribute to": "1.0\tSipA\tcontribute to\tSalmonella enterica serotype Typhi-murium invasion of epithelial cells\n", 
+        "have": "1.0\tsipA genes\thave\tInvF-dependent promoter\n"
+    }, 
+    "sipb": {
+        "binding to": "1.0\tSalmonella invasin SipB\tbinding to\tcaspase-1\n", 
+        "plays role in": "1.0\tSPI-1 T3SS effector protein SipB\tplays role in\tSalmo-nella pathogenesis\n"
+    }, 
+    "sipc": {
+        "encodes": "1.0\tsipC\tencodes\tcomponent of putative translocation pore\n"
+    }, 
+    "sipd": {
+        "is required for": "1.0\tSipD\tis required for\ttranslocation of effector proteins into host cells\n"
+    }, 
+    "sira": {
+        "activate": "1.0\tSalmonella SirA\tactivate\ttranscription of sigD-lacZYA construct\n", 
+        "activates": "1.0\tPhosphorylated SirA\tactivates\ttranscription\n", 
+        "acts as": "1.0\tSirA\tacts as\tdimer\n", 
+        "affect": "1.0\tSirA orthologs\taffect\tvirulence\n", 
+        "affects": "1.0\tSirA\taffects\tregulatory gene above \ufb02hD\n", 
+        "bind": "1.0\tPhosphorylated SirA\tbind\thilA promoters\n", 
+        "bind to": "1.0\tSirA\tbind to\ttwo central regulators of SPI1\n", 
+        "binding to": "1.0\tSirA\tbinding to\t18-pb IR sequence located far upstream from promoter of genes\n", 
+        "binds to": "1.0\tSirA\tbinds to\tsequence with dyad symmetry on regulatory region of csrB\n", 
+        "contribute to": "1.0\tsirA\tcontribute to\tS. enterica surface attachment\n", 
+        "controls": "1.0\tFIG 7 SirA\tcontrols\tcsrC expression\n", 
+        "encode": "1.0\tsirA orthologs\tencode\ttwo-com-ponent response regulator of FixJ family\n", 
+        "encodes": "1.0\tsirA\tencodes\tType VI secretion protein of EvpB family\n", 
+        "encoding": "0.524607081580468\tsirA\tencoding\tglobal response regulator\n", 
+        "have": "1.0\tsirA orthologs\thave\trepressive effects\n", 
+        "induce": "1.0\tSirA\tinduce\texpression of several SPI4 genes\n", 
+        "is involved in": "1.0\tsirA\tis involved in\tbiofilm formation of S. enterica on glass\n", 
+        "is required for": "1.0\tsirA ortholog\tis required for\textracellular enzyme production in Erwinia carotovora\n", 
+        "positively regulates": "1.0\tSirA\tpositively regulates\tinvasion of tissue culture\n", 
+        "regulate": "1.0\tsirA orthologs\tregulate\tevolutionarily conserved gene rpoS\n", 
+        "regulates": "1.0\tSirA\tregulates\texpression of SPI4 siiE gene in HilA-dependent manner\n", 
+        "represses": "1.0\tSirA\trepresses\t\ufb02hD independently of hilA\n"
+    }, 
+    "sirc": {
+        "activate": "1.0\tsirC\tactivate\tSPI-1 genes\n", 
+        "affect": "1.0\tSirC\taffect\texpression\n", 
+        "contributes to": "1.0\tSirC\tcontributes to\tinvasive phenotype\n", 
+        "regulate": "1.0\tSirC\tregulate\thilA expression\n"
+    }, 
+    "sita": {
+        "is required for": "1.0\tSitA\tis required for\tSalmo-nella spp\n"
+    }, 
+    "sitabcd": {
+        "is required for": "0.6511689990642582\tputative iron transport system SitABCD\tis required for\tfull virulence of Salmonella typhimurium\n"
+    }, 
+    "slrp": {
+        "is required for": "1.0\tSlrP\tis required for\tcolonization of Peyer 's patches in mouse small intestine\n"
+    }, 
+    "slt": {}, 
+    "slya": {
+        "act as": "1.0\tSlyA\tact as\tpositive\n", 
+        "activate": "1.0\tSlyA\tactivate\ttranscription\n", 
+        "activate transcription": "1.0\tSlyA\tactivate transcription\tbinding to their intergenic regions simultaneously\n", 
+        "activates": "1.0\tSlyA\tactivates\texpression of hdeAB in E. coli\n", 
+        "acts as": "1.0\tSlyA\tacts as\tonly transcriptional activator\n", 
+        "affects": "1.0\tSlyA\taffects\tcellular levels of several heat shock proteins of proteins involved in acid resistance of E. coli\n", 
+        "bind": "1.0\tIsolated SlyA protein\tbind\tspeci\ufb01c DNA target\n", 
+        "bind to": "1.0\tSlyA\tbind to\tAT-rich inverted repeat sequence in target promoter\n", 
+        "binding to": "1.0\tSlyA\tbinding to\ttheir intergenic regions\n", 
+        "binds to": "1.0\tSlyA\tbinds to\tregulatory DNA sequences of ssrAB\n", 
+        "contribute to": "1.0\tSlyA\tcontribute to\tinduction of SPI-2 gene expression in response to environmental stimuli\n", 
+        "contributes to": "1.0\tSlyA\tcontributes to\ttranscriptional response to low osmolarity\n", 
+        "control": "1.0\tAlternate SlyA\tcontrol\thylE expression in Escherichia coli K-12\n", 
+        "encode": "1.0\tslyA\tencode\themolytic/cytolytic protein\n", 
+        "have": "1.0\tSalmo-nella slyA strains\thave\tstationary-phase survival defect\n", 
+        "is required for": "1.0\tSlyA\tis required for\tdestruction following uptake of Salmonella serovar Typhi-murium for intracellular survival of salmonellae in murine Peyer 's patches\n", 
+        "mediates": "1.0\tSlyA\tmediates\tadaptation of cell envelope properties of Salmonella in response to Mg\n", 
+        "promotes": "1.0\tSlyA\tpromotes\texpression of \ufb01lament subunits\n", 
+        "regulates": "1.0\tSlyA\tregulates\tsynthesis of several Salmonella proteins during stationary phase during infection of macrophages\n"
+    }, 
+    "smg": {}, 
+    "smpb": {
+        "control": "1.0\tSmpB\tcontrol\tSalmonella gene expression at post-transcriptional level\n", 
+        "have": "1.0\tSmpB deletion mutants\thave\tsame phenotype as tmRNA deletion mutants\n", 
+        "is required for": "1.0\tRNA-binding protein SmpB\tis required for\t11\n", 
+        "regulates": "1.0\tSmpB\tregulates\thistidine biosynthesis in AMM-1\n"
+    }, 
+    "smva": {
+        "is involved in": "1.0\tSmvA ef\ufb02ux pump\tis involved in\tsusceptibility in Salmonella\n"
+    }, 
+    "soda": {}, 
+    "sodb": {}, 
+    "sodc": {}, 
+    "sodci": {
+        "contributes to": "1.0\tSodCI\tcontributes to\tvirulence\n"
+    }, 
+    "sodcii": {
+        "contribute to": "1.0\tSodCII\tcontribute to\tvirulence\n"
+    }, 
+    "sopa": {
+        "contribute to": "1.0\tSopA\tcontribute to\tSalmonella enterica serotype Typhi-murium invasion of epithelial cells\n"
+    }, 
+    "sopb": {
+        "activate": "1.0\tSopB\tactivate\tRho family of GTPases Rac1\n", 
+        "contribute to": "1.0\tSopB\tcontribute to\tSalmonella enterica serotype Typhi-murium invasion of epithelial cells\n", 
+        "encode": "1.0\tsopB\tencode\tTTS effectors\n", 
+        "encoding": "0.8696329621393569\tsopB genes\tencoding\teffector proteins secreted by type III secretion system on Salmonella pathogenicity island 1\n", 
+        "is involved in": "1.0\tSopB\tis involved in\tstimulation of cellular chloride secretion\n", 
+        "promotes": "1.0\tSopB\tpromotes\tintestinal disease\n"
+    }, 
+    "sopd": {
+        "acts as": "1.0\tSopD\tacts as\tdual effector delivered\n", 
+        "contribute to": "1.0\tSopD\tcontribute to\tSalmonella enterica serotype Typhi-murium invasion of epithelial cells\n"
+    }, 
+    "sopd2": {}, 
+    "sope": {
+        "act as": "1.0\tSopE\tact as\tG-nucleotide exchange factors\n", 
+        "activate": "1.0\tSopE\tactivate\tdifferent sets of RhoGTPases of host cell\n", 
+        "promotes": "1.0\tSopE\tpromotes\tbacterial entry\n"
+    }, 
+    "sope2": {
+        "act as": "1.0\tSopE2\tact as\tG-nucleotide exchange factors\n", 
+        "activate": "1.0\tSopE2\tactivate\tdifferent sets of RhoGTPases of host cell\n", 
+        "contribute to": "1.0\tSopE2\tcontribute to\tSalmonella enterica serotype Typhi-murium invasion of epithelial cells\n"
+    }, 
+    "sot": {}, 
+    "soxr": {
+        "activate": "1.0\tSoxR\tactivate\ttranscription of soxS gene\n", 
+        "contribute to": "1.0\tConstitutive soxR mutations\tcontribute to\tmultiple-antibiotic resistance in clinical Escherichia coli isolates\n", 
+        "encode": "1.0\tsoxR\tencode\tcomponents\n"
+    }, 
+    "soxs": {
+        "activates": "1.0\tSoxS\tactivates\tantibiotic resistance mechanisms in other species\n", 
+        "bind to": "1.0\tSoxS\tbind to\twild-type promoter\n", 
+        "is required for": "1.0\tSoxS\tis required for\tparaquat-induced augmentation of Mn-SOD expression\n", 
+        "plays role in": "1.0\tsoxS\tplays role in\tMDR in 104-cip\n", 
+        "positively regulates": "1.0\tSoxS\tpositively regulates\tompW\n", 
+        "regulate": "1.0\tSoxS\tregulate\tompW\n", 
+        "regulates": "1.0\tSoxS\tregulates\texpression of Salmonella enterica serovar Typhimurium ompW gene\n"
+    }, 
+    "span": {}, 
+    "spas": {}, 
+    "speb": {}, 
+    "speed": {}, 
+    "spef": {}, 
+    "speg": {
+        "encoding": "0.607086605440925\tspeG gene\tencoding\tspermidine acetyltransferase\n"
+    }, 
+    "spia": {}, 
+    "spic": {
+        "is involved in": "1.0\tSalmonella virulence factor SpiC\tis involved in\texpression of \ufb02agellin protein\n", 
+        "is required for": "1.0\tSpiC\tis required for\ttranslocation of Salmonella pathogenicity island 2 effectors\n", 
+        "mediates": "1.0\tSalmonella virulence factor SpiC\tmediates\tactivation of signal transduction pathways in macrophages\n"
+    }, 
+    "spot": {}, 
+    "spr": {}, 
+    "sprb": {
+        "activate": "1.0\tSprB\tactivate\ttranscription of siiA\n", 
+        "activates": "1.0\tSprB\tactivates\tSPI4 gene expression\n", 
+        "bind to": "1.0\tSprB\tbind to\tHilD promoter\n", 
+        "binds to": "1.0\tC SprB\tbinds to\tPsiiA promoter region\n", 
+        "regulates": "1.0\tSprB\tregulates\texpression of genes within SPI4\n", 
+        "represses": "1.0\tSprB\trepresses\tSPI1 gene expression\n"
+    }, 
+    "sptp": {
+        "have": "1.0\tSptP\thave\tseveral functions\n", 
+        "inhibits": "0.5589773234136749\tSptP\tinhibits\tmitogen-activated protein kinase pathway\n"
+    }, 
+    "spva": {
+        "can": "1.0\tdiminished spvA expression\tcan\tIn summary can consequence of high RcsB P/RcsB ratio existing upon stimulation of RcsC3RcsD3RcsB phosphorelay\n", 
+        "regulates": "1.0\tspvA\tregulates\texpression of spvR\n"
+    }, 
+    "spvb": {
+        "is involved in": "1.0\tSpvB\tis involved in\tSCV maturation\n"
+    }, 
+    "spvc": {}, 
+    "spvd": {}, 
+    "spvr": {
+        "act as": "1.0\tSpvR\tact as\tpositive regulator of other virulence genes\n", 
+        "activates": "1.0\tSpvR\tactivates\tpromoters\n", 
+        "acts as": "1.0\tspvR gene product\tacts as\ttranscriptional activator for spvABCD genes\n", 
+        "encodes": "1.0\tspvR\tencodes\tpositive regulatory protein for other plasmid-encoded virulence factors\n", 
+        "encoding": "1.0\tLT2 spvR gene\tencoding\tactive SpvR protein\n", 
+        "is required for": "1.0\tSpvR\tis required for\tkatF-dependent transcription of spvR in stationary phase\n", 
+        "mediates": "1.0\tSpvR\tmediates\tcoordinate regulation of plasmid virulence genes\n", 
+        "promotes": "1.0\tSpvR\tpromotes\ttranscription of downstream spvABCD genes\n", 
+        "regulates": "1.0\tspvR gene product\tregulates\texpression of downstream spvB gene\n"
+    }, 
+    "spy": {}, 
+    "sra": {}, 
+    "srab": {
+        "affect": "1.0\tSraB\taffect\tsurvival of S. Enteritidis\n"
+    }, 
+    "srfa": {}, 
+    "srfabc": {}, 
+    "srfb": {}, 
+    "srfc": {
+        "encodes": "1.0\tsrfC locus\tencodes\thomolog\n"
+    }, 
+    "srfj": {}, 
+    "srga": {
+        "plays role in": "1.0\tsrgA\tplays role in\tPef assembly\n"
+    }, 
+    "srgb": {
+        "encodes": "1.0\tsrgB\tencodes\trck resistance to complement killing\n"
+    }, 
+    "srgc": {
+        "encodes": "1.0\tsrgC\tencodes\tputative araC type transcriptional regulator\n"
+    }, 
+    "ssab": {}, 
+    "ssae": {}, 
+    "ssag": {}, 
+    "ssah": {
+        "encodes": "1.0\tssaH\tencodes\tstructural gene of type III secretion system\n"
+    }, 
+    "ssaj": {}, 
+    "ssam": {}, 
+    "ssar": {}, 
+    "ssat": {
+        "are important for": "1.0\tssaT\tare important for\tSPI1 gene expression\n"
+    }, 
+    "ssau": {
+        "are important for": "1.0\tssaU\tare important for\tSPI1 gene expression\n"
+    }, 
+    "ssav": {
+        "contribute to": "1.0\tSsaV\tcontribute to\tintracellular \ufb01tness of S. serovar Typhimurium\n", 
+        "is required for": "1.0\tSsaV\tis required for\tsecretion of SPI-2 effectors\n"
+    }, 
+    "ssb": {}, 
+    "ssea": {
+        "acts as": "1.0\tSseA\tacts as\tchaperone for SseB component of Salmonella pathogenicity island 2 translocon\n", 
+        "is required for": "1.0\tSseA\tis required for\ttranslocation of Salmonella pathogenicity island-2 effectors into host cells\n"
+    }, 
+    "sseb": {}, 
+    "ssec": {}, 
+    "sseg": {}, 
+    "ssei": {
+        "mediates": "1.0\tSalmonella SPI2 effector SseI\tmediates\tlong-term systemic infection\n"
+    }, 
+    "ssej": {}, 
+    "ssel": {
+        "is required for": "1.0\tSseL\tis required for\tvirulence during infection of mice\n"
+    }, 
+    "ssph2": {}, 
+    "ssra": {
+        "activate": "1.0\tSsrA\tactivate\tssaG gene expression\n", 
+        "encodes": "1.0\tssrA gene\tencodes\tsensor kinase component of two-component regulatory system necessary for transcription of TTSS\n", 
+        "have": "1.0\tphoP ssrA mutants\thave\tsurvival characteristics\n", 
+        "is required for": "1.0\tssrA\tis required for\tactions of ompR\n", 
+        "plays role in": "1.0\tssrA\tplays role in\tSalmonella enterica serovar Typhimurium pathogenesis\n"
+    }, 
+    "ssrab": {
+        "activate": "1.0\tSsrAB\tactivate\tgene expression in phoP mutants\n", 
+        "activates": "1.0\tSsrAB\tactivates\tregulon encoded outside SPI-2 including at least \ufb01ve SPI-2 TTSS effectors\n", 
+        "controls": "1.0\ttwo-component regulatory system SsrAB\tcontrols\texpression of SPI-2 genes\n", 
+        "is required for": "1.0\tSsrAB two-component system\tis required for\tactivation of ssaG promoter\n"
+    }, 
+    "ssrb": {
+        "activate": "1.0\tSsrB\tactivate\texpression of SPI2 operons\n", 
+        "activate transcription": "1.0\tSsrB\tactivate transcription\tbinding immediately upstream of their promoters\n", 
+        "activates": "1.0\tresponse regulator SsrB\tactivates\texpression of diverse Salmo-nella pathogenicity island 2 promoters by nucleoid-associated protein H-NS\n", 
+        "bind": "1.0\tSsrB\tbind\tpromoter\n", 
+        "binds to": "1.0\tresponse regulator SsrB\tbinds to\tregion\n", 
+        "controls": "1.0\tSsrB response regulator\tcontrols\tabout 4 % of Salmonella genome including genes in remnant phage in Salmonella pathogenicity island 12\n", 
+        "have": "1.0\tSsrB dependent promoters\thave\thave found\n", 
+        "is required for": "1.0\ttranscription factor SsrB\tis required for\texpression of its substrate effector proteins\n", 
+        "plays role in": "1.0\tSsrB\tplays role in\tactivating genes within locus\n", 
+        "promotes": "1.0\tSsrB response regulator\tpromotes\ttranscription of multiple genes within Salmonella pathogenicity island 2\n", 
+        "regulate": "1.0\tSsrB\tregulate\tlocus\n", 
+        "regulates": "1.0\tSsrB\tregulates\tSPI-12 phage genes\n"
+    }, 
+    "stba": {}, 
+    "stbc": {
+        "play role in": "1.0\tstbC gene product\tplay role in\tregulatory networ of type 1 \ufb01mbrial expression\n"
+    }, 
+    "stda": {}, 
+    "stdb": {}, 
+    "stia": {
+        "encodes": "1.0\trpoS-dependent starvation-stress response locus stiA\tencodes\tnitrate reductase required for carbon-starvation-inducible thermotolerance in Salmonella typhimurium\n"
+    }, 
+    "stib": {
+        "is required for": "1.0\tstiB locus\tis required for\tstarvation survival of S. typhi-murium\n"
+    }, 
+    "stic": {}, 
+    "stm0047": {}, 
+    "stm0084": {
+        "encodes": "1.0\tSTM0084\tencodes\tputative arylsulfatase\n"
+    }, 
+    "stm0275": {}, 
+    "stm0294": {}, 
+    "stm0551": {
+        "plays role in": "1.0\tAccess uncharacterized gene stm0551\tplays role in\tregulation of type 1 fimbriae in Salmonella enterica serotype Typhimurium Ke-Chuan Wang1\n"
+    }, 
+    "stm0580": {}, 
+    "stm0834": {
+        "encode": "1.0\tSTM0834\tencode\tputative membrane proteins consistent with location of LPS phosphoethanolamine phosphotransferase\n"
+    }, 
+    "stm0906": {}, 
+    "stm1012": {}, 
+    "stm1013": {}, 
+    "stm1128": {}, 
+    "stm1133": {}, 
+    "stm1214": {}, 
+    "stm1263": {
+        "inhibits": "1.0\tSTM1263\tinhibits\tisrD transcription\n"
+    }, 
+    "stm1269": {}, 
+    "stm1328": {
+        "encode": "1.0\tSTM1328\tencode\tproteins found in outer membrane\n"
+    }, 
+    "stm1344": {
+        "affects": "1.0\tSTM1344\taffects\texpression of major regulator of multicellular rdar morphotype behavior through downregulation of expression of phosphodiesterases\n", 
+        "controls": "1.0\tSTM1344\tcontrols\tflagella cascade\n", 
+        "has role in": "1.0\tSTM1344\thas role in\tc-di-GMP signaling network\n", 
+        "is required for": "1.0\tSTM1344\tis required for\tsessility-motility transition on surfaces\n", 
+        "regulate": "1.0\tSTM1344\tregulate\tSTM3611 expression\n", 
+        "regulates": "1.0\tD STM1344\tregulates\trdar morphotype expression\n", 
+        "represses": "1.0\tSTM1344\trepresses\texpression of phosphodiester-ases\n"
+    }, 
+    "stm1355": {}, 
+    "stm1499": {
+        "encode": "1.0\tSTM1499\tencode\tsubunits of anaerobic dimethyl sulfoxide reductase\n"
+    }, 
+    "stm1530": {
+        "plays role in": "1.0\tputative outer membrane protein STM1530\tplays role in\tS. enterica serovar Typhimurium ceftriaxone resistance\n"
+    }, 
+    "stm1625": {}, 
+    "stm1703": {
+        "act as": "1.0\tSTM1703\tact as\tPDEs\n"
+    }, 
+    "stm1787": {}, 
+    "stm1790": {}, 
+    "stm1791": {}, 
+    "stm1798": {
+        "encoding": "1.0\tSTM1798\tencoding\tPilZ domain containing\n"
+    }, 
+    "stm1841": {
+        "have": "1.0\tSTM1841\thave\t30-fold-higher induction in wild type than in rcsB mutant\n"
+    }, 
+    "stm1851": {}, 
+    "stm1852": {}, 
+    "stm1863-stm1864": {}, 
+    "stm1954": {
+        "encodes": "1.0\tSTM1954\tencodes\tprotein unrelated to \ufb02agellar formation\n"
+    }, 
+    "stm1956": {}, 
+    "stm1987": {
+        "acts as": "1.0\tSTM1987\tacts as\tactivator of biofilm formation\n", 
+        "promotes": "1.0\tSTM1987\tpromotes\tsynthesis of biofilm polysaccharide cellulose\n"
+    }, 
+    "stm2123": {}, 
+    "stm2176": {}, 
+    "stm2208": {
+        "encode": "1.0\tSTM2208\tencode\tinner membrane proteins\n", 
+        "encodes": "1.0\tSTM2208\tencodes\tlarger hydrophobic protein\n", 
+        "have": "1.0\tSTM2208\thave\tlow G+C content\n"
+    }, 
+    "stm2209": {
+        "encode": "1.0\tSTM2209\tencode\tsmall peptide of 40 amino acids\n"
+    }, 
+    "stm2209-stm2208": {
+        "can": "1.0\tg010 STM2209-STM2208 expression\tcan\tcan expected\n"
+    }, 
+    "stm2234": {}, 
+    "stm2235": {
+        "encode": "1.0\tSTM2235\tencode\ttail \ufb01ber proteins\n"
+    }, 
+    "stm2236": {}, 
+    "stm2237": {}, 
+    "stm2239": {
+        "activates": "1.0\tSTM2239\tactivates\tadditional phage genes\n", 
+        "determine": "1.0\tSTM2239 functions\tdetermine\twhether\n"
+    }, 
+    "stm2243": {}, 
+    "stm2287": {}, 
+    "stm2454": {}, 
+    "stm2666": {
+        "encodes": "1.0\tSTM2666\tencodes\tprotein identical to E. coli K-12 PheA leader peptide\n"
+    }, 
+    "stm2765": {}, 
+    "stm2773": {}, 
+    "stm2911": {}, 
+    "stm2912": {}, 
+    "stm2922": {
+        "encodes": "1.0\tSTM2922\tencodes\tputative decarboxylase\n"
+    }, 
+    "stm3026": {}, 
+    "stm3031": {
+        "play role in": "1.0\tSTM3031\tplay role in\tceftriaxone resistance\n", 
+        "plays role in": "1.0\tOuter membrane protein STM3031\tplays role in\tceftriaxone resistance of Salmonella enterica serovar Typhimurium\n"
+    }, 
+    "stm3130": {}, 
+    "stm3131": {}, 
+    "stm3152": {}, 
+    "stm3169": {}, 
+    "stm3171": {}, 
+    "stm3216": {}, 
+    "stm3253": {
+        "encodes": "1.0\tSTM3253\tencodes\tprotein with signi\ufb01cant homology of 38 % to B. subtilis IolJ\n"
+    }, 
+    "stm3375": {}, 
+    "stm3611": {
+        "act as": "1.0\tSTM3611\tact as\tPDEs\n", 
+        "affect": "1.0\tphosphodiesterase STM3611\taffect\trdar morphotype expression\n", 
+        "controls": "1.0\tSTM3611\tcontrols\tmotility factors\n", 
+        "inhibits": "1.0\tSTM3611\tinhibits\tbiofilm behaviour\n"
+    }, 
+    "stm3635": {
+        "encode": "1.0\tSTM3635\tencode\tmembrane-associated met-al-dependent hydrolase\n"
+    }, 
+    "stm4002": {}, 
+    "stm4054": {}, 
+    "stm4118": {
+        "encode": "1.0\tSTM4118\tencode\tputative membrane proteins consistent with location of LPS phosphoethanolamine phosphotransferase\n"
+    }, 
+    "stm4256": {}, 
+    "stm4261": {}, 
+    "stm4264": {
+        "affects": "1.0\tSTM4264\taffects\tmuch greater fraction of cellular c-di-GMP than STM1703\n"
+    }, 
+    "stm4277": {}, 
+    "stm4293": {}, 
+    "stm4330": {}, 
+    "stm4363": {}, 
+    "stm4412": {}, 
+    "stm4417": {}, 
+    "stm4432": {}, 
+    "stm4463": {
+        "act as": "1.0\tSTM4463 protein\tact as\tregulator of Salmonella ADI expression\n", 
+        "affect": "1.0\tSTM4463 regulation\taffect\tsurvival of\n", 
+        "contribute to": "1.0\tSTM4463 regulator\tcontribute to\tSalmonella virulence\n", 
+        "encodes": "1.0\tSTM4463 gene\tencodes\ttranscriptional regulator downstream of ADI gene cluster\n", 
+        "induce": "1.0\tSTM4463 deletion mutant\tinduce\texpression of three genes\n", 
+        "promotes": "1.0\tFIG 4 STM4463 protein\tpromotes\ttranscription of STM4467 gene\n"
+    }, 
+    "stm4467": {
+        "contributes to": "1.0\tFIG 2 STM4467 gene\tcontributes to\tS. Typhimurium virulence\n", 
+        "encode": "1.0\tSTM4467 genes\tencode\tADI\n", 
+        "encodes": "1.0\tSTM4467 gene\tencodes\tADI in S. Typhimurium\n", 
+        "is required for": "1.0\tSTM4467 gene\tis required for\tfull ADI activity\n"
+    }, 
+    "stm4519": {}, 
+    "stm4551": {}, 
+    "stpa": {
+        "binds to": "1.0\tStpA paralogue\tbinds to\tDNA regions similar to those bound by H-NS in E. coli wt cells\n", 
+        "represses": "1.0\tH-NS-like protein StpA\trepresses\tRpoS regulon\n"
+    }, 
+    "stra": {}, 
+    "sufd": {}, 
+    "sula": {}, 
+    "sun": {}, 
+    "sura": {
+        "affect": "1.0\tsurA\taffect\tmembrane integrity\n"
+    }, 
+    "tag": {
+        "binding to": "0.7716285039874085\tC-terminal FLAG tag\tbinding to\tompC\n", 
+        "encoding": "0.645294810231003\tElk tag\tencoding\tSV40 large tumor antigen nuclear localization signal\n", 
+        "have": "1.0\tFLAG tag\thave\tnegative effect\n"
+    }, 
+    "tap": {}, 
+    "tar": {}, 
+    "tbpa": {}, 
+    "tcta": {}, 
+    "tctc": {}, 
+    "tctd": {}, 
+    "tcub": {
+        "encode": "1.0\ttcuB genes\tencode\telectron transfer protein\n"
+    }, 
+    "tdca": {
+        "regulate": "1.0\tTdcA\tregulate\tSPI1\n", 
+        "regulates": "1.0\tTdcA\tregulates\t\ufb02iZ transcription\n"
+    }, 
+    "tdcd": {
+        "encodes": "1.0\ttdcD gene\tencodes\tpropionate kinase\n"
+    }, 
+    "tdce": {}, 
+    "teha": {}, 
+    "teta": {
+        "induce": "0.7989355246184273\ttetA promoter\tinduce\t\ufb02hDC operon\n"
+    }, 
+    "tetr": {
+        "determine": "1.0\tTetr\tdetermine\tpercent cotransfer of proU\n", 
+        "regulate": "1.0\ttetR gene\tregulate\texpression levels from PLTetO-1 promoter\n", 
+        "regulates": "1.0\tTetR\tregulates\tPLtetO-1 promoter\n", 
+        "represses": "1.0\tTetR\trepresses\tmulticopy Ptet promoters\n"
+    }, 
+    "tfa": {}, 
+    "tgt": {}, 
+    "thic": {}, 
+    "thie": {}, 
+    "thii": {}, 
+    "thil": {
+        "encodes": "1.0\tthiL locus\tencodes\tTMP kinase from thiamine phosphate\n"
+    }, 
+    "this": {
+        "have": "1.0\tThis\thave\tevolutionary consequences\n", 
+        "regulates": "1.0\tthis\tregulates\tSPI1 expression\n"
+    }, 
+    "thya": {}, 
+    "tig": {}, 
+    "tlpa": {}, 
+    "tnpr": {}, 
+    "tolb": {}, 
+    "tolc": {
+        "is required for": "1.0\ttolC\tis required for\tmultidrug resistance stimulated by baeR overexpression\n", 
+        "plays role in": "1.0\tTolC ef\ufb02ux system\tplays role in\tpathogenesis\n"
+    }, 
+    "tonb": {
+        "can": "0.6828875433645845\tTonB\tcan\tcan chemically crosslinked in vivo to outer membrane receptor FepA\n"
+    }, 
+    "topa": {}, 
+    "tppb": {
+        "determine": "1.0\ttppB expression\tdetermine\twhetherfnr\n"
+    }, 
+    "traa": {}, 
+    "trac": {}, 
+    "trad": {}, 
+    "trai": {}, 
+    "traj": {}, 
+    "tran": {}, 
+    "trap": {}, 
+    "trar": {}, 
+    "trat": {
+        "have": "1.0\tTraT product\thave\thave associated with serum sensitivity\n"
+    }, 
+    "trba": {}, 
+    "trbb": {
+        "acts as": "1.0\tTrbB\tacts as\tsort of chaperone\n", 
+        "encodes": "1.0\ttrbB\tencodes\tprotein belonging to large family\n"
+    }, 
+    "trbe": {}, 
+    "trg": {
+        "have": "1.0\tNull trg mutations\thave\thave previously shown\n"
+    }, 
+    "trka": {}, 
+    "trma": {}, 
+    "trmd": {}, 
+    "trpr": {
+        "have": "1.0\ttrpR gene\thave\t4\n"
+    }, 
+    "trxa": {
+        "act as": "1.0\tTrxA\tact as\tconvergent contributors to bacterial intracellular replication\n", 
+        "contribute to": "1.0\tTrxA\tcontribute to\tintracellular \ufb01tness of S. serovar Typhimurium\n", 
+        "contributes to": "1.0\tTrxA\tcontributes to\tfunctionality of SPI2 T3SS acting as secreted SPI2 effector\n", 
+        "induce": "1.0\ttrxA mutant\tinduce\texpression of SseJ protein\n", 
+        "is required for": "1.0\tTrxA\tis required for\tfunctionality of SPI2 acting as SPI2-secreted effector protein\n"
+    }, 
+    "trxb": {
+        "control": "1.0\ttrxB Thioredoxins\tcontrol\tbacterial stress response\n"
+    }, 
+    "tsf": {
+        "encoding": "0.5266687325145608\ttsf\tencoding\telongation factor EF-Tsf\n"
+    }, 
+    "tsr": {}, 
+    "tum": {
+        "binds to": "1.0\tTum\tbinds to\tits cognate repressor\n"
+    }, 
+    "tvia": {
+        "activates": "1.0\tTviA\tactivates\tresponse regulator of RcsC/RcsD/RcsB phosphorelay system\n", 
+        "contributes to": "1.0\tTviA\tcontributes to\tosmoregulation of invasion\n", 
+        "encoding": "0.6862070685258056\ttviA\tencoding\tSPI-7 region\n", 
+        "regulates": "1.0\tTviA\tregulates\tits own transcription\n", 
+        "represses": "1.0\tTviA\trepresses\tinvasion gene expression\n"
+    }, 
+    "tyrr": {
+        "control": "1.0\twheth-er tyrR\tcontrol\tadiA expression\n"
+    }, 
+    "ubib": {}, 
+    "ugd": {
+        "encode": "1.0\tugd loci\tencode\tproducts necessary for polymyxin resistance\n", 
+        "encodes": "1.0\tugd\tencodes\tUDP-D-glucose dehydrogenase required for synthesis of Ara4N\n"
+    }, 
+    "ugtl": {
+        "is required for": "1.0\tUgtL\tis required for\tSifB function\n"
+    }, 
+    "uhpa": {
+        "is required for": "1.0\tuhpA\tis required for\tuhpT transcription\n"
+    }, 
+    "uhpabc": {}, 
+    "uhpb": {
+        "activate": "1.0\tmembrane-localized UhpB\tactivate\tuhpT transcription UhpA\n"
+    }, 
+    "uhpc": {
+        "act as": "1.0\tUhpC\tact as\treceptor for Glu6P\n", 
+        "activate": "1.0\tUhpC proteins\tactivate\tuhpT transcription UhpA\n", 
+        "have": "1.0\tUhpC\thave\tidentical transmembrane topologies\n"
+    }, 
+    "uhpt": {
+        "have": "1.0\tUhpT\thave\tidentical transmembrane topologies\n"
+    }, 
+    "ular": {}, 
+    "usha": {
+        "encodes": "1.0\tushA\tencodes\tputative UDP-sugar hy-drolase/5\n"
+    }, 
+    "uspa": {
+        "play role in": "1.0\tUspA proteins\tplay role in\tstress sensing\n"
+    }, 
+    "uvrb": {}, 
+    "uvrc": {
+        "encodes": "1.0\tuvrC\tencodes\tsubunit of UvrABC DNA excision repair enzyme\n", 
+        "have": "1.0\tUvrC\thave\texcision repair function\n"
+    }, 
+    "uvry": {
+        "activate": "1.0\tUvrY\tactivate\tcsrB\n", 
+        "positively regulates": "1.0\tUvrY\tpositively regulates\tcsrB\n", 
+        "regulates": "1.0\tUvrY\tregulates\tcsrB\n"
+    }, 
+    "vacb": {
+        "encodes": "1.0\tvacB gene\tencodes\texoribonuclease RNase R. J. Biol\n"
+    }, 
+    "vacj": {}, 
+    "vgrg": {}, 
+    "viaa": {}, 
+    "virb": {}, 
+    "virk": {
+        "are important for": "1.0\tFalkow S. virK\tare important for\tSalmonella enterica serovar Typhimurium infection\n"
+    }, 
+    "vrgs": {}, 
+    "waag": {}, 
+    "waal": {}, 
+    "waap": {}, 
+    "waay": {}, 
+    "wcaf": {}, 
+    "wcah": {}, 
+    "wcak": {}, 
+    "wecc": {
+        "is required for": "1.0\twecC gene\tis required for\tsynthesis of enterobacterial common antigen\n"
+    }, 
+    "wza": {}, 
+    "xis": {}, 
+    "xtha": {
+        "encode": "1.0\txthA\tencode\thydroperoxidase II catalase\n"
+    }, 
+    "xyle": {}, 
+    "yael": {
+        "activates": "1.0\tAkiyama Y. YaeL\tactivates\tsigma pathway of stress response\n"
+    }, 
+    "yaet": {
+        "affects": "1.0\tYaeT\taffects\tassembly of lipid-dependent outer membrane proteins of Esche-richia coli\n"
+    }, 
+    "yaho": {}, 
+    "ybir": {}, 
+    "ybjg": {}, 
+    "ycei": {}, 
+    "ycep": {
+        "regulate": "1.0\tYceP\tregulate\tEscherichia coli K-12 bio\ufb01lm formation\n"
+    }, 
+    "ycfr": {
+        "contribute to": "1.0\tycfR\tcontribute to\tS. enterica surface attachment\n", 
+        "contributes to": "1.0\tycfR\tcontributes to\tbiofilm formation in S. enterica\n", 
+        "encodes": "1.0\tycfR\tencodes\tputative membrane protein in E. coli K-12\n", 
+        "plays role in": "1.0\tycfR\tplays role in\tattachment of other S. enterica serovars to various fruit\n", 
+        "regulates": "1.0\tycfR\tregulates\tbiofilm production\n"
+    }, 
+    "ycgr": {
+        "affect": "1.0\tc-di-GMP binding protein YcgR\taffect\tchemotaxis\n", 
+        "control": "1.0\tycgR\tcontrol\t\ufb02agellar motor function\n", 
+        "controls": "1.0\tc-di-GMP binding protein YcgR\tcontrols\t\ufb02agellar motor direction\n", 
+        "inhibits": "1.0\tYcgR protein\tinhibits\tmotility\n", 
+        "is involved in": "1.0\tc-di-GMP-binding protein YcgR\tis involved in\ttransition of motile cells to sessility at high intracellular c-di-GMP concentrations\n"
+    }, 
+    "ycif": {
+        "have": "1.0\tYciF proteins\thave\thave classi\ufb01ed by Blattner et al. as putative structural protein respectively\n"
+    }, 
+    "ydaa": {}, 
+    "ydal": {}, 
+    "ydci": {
+        "controls": "0.8824200377233896\tYdcI\tcontrols\tgenes\n", 
+        "encodes": "1.0\tydcI gene\tencodes\tconserved DNA binding protein involved with aspects of prokaryotic biology related to stress resistance\n", 
+        "has role in": "1.0\tydcI\thas role in\ttransmission of low \ufb02uid shear environmental cue to bacterial cells beyond experiments performed here\n", 
+        "is involved in": "1.0\tydcI\tis involved in\tits autoregulation in S. Typhimurium\n", 
+        "is required for": "1.0\tydcI gene\tis required for\tfull acid stress resistance of S. Typhimurium under conditions studied here\n", 
+        "plays role in": "1.0\tydcI gene\tplays role in\ttransmission of low \ufb02uid shear environmental signal in S. Typhimurium\n", 
+        "regulates": "1.0\tydcI gene\tregulates\tgenes\n"
+    }, 
+    "yddg": {
+        "promotes": "1.0\tYddG\tpromotes\texport of aromatic amino acids\n"
+    }, 
+    "ydei": {
+        "contributes to": "1.0\tYdeI\tcontributes to\tantimicrobial peptide resistance\n", 
+        "encodes": "1.0\tydeI gene\tencodes\t14-kDa predicted oligosaccharide/oligonucleotide binding-fold OB-fold protein important for polymyxin B resistance in broth\n"
+    }, 
+    "ydej": {}, 
+    "ydgr": {}, 
+    "ydgt": {
+        "activate": "1.0\tYdgT\tactivate\tgene expression\n", 
+        "contribute to": "1.0\tYdgT\tcontribute to\tnegative regulation of several virulence-associated genes in Salmonella enterica serovar Typhimurium\n", 
+        "contributes to": "1.0\tHha paralogue YdgT\tcontributes to\tmodulation of virulence genes in S. enterica serovar Typhimurium SPI2\n", 
+        "have": "1.0\tYdgT\thave\trole\n", 
+        "regulate": "1.0\tYdgT\tregulate\tflagellar biosynthesis\n"
+    }, 
+    "ydie": {}, 
+    "ydik": {}, 
+    "ydil": {}, 
+    "ydiu": {
+        "have": "1.0\tYdiU\thave\tpositive effect\n"
+    }, 
+    "ydiv": {
+        "act as": "1.0\tYdiV\tact as\tmediator of nutritional level of environment in expression of \ufb02agellar regulon\n", 
+        "activates": "1.0\tYdiV\tactivates\tits own expression\n", 
+        "acts as": "1.0\tEAL domain protein YdiV\tacts as\tanti-FlhD4C2 factor responsible for nutritional control of \ufb02agellar regulon in Salmo-nella enterica serovar Typhimurium\n", 
+        "bind to": "1.0\tPuri\ufb01ed YdiV protein\tbind to\tFlhD4C2\n", 
+        "binding to": "0.8058714169154989\tYdiV\tbinding to\tclass 2 promoter\n", 
+        "binds to": "1.0\texpressed YdiV protein\tbinds to\tFlhD4C2 complex\n", 
+        "controls": "1.0\tYdiV\tcontrols\ttuning \ufb02agellar gene transcription in reponse to environmental signals\n", 
+        "inhibits": "1.0\tYdiV\tinhibits\tbinding of FlhD4C2 to class 2 promoter\n", 
+        "is involved in": "1.0\tYdiV\tis involved in\t\ufb02iZ-mediated regulation of \ufb02agellar regulon\n", 
+        "regulate": "1.0\tYdiV\tregulate\tclass 2 expression\n", 
+        "regulates": "1.0\tYdiV\tregulates\t\ufb02agellar master regulatory proteins\n", 
+        "represses": "1.0\tYdiV\trepresses\t\ufb02agellar genes\n"
+    }, 
+    "yeaj": {
+        "contributes to": "1.0\tYeaJ\tcontributes to\ttotal c-di-GMP pool\n", 
+        "encodes": "1.0\tyeaJ\tencodes\tbona \ufb01de DGC\n", 
+        "is involved in": "1.0\tyeaJ\tis involved in\tSal4-induced bio\ufb01lm formation in S. Typhimurium\n", 
+        "is required for": "1.0\tYeaJ\tis required for\tproduction of cellulose\n", 
+        "plays role in": "1.0\tFIG 6 YeaJ\tplays role in\tinvasion of epithelial cells\n", 
+        "regulate": "1.0\tYeaJ\tregulate\tbacterial transition from motile state to bio\ufb01lm state in E. coli\n", 
+        "regulates": "1.0\tyeaJ\tregulates\ttransition between motility\n"
+    }, 
+    "yecc": {
+        "encodes": "1.0\tyecC\tencodes\tamino acid transport protein of ABC ATP-binding cassette family\n"
+    }, 
+    "yeht": {}, 
+    "yehu": {
+        "activates": "1.0\tYehU\tactivates\tYehT\n"
+    }, 
+    "yehut": {
+        "regulates": "1.0\tyehUT\tregulates\tyjiY\n"
+    }, 
+    "yehx": {}, 
+    "yffb": {}, 
+    "yfgl": {}, 
+    "ygac": {}, 
+    "ygba": {}, 
+    "ygim": {
+        "have": "1.0\tygiM gene product\thave\tSrc homology\n"
+    }, 
+    "ygin": {}, 
+    "ygiw": {
+        "contribute to": "1.0\tOB-fold protein ygiW\tcontribute to\tpolymyxin B resistance\n"
+    }, 
+    "ygiy": {}, 
+    "yhbj": {}, 
+    "yhbu": {}, 
+    "yhcq": {}, 
+    "yhcs": {}, 
+    "yhgf": {}, 
+    "yhiq": {}, 
+    "yhjb": {}, 
+    "yhjh": {}, 
+    "yiao": {}, 
+    "yibd": {
+        "encodes": "1.0\tyibD\tencodes\tputative glycosyltransferase\n"
+    }, 
+    "yici": {}, 
+    "yifa": {
+        "encodes": "1.0\tyifA homolog\tencodes\tputative LysR-like transcriptional regulator called\n"
+    }, 
+    "yigg": {
+        "contribute to": "1.0\tyigG\tcontribute to\tS. enterica surface attachment\n", 
+        "encodes": "1.0\tGene yigG\tencodes\tputative inner membrane protein with unknown function\n"
+    }, 
+    "yigl": {
+        "is required for": "1.0\tYigL\tis required for\tresponse to sugar stress caused\n"
+    }, 
+    "yihe": {}, 
+    "yihe-dsba": {}, 
+    "yiho": {}, 
+    "yihq": {
+        "encoding": "1.0\tisogenic deletion mutants yihQ\tencoding\tputative glucosyltransferase\n", 
+        "is involved in": "1.0\tYihQ\tis involved in\tcapsule assembly\n"
+    }, 
+    "yihs": {}, 
+    "yiht": {}, 
+    "yihu": {}, 
+    "yihv": {}, 
+    "yihvw": {}, 
+    "yihw": {
+        "encodes": "1.0\tyihW\tencodes\tpromoter-lux fusion assays\n", 
+        "regulates": "1.0\tYihW\tregulates\texpression of yihU-OyshA\n"
+    }, 
+    "yjbefgh": {}, 
+    "yjdb": {}, 
+    "yjde": {}, 
+    "yjeb": {
+        "encodes": "1.0\tyjeB gene\tencodes\tnitric oxide-sensitive transcriptional regulator\n"
+    }, 
+    "yjee": {}, 
+    "yjet": {}, 
+    "yjiy": {}, 
+    "ylih": {
+        "regulate": "1.0\tYliH\tregulate\tEscherichia coli K-12 bio\ufb01lm formation\n"
+    }, 
+    "ymda": {}, 
+    "yoda": {}, 
+    "yohf": {}, 
+    "yohj": {}, 
+    "yojn": {}, 
+    "yrff": {}, 
+    "ysha": {
+        "encodes": "1.0\tYshA\tencodes\tputative outer membrane protein\n"
+    }, 
+    "ytfe": {
+        "have": "1.0\tytfE\thave\trole\n"
+    }, 
+    "ytfj": {}, 
+    "ytfk": {}, 
+    "zntr": {
+        "regulates": "1.0\tZntR\tregulates\texpression of zinc ef\ufb02ux pump ZntA\n"
+    }, 
+    "znua": {
+        "is essential for": "1.0\tCampylobacter jejuni znuA orthologue\tis essential for\tgrowth in low-zinc environments\n"
+    }, 
+    "znub": {}, 
+    "zrap": {}, 
+    "zur": {
+        "controls": "1.0\tzinc-responsive regulator Zur\tcontrols\tzinc uptake system\n"
+    }
+}

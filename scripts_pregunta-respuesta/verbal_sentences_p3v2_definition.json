@@ -1,0 +1,3781 @@
+{
+    "aac": {}, 
+    "aat": {}, 
+    "abc": {
+        "are": "1.0\thomologous ABC transporters\tare\tIn Bacillales groups co-regulated with several novel lineage-speci\ufb01c regulons\n", 
+        "is in": "1.0\tputative ABC transporter\tis in\tsame group\n", 
+        "is with": "1.0\tputative ABC transporter system\tis with\tspeci\ufb01city towards pentoses\n"
+    }, 
+    "abrb": {
+        "is": "1.0\tAbrB\tis\tHence good candidate\n", 
+        "is in": "1.0\tAbrB DNA binding domain\tis in\tits N-terminus\n"
+    }, 
+    "acca": {}, 
+    "acea": {}, 
+    "aceb": {
+        "are": "1.0\taceB\tare\tsigni\ufb01cantly H2 upregulated\n"
+    }, 
+    "aceba": {
+        "are": "1.0\taceBA genes\tare\tcotransducible with metA at 90 min on E. coli genetic map\n", 
+        "is": "1.0\taceBA operon\tis\ttranscribed\n", 
+        "is with": "1.0\taceBA mutations\tis with\tnearby loci\n"
+    }, 
+    "ach": {
+        "are": "1.0\tACH derivatives\tare\tmuch more stable\n"
+    }, 
+    "acka": {
+        "are": "1.0\tackA\tare\twhere deleted\n", 
+        "is": "1.0\tAckA\tis\tprimarily ATP-dependent enzyme\n", 
+        "is in": "1.0\tackA pta region\tis in\tstrain 14028s\n"
+    }, 
+    "acka-pta": {
+        "is in": "1.0\tackA-pta mutant de\ufb01cient\tis in\tproduction of formate\n"
+    }, 
+    "acnb": {}, 
+    "acra": {
+        "are": "1.0\tAcrA\tare\trequired for ef\ufb01cient adhesion of epithelial cells by Salmonella in vitro\n", 
+        "is in": "1.0\tWB Mutation Phage Strain Origin SGI1 type AcrA Source\tis in\tacrR ratio Nal Flu Enr Cip GyrA GyrB ParC DR strains\n"
+    }, 
+    "acrab": {
+        "are": "1.0\tAcrAB\tare\tassociated with decreased susceptibility to tigecycline in Enterobacter cloacae\n", 
+        "is": "1.0\tacrAB expression\tis\tAt more global level modulated by stress conditions by global regulators like MarA\n", 
+        "is in": "1.0\tNishino K. AcrAB multidrug ef\ufb02ux pump regulation\tis in\tSalmonella enterica serovar Typhimurium\n", 
+        "is part of": "1.0\tacrAB locus\tis part of\tmar sox\n"
+    }, 
+    "acrb": {
+        "are": "1.0\tAcrB\tare\t80 % identical in S. enterica with 78 % identity over periplasmic loop regions\n", 
+        "is": "1.0\tAcrB\tis\tessential for multidrug-resistant Salmonella enterica serotype Typhimurium colonization of chicks\n", 
+        "is in": "1.0\tacrB\tis in\tS. enterica\n", 
+        "is with": "1.0\tresulting acrB mutant\tis with\tprimer pair usacrF-dsacrF\n"
+    }, 
+    "acrd": {
+        "are": "1.0\tAcrD\tare\trequired for Salmonella multidrug resistance induced by BaeR\n", 
+        "is": "1.0\tAcrD\tis\taminoglycoside ef\ufb02ux pump\n", 
+        "is in": "1.0\tAcrD\tis in\theavy metal detoxification\n"
+    }, 
+    "acrf": {
+        "are": "1.0\tAcrF\tare\t80 % identical in S. enterica with 78 % identity over periplasmic loop regions\n", 
+        "is": "1.0\tAcrF ef\ufb02ux pump\tis\thighly homologous\n", 
+        "is homologous to": "1.0\tAcrF ef\ufb02ux pump\tis homologous to\tAcrB in S. enterica with 81.4 % amino acid identity\n"
+    }, 
+    "acrr": {
+        "is": "1.0\tAcrR\tis\tlocal repressor\n", 
+        "is in": "1.0\tacrR mutation\tis in\tmultidrug resistance\n"
+    }, 
+    "acs": {
+        "is in": "1.0\tAcs\tis in\ttheir\n"
+    }, 
+    "ada": {
+        "is": "1.0\tada\tis\tIn strain joined to lacZ gene gene so\n", 
+        "is in": "1.0\tEscherichia coli K-12 ada deletion\tis in\trecD strain\n"
+    }, 
+    "add": {}, 
+    "adhe": {
+        "is": "1.0\tAdhE\tis\tmultifunctional enzyme\n"
+    }, 
+    "adi": {
+        "is": "1.0\tADI pathway\tis\talso implicated\n", 
+        "is in": "1.0\tADI pathway gene cluster\tis in\tS. Typhimurium\n", 
+        "is with": "1.0\tADI activity\tis with\tthat of its isogenic STM4467 deletion mutant\n"
+    }, 
+    "adia": {
+        "are": "1.0\tadiA gene products\tare\tcritically important\n"
+    }, 
+    "adiy": {
+        "is": "1.0\tAraC-like regulator AdiY\tis\talso involved\n", 
+        "is in": "1.0\tAdiY\tis in\tEnterobacteriaceae\n"
+    }, 
+    "adra": {
+        "is": "1.0\tAdrA\tis\tdiguanylate\n"
+    }, 
+    "aer": {
+        "is": "1.0\tAer\tis\tessentially same\n"
+    }, 
+    "agar": {
+        "contains": "1.0\tEBU agar\tcontains\tused for routine puri-\ufb01cation of transductants\n", 
+        "is": "1.0\tL agar\tis\tLuria agar\n", 
+        "is in": "1.0\tsoft agar\tis in\tpresence of tetracycline\n", 
+        "is with": "1.0\tnutrient agar\tis with\t5 g of NaCl per liter\n"
+    }, 
+    "ahpf": {
+        "are": "1.0\tahpF\tare\tpredicted\n"
+    }, 
+    "air": {
+        "are": "1.0\tAIR\tare\tunknown\n"
+    }, 
+    "aldb": {}, 
+    "amia": {}, 
+    "amn": {}, 
+    "ampg": {}, 
+    "amph": {}, 
+    "amt": {}, 
+    "ansb": {}, 
+    "ant": {}, 
+    "apah": {}, 
+    "apee": {
+        "is": "1.0\tapeE\tis\tpreviously uncharacterized member\n", 
+        "is member of": "1.0\tapeE\tis member of\tphoBR regulon\n"
+    }, 
+    "aph": {
+        "is": "1.0\tApH\tis\tcomponent\n", 
+        "is in": "1.0\taph\tis in\texpression relative to SL1344 Gene/operon of encoded protein L884 L109 L110 SPI-1 genes\n", 
+        "is with": "1.0\taph\tis with\tfresh human serum\n"
+    }, 
+    "arab": {
+        "is in": "1.0\taraB mRNA levels\tis in\tstrain LA663 containing\n"
+    }, 
+    "arabad": {
+        "is": "1.0\taraBAD operon\tis\tsensitive\n", 
+        "is in": "1.0\tarabinose-inducible araBAD promoter\tis in\tpBAD33\n", 
+        "is with": "1.0\tpartial araBAD promoter\tis with\taraI\n"
+    }, 
+    "arac": {
+        "contains": "1.0\taraC regulatory gene mRNA\tcontains\tleader sequence\n", 
+        "interacts with": "1.0\tAraC\tinteracts with\tits target DNAs\n", 
+        "is": "1.0\tAraC\tis\tprobably class I transcription activator on basis of position of its activation binding site\n", 
+        "is in": "1.0\tAraC family putative ATPase\tis in\ttwo-component regulatory system with PmrA UDP-glucose/GDP-mannose dehydrogenase response regulator\n"
+    }, 
+    "arae": {
+        "is": "1.0\taraE gene\tis\tpositively regulated\n", 
+        "is in": "1.0\taraE Gene\tis in\tSalmonella typhimurium LT2 SiX L-arabinose transport-deficient mutants of Salmonella tyhimurium LT2\n"
+    }, 
+    "arca": {
+        "are": "1.0\tArcA binding sites\tare\tindicated\n", 
+        "is": "1.0\tArcA\tis\tactivated in to ROS most likely by phosphorylation of residue D54\n", 
+        "is in": "1.0\tArcA regulon\tis in\tanaerobically grown Salmonella enterica sv\n"
+    }, 
+    "arcb": {
+        "is": "1.0\tArcB activity\tis\tregulated in to oxygen conditions by redox state of ubiquinone\n", 
+        "is in": "1.0\tArcB autophosphorylates\tis in\tATP dependant intramo-lecular reaction at position His-292\n"
+    }, 
+    "argg": {
+        "is in": "1.0\tdivergent argG\tis in\tEscherichia coli K-12\n"
+    }, 
+    "argi": {}, 
+    "argr": {
+        "are": "1.0\tArgR\tare\trequired for such induction\n", 
+        "interacts with": "1.0\tArgR\tinteracts with\t280-bp fragment\n", 
+        "is": "1.0\tntrB Con argR mutant derivative\tis\twhen grown with arginine as sole nitrogen source\n", 
+        "is in": "1.0\tArgR regulatory protein\tis in\tPseudomonas aeruginosa\n"
+    }, 
+    "argt": {
+        "are": "1.0\targT\tare\tindependently regulated by nitrogen availability\n", 
+        "is": "1.0\targT\tis\tonly 240 bases upstream from histidine transport operon\n"
+    }, 
+    "argu": {
+        "are": "1.0\tE. coli argU\tare\tadjacent\n", 
+        "is": "1.0\tE. coli argU gene\tis\tInterestingly identical\n"
+    }, 
+    "aroa": {
+        "are": "1.0\taroA\tare\tsingle\n", 
+        "is in": "1.0\tSalmonella typhimurium aroA\tis in\tfrom vivo-inducible promoters\n"
+    }, 
+    "arof": {
+        "is in": "1.0\taroF\tis in\ttwo P1\n"
+    }, 
+    "arog": {}, 
+    "aroh": {}, 
+    "aroq": {
+        "is": "1.0\tAroQ\tis\tdependent\n"
+    }, 
+    "asd": {
+        "is with": "1.0\tAsd Derivative\tis with\tlrp expressed from Ptrc containing\n"
+    }, 
+    "asma": {
+        "is": "1.0\tasmA\tis\ttranscribed in same orientation as that of udk respectively\n", 
+        "is in": "1.0\tasmA derivatives\tis in\tother S. enterica mutants known such phoP\n"
+    }, 
+    "asps": {
+        "are": "1.0\tseveral ASPs\tare\tonly transiently produced\n"
+    }, 
+    "asr": {}, 
+    "asra": {
+        "constitute": "0.9150932108937644\tasrA\tconstitute\tasr operon\n", 
+        "is": "1.0\tAsrA\tis\tPerhaps analogous\n"
+    }, 
+    "asrabc": {}, 
+    "asrb": {
+        "constitute": "0.9150932108937644\tasrB\tconstitute\tasr operon\n"
+    }, 
+    "asrc": {
+        "constitute": "0.9150932108937644\tasrC\tconstitute\tasr operon\n"
+    }, 
+    "atoc": {}, 
+    "avra": {
+        "is": "1.0\tavrA\tis\thomologous\n", 
+        "is homologous to": "1.0\tavrA\tis homologous to\tavirulence genes of plant pathogens\n"
+    }, 
+    "baer": {
+        "are": "1.0\tBaeR protein\tare\tmore abundant in stationary phase\n", 
+        "is": "1.0\tBaeR\tis\trequired for Salmonella survival in presence of 30mM tungstate through regulation of RND type multidrug transporters\n", 
+        "is in": "1.0\tBaeR box\tis in\tregion upstream of mdt operon\n"
+    }, 
+    "baes": {
+        "are": "1.0\tbaeS\tare\tfound\n"
+    }, 
+    "bara": {
+        "are": "1.0\tBarA\tare\thomologs of Pseudomonas two-component regulatory factors respectively\n", 
+        "is": "1.0\tBarA\tis\tsensor kinase of phosphorelay type\n", 
+        "is in": "1.0\tbarA null mutation\tis in\tsame strain background\n"
+    }, 
+    "bassr": {
+        "is": "1.0\tBasSR two component signal transduction system\tis\tlikely adrenaline sensor\n"
+    }, 
+    "bcp": {}, 
+    "bcsa": {}, 
+    "beta": {}, 
+    "bfd": {
+        "is": "1.0\tBfd\tis\tbacterioferritin-associated ferredoxin considered\n"
+    }, 
+    "bfr": {
+        "is in": "1.0\tBfr\tis in\tiron storage\n"
+    }, 
+    "bglj": {}, 
+    "bla": {
+        "are": "1.0\t3-lactamase Bla proteins\tare\tindicated\n", 
+        "is": "1.0\tBla\tis\tsecreted into periplasm in flk \u0394flgHI strains\n", 
+        "is in": "1.0\tbla gene\tis in\tIn pTZ18R also correct orientation for transcription from T7 promoter\n", 
+        "is with": "1.0\tbla pSU19\tis with\tHaeII fragment of pBCSK1\n"
+    }, 
+    "bola": {
+        "is": "1.0\tmorphogene bolA\tis\tFor example regulated by sS\n"
+    }, 
+    "btub": {
+        "is": "1.0\tbtuB gene\tis\tre-12 pressed by B12 in similar manner\n"
+    }, 
+    "btud": {
+        "are": "1.0\tB btuD genes\tare\tindicated\n"
+    }, 
+    "btuf": {}, 
+    "btur": {
+        "is in": "1.0\tBtuR\tis in\t12 E. coli\n"
+    }, 
+    "cada": {
+        "is": "1.0\tcadA gene\tis\tinduced\n", 
+        "is in": "1.0\tcadA transcriptional induction\tis in\tUK1 wild-type strain\n"
+    }, 
+    "cadb": {
+        "is": "1.0\tcadB gene\tis\tcomponent\n"
+    }, 
+    "cadc": {
+        "are": "1.0\tits close homologue CadC\tare\tmembers\n", 
+        "is": "1.0\tCadC protein\tis\tfor example activated by exog-enous lysine besides acid pH\n", 
+        "is in": "1.0\tacid stress-induced CadC degradation\tis in\tcadC strain harboring\n", 
+        "is regulator of": "1.0\tDISCUSSION CadC\tis regulator of\tacid adaptation in S. enterica serovar Typhimurium\n", 
+        "is with": "1.0\tCadC derivative\tis with\tN-terminal HA tag\n"
+    }, 
+    "cafa": {}, 
+    "cap": {
+        "are": "1.0\t\ufb01lament cap protein FliD\tare\talso expressed from\n", 
+        "is": "1.0\tCAP effect\tis\tdirect\n", 
+        "is in": "1.0\tPole cap formation\tis in\tEscherichia coli\n"
+    }, 
+    "cara": {}, 
+    "carab": {
+        "is in": "1.0\turacil cytosine control carAB expression\tis in\tS. typhimurium\n", 
+        "is with": "1.0\tcarAB\tis with\texception of orotate\n"
+    }, 
+    "cat": {
+        "are": "0.9991915739582709\tCAT Nair Ts Nal Cs pKO100 Nalr\tare\tdepicted\n", 
+        "is": "1.0\tcat gene\tis\ttranscribed in clockwise direction through EcoRI site toward HindIII site in promoter of tet gene\n", 
+        "is in": "1.0\tcat strain\tis in\tcompetitive infections of animals\n", 
+        "is with": "1.0\tCAT cassette Lambda-Red recombinase expression plasmid Broad-range cloning vector\tis with\tagitation at 50 r.p.m.\n"
+    }, 
+    "cbik": {}, 
+    "cbl": {
+        "is": "1.0\tCBL\tis\tFrom functional perspective required for four enzymatic reactions\n"
+    }, 
+    "cca": {}, 
+    "ccdb": {}, 
+    "cdar": {
+        "is": "1.0\tcdaR gene\tis\t2.2-fold upregulated\n"
+    }, 
+    "cdd": {}, 
+    "cdtb": {
+        "is": "1.0\tCdtB\tis\tcytolethal distending toxin associated with DNA damage\n", 
+        "is in": "1.0\tCdtB expression\tis in\tmacrophages\n"
+    }, 
+    "cheb": {
+        "is in": "1.0\tCheB\tis in\tadaptation\n"
+    }, 
+    "chem": {}, 
+    "chev": {
+        "is": "1.0\tCheV protein\tis\tfusion of CheW to CheY receiver domain\n", 
+        "is in": "1.0\tCheV functions\tis in\tS. enterica chemotaxis\n", 
+        "is with": "1.0\tmannose-speci\ufb01c enzyme IIAB Methyl-accepting chemotaxis protein Outer membrane lipoprotein ATP-dependent RNA helicase-like protein Cytoplasmic protein Cytoplasmic protein Inner membrane protein Periplasmic protein Putative class 3 cheV\tis with\tpro\ufb01les different from known\n"
+    }, 
+    "chey": {
+        "is": "1.0\tCheY\tis\talso acetylated\n"
+    }, 
+    "chip": {
+        "are": "1.0\tChIP methods\tare\tbased\n", 
+        "is": "1.0\twhole genome ChIP ana-lysis demonstrated\tis\tup-regulated\n", 
+        "is in": "1.0\tgreatest ChIP enrichment\tis in\ttviA upstream region determined by sequencing\n", 
+        "is with": "1.0\tCM5 sensor chip\tis with\timmobilized EIIANtr\n"
+    }, 
+    "cho": {}, 
+    "cld": {
+        "is in": "1.0\tcld\tis in\trfb gene cluster\n"
+    }, 
+    "clpp": {
+        "are": "1.0\tClpP\tare\tunrelated proteins in amino acid sequence of proteolysis\n", 
+        "is": "1.0\tClpP\tis\tproteolytic core of ATP-dependent protease by association with either of two ATPases\n"
+    }, 
+    "clpv": {
+        "is": "1.0\tClpV ATPase\tis\tencoded\n"
+    }, 
+    "clpx": {
+        "are": "1.0\tClpX\tare\tessential for ef\ufb01cient acquisition of genes\n", 
+        "is": "1.0\tClpX heat-shock protein\tis\tnovel molecular chaperone\n", 
+        "is in": "1.0\tisogenic clpX strain\tis in\tSDS-polyacrylamide gel\n"
+    }, 
+    "coba": {
+        "is": "1.0\tcobA function\tis\trequired\n"
+    }, 
+    "cobb": {
+        "are": "1.0\tCobB\tare\tneeded for transcription of prpBCDE operon\n", 
+        "is": "1.0\tCobB\tis\trequired for prpBCDE transcription in response to propionate in cells grown in minimal mediuma supplemented with\n"
+    }, 
+    "cobi": {
+        "are": "1.0\tCobI mutants\tare\tdefective\n", 
+        "constitute": "1.0\tCobI\tconstitute\tsingle operon regulated\n", 
+        "is": "1.0\tCobI transcription\tis\tFurthermore strongly repressed\n", 
+        "is in": "1.0\tCobI induction\tis in\tpresence of oxygen\n"
+    }, 
+    "cobt": {}, 
+    "cobu": {}, 
+    "cora": {
+        "are": "1.0\tCorA protein levels\tare\tsigni\ufb01cantly higher\n", 
+        "is": "1.0\tfunctional CorA protein\tis\tby scintillation counting RESULTS required for replication of S. enterica serovar Typhimurium within Caco-2 epithelial cells\n", 
+        "is in": "1.0\tdifferent CorA protein content\tis in\tcells grown\n", 
+        "is part of": "1.0\tCorA\tis part of\tbroader signaling network within cell\n", 
+        "is with": "1.0\tS. enterica serovar Typhi-murium corA gene\tis with\tits native promoter from pRS170\n"
+    }, 
+    "core": {
+        "are": "1.0\tcore genes\tare\tIn contrast modulated by H-NS homoligomers\n", 
+        "is": "1.0\tcore form\tis\tmultisubunit enzyme consisting of 2\n", 
+        "is in": "1.0\tLipopolysaccharide inner core oligo-saccharide structure\tis in\thuman pathogens belonging to Enterobacteriaceae\n", 
+        "is with": "1.0\tduplicated core\tis with\t\u03b2\u03b2\u03b2\u03b1\u03b2\u03b1\u03b2\u03b1 topology\n"
+    }, 
+    "cpxa": {
+        "is": "1.0\tWT CpxA protein\tis\tresponsive\n", 
+        "is in": "1.0\tGmr pRDH10 cpxA cpxRA\tis in\tpWSK29 lacZ reporter plasmid cpxRA promoter\n"
+    }, 
+    "cpxp": {
+        "is": "1.0\tCacA-mediated cpxP activation\tis\tdependent\n"
+    }, 
+    "cpxr": {
+        "is": "1.0\tCpxR\tis\tTherefore likely\n", 
+        "is in": "1.0\tconserved CpxR binding site\tis in\trdo promoter\n"
+    }, 
+    "cpxra": {
+        "is": "1.0\tCpxRA pathway\tis\tIn Shigella sonnei required for maximal expression of virF\n", 
+        "is in": "1.0\tGmr pRDH10 cpxA cpxRA\tis in\tpWSK29 lacZ reporter plasmid cpxRA promoter\n"
+    }, 
+    "cra": {}, 
+    "crl": {
+        "interacts with": "1.0\tCrl protein\tinteracts with\tS\n", 
+        "is": "1.0\tCrl\tis\tIn Salmonella enterica serovar Typhimurium required for development of rdar morphotype of S-dependent genes\n", 
+        "is in": "1.0\tCrl levels\tis in\tS. enterica serovar Typhimurium ATCC 14028\n", 
+        "is regulator of": "1.0\tcrl gene product\tis regulator of\tS activity\n"
+    }, 
+    "crp": {
+        "are": "1.0\tCRP\tare\tpositive of starvationstress response of Salmonella typhimurium\n", 
+        "interacts with": "1.0\tCRP\tinteracts with\tC-terminal domain of RNAP subunit\n", 
+        "is": "1.0\tCRP\tis\tIn class I CRP-dependent promoters known with site for CRP usually centered at position 62.5 72.5\n", 
+        "is in": "1.0\tcrp mutant strains\tis in\tcombination with loss of cAMP-CRP activation of PprpBCDE itself\n", 
+        "is with": "1.0\tE. coli crp gene\tis with\tonly four silent base pair changes\n"
+    }, 
+    "crr": {
+        "is in": "1.0\tcrr mutants\tis in\tE. coli genetic background\n"
+    }, 
+    "csga": {
+        "is": "1.0\tCsgA\tis\tpathogen-associ-ated\n"
+    }, 
+    "csgb": {}, 
+    "csgba": {}, 
+    "csgd": {
+        "are": "1.0\tCsgD\tare\tmajor targets for regulation by c-di-GMP signaling\n", 
+        "is": "1.0\tCsgD\tis\tIn addition regulated by second messenger c-di-GMP at transcriptional levels\n", 
+        "is expressed in": "1.0\tCsgD\tis expressed in\tbistable manner\n", 
+        "is in": "1.0\tcsgD open reading frame\tis in\tits native chromosomal locus with help of Lambda Red recombination technology\n", 
+        "is with": "1.0\tCsgD expression\tis with\tformation of multicellular communities of cells\n"
+    }, 
+    "csid": {}, 
+    "csie": {}, 
+    "csp": {}, 
+    "cspa": {
+        "are": "1.0\tCspA\tare\tinduced at low temperature\n", 
+        "is": "1.0\tCspA\tis\tRNA chaperone\n", 
+        "is in": "1.0\tCspA family\tis in\tEscherichia coli\n"
+    }, 
+    "cspb": {}, 
+    "cspc": {}, 
+    "cspe": {}, 
+    "csph": {
+        "contains": "1.0\tcspH\tcontains\tonly one promoter at normal temperature during cold shock\n", 
+        "is": "1.0\tcspH expression\tis\talso dependent on growth phase with maximal level at early log phase\n", 
+        "is in": "1.0\tCspH expression\tis in\tS. enterica serovar Typhimurium\n"
+    }, 
+    "csra": {
+        "interacts with": "1.0\tCsrA\tinteracts with\ttranscripts of eight GGDEF/EAL genes found\n", 
+        "is": "1.0\tactive CsrA concentration\tis\tUnder conditions conducive to invasion kept by decreased production\n", 
+        "is in": "1.0\tCsrA regulated GGDEF/EAL genes\tis in\tE. coli\n", 
+        "is regulator of": "1.0\tRNA binding protein CsrA\tis regulator of\tLEE pathogenicity island of enteropathogenic Escherichia coli\n", 
+        "is with": "1.0\tCsrA binding\tis with\tcorresponding labelled transcripts\n"
+    }, 
+    "csrb": {
+        "are": "1.0\tEscherichia coli CsrB\tare\tstrongly induced during growth in nutrient-poor medium\n", 
+        "is": "1.0\tCsrB\tis\tIn standard media most highly expressed in early stationary phase\n", 
+        "is expressed in": "1.0\tCsrB\tis expressed in\tearly stationary phase\n", 
+        "is in": "1.0\tsame CsrB degradation pattern\tis in\tpnp mutant\n", 
+        "is necessary for": "1.0\tcsrB\tis necessary for\tmaximal expression of SPI1 genes\n", 
+        "is part of": "1.0\tCsrB\tis part of\tcsr system shown\n"
+    }, 
+    "csta": {}, 
+    "csta2": {}, 
+    "cuer": {}, 
+    "cutc": {}, 
+    "cyaa": {
+        "is with": "1.0\tCyaA fusion\tis with\tamino acids 1\n"
+    }, 
+    "cybb": {
+        "are": "1.0\tCybb mice\tare\tunable\n"
+    }, 
+    "cydab": {
+        "is": "0.6352272645021294\td cydAB oxidase gene expression\tis\tregulated by oxygen\n"
+    }, 
+    "cyoabcde": {
+        "are": "1.0\tcyoABCDE genes\tare\toverexpressed\n"
+    }, 
+    "cysa": {
+        "are": "1.0\tcysA mutants\tare\treported\n", 
+        "is": "1.0\tcysA\tis\tpart\n", 
+        "is in": "1.0\tcysA gsr ptsI ptsH cysK cysZ dsd\tis in\tS. typhimurium\n", 
+        "is part of": "1.0\tcysA\tis part of\tcysPTWA\n"
+    }, 
+    "cysb": {
+        "are": "1.0\tcysB proteins\tare\tvirtually identical\n", 
+        "belongs to": "1.0\tCysB\tbelongs to\tLysR family\n", 
+        "interacts with": "0.6554246287005394\tCysB tetramer\tinteracts with\tdifferent binding sites\n", 
+        "is": "1.0\tcysB\tis\tas negatively autoregulated\n", 
+        "is in": "1.0\tlow CysB protein concentrations\tis in\tabsence of acetyl-L-serine\n", 
+        "is member of": "1.0\tCysB\tis member of\tgroup\n", 
+        "is regulator of": "1.0\tCysB\tis regulator of\tadi transcription\n", 
+        "is with": "1.0\tCysB protein tetramer concentrations\tis with\tassumption\n"
+    }, 
+    "cysc": {}, 
+    "cyse": {}, 
+    "cysg": {
+        "are": "1.0\tcysG genes\tare\ttranscribed convergently\n", 
+        "is": "1.0\tcysG gene\tis\tpartially expressed\n", 
+        "is in": "1.0\tcysG gene\tis in\toperon with of structural gene for nitrite reductase\n"
+    }, 
+    "cysi": {
+        "are": "1.0\tcysI mutants\tare\tprototrophs\n"
+    }, 
+    "cysj": {
+        "are": "1.0\tcysJ genes\tare\tas part of cysteine regulon coordinately regulated in to cysteine levels\n"
+    }, 
+    "cysk": {
+        "are": "1.0\tcysK\tare\tclosely linked to cysA to crr ptsI ptsH cluster located at 49 min on S. typhimurium chromosome at 52 min on E. coli chromosome\n", 
+        "contains": "1.0\tcysK promoter\tcontains\tCBS-K2\n", 
+        "is": "1.0\tcysK plasmid effect\tis\tin E. coli due to lack of repression at major cysK promoter\n", 
+        "is in": "1.0\tcysA gsr ptsI ptsH cysK cysZ dsd\tis in\tS. typhimurium\n", 
+        "is with": "1.0\tS. typhimurium cysK\tis with\tits promoter\n"
+    }, 
+    "cysm": {
+        "are": "1.0\tcysM mutants\tare\thowever cysteine bradytrophs\n"
+    }, 
+    "cysp": {
+        "contains": "0.929589636536413\tcysP promoter\tcontains\ttwo sites\n", 
+        "is": "1.0\tcysP promoter\tis\tfound\n", 
+        "is in": "1.0\tcysP promoter fragment\tis in\tgel mobility shift assays\n"
+    }, 
+    "cysw": {}, 
+    "cysz": {
+        "is in": "1.0\tcysA gsr ptsI ptsH cysK cysZ dsd\tis in\tS. typhimurium\n"
+    }, 
+    "dam": {
+        "are": "1.0\tResults Dam methylation participates\tare\tonly two known wzz regulators described in S. Typhimurium\n", 
+        "is": "1.0\tfunctional Dam\tis\tin S. Enteritidis required for adequate levels of pmrA\n", 
+        "is in": "1.0\tSalmonella Dam mutants\tis in\tmouse model\n", 
+        "is regulator of": "1.0\tDam\tis regulator of\tphase variation of putative virulence factor gtr\n", 
+        "is with": "1.0\tdam mutant\tis with\ttemperature-sensitive phenotype\n"
+    }, 
+    "dbh": {
+        "are": "1.0\tDbh mice\tare\tConsequently more susceptible\n", 
+        "is with": "1.0\tDbh mice\tis with\tqseC mutant\n"
+    }, 
+    "dcta": {
+        "are": "1.0\ttwo dctA genes\tare\t85 % identical at nucleotide level\n", 
+        "is": "1.0\tS. typhimurium DctA polypeptide\tis\tindicated\n", 
+        "is responsible for": "1.0\tDecreased dctA expression\tis responsible for\tsuccinate-negative phenotype of gyrA751\n"
+    }, 
+    "dcub": {
+        "is": "1.0\tdcuB\tis\tlocated immediately upstream of fumB\n"
+    }, 
+    "ddg": {}, 
+    "dead": {
+        "is in": "1.0\tDead staining\tis in\tfecal pellets\n"
+    }, 
+    "degp": {}, 
+    "degs": {
+        "is": "1.0\tDegS\tis\tinner-membrane-anchored serine protease of HtrA family with proteolytic domains positioned in periplasm\n"
+    }, 
+    "deoc": {
+        "is in": "1.0\tdeoC\tis in\tplant pathogen A. tumefaciens\n"
+    }, 
+    "deor": {
+        "is": "1.0\tDeoR\tis\teffective repressor\n", 
+        "is in": "1.0\tE. coli DH5a endA1 hsdR17 supE44 thi-1 recA1 pyrA relA1 D U169 deoR Plasmids pSX34 pBAD18 pSL2237 pSL2570 pSC101 derivative Cmr araC-PBAD plasmid slyA\tis in\tpSC101 pSX34\n"
+    }, 
+    "dfp": {}, 
+    "dgoa": {
+        "is": "1.0\tdgoA\tis\tpredicted\n"
+    }, 
+    "dica": {}, 
+    "dinf": {
+        "is": "1.0\tdinF gene\tis\tmember\n", 
+        "is member of": "1.0\tdinF gene\tis member of\tSOS response family\n"
+    }, 
+    "ding": {
+        "is": "1.0\tDing\tis\tessential\n"
+    }, 
+    "dini": {
+        "is": "1.0\tdinI homologue\tis\twhere first gene of LexA-regulated operon\n", 
+        "is in": "1.0\tdinI homologue\tis in\tGifsy-2 prophage\n"
+    }, 
+    "djla": {}, 
+    "dksa": {
+        "are": "1.0\tdksA mutant Salmonella strains\tare\tsusceptible to ROS generated by NADPH phagocyte oxidase hypersusceptible to nitrogen oxides generated by iNOS expressed at later times in infection\n", 
+        "contains": "1.0\tDksA metalloprotein\tcontains\tC-terminal zinc \ufb01nger coordinated by four cysteine residues\n", 
+        "is": "1.0\tDksA zinc \ufb01nger\tis\tcritical\n", 
+        "is important for": "1.0\tDksA\tis important for\tgrowth of intracellular pathogen in presence of NO congeners generated by iNOS during innate response of murine macrophages\n", 
+        "is in": "1.0\tdksA result\tis in\tauxotrophies for iso-leucine\n", 
+        "is with": "1.0\tdksA variants\tis with\tserine substitution at position 114 117 135\n"
+    }, 
+    "dnaa": {
+        "are": "1.0\tdnaA promoters\tare\tshown above E. coli sequence\n", 
+        "interacts with": "0.576828122928946\tDnaA protein\tinteracts with\tseveral other proteins\n", 
+        "is": "1.0\tDnaA protein\tis\tessential factor in initiation of DNA replication at oriC in Escherichia coli\n", 
+        "is in": "1.0\tdnaA\tis in\tdnaA region of Escherichia coli chromosome\n", 
+        "is with": "1.0\tdnaA complex\tis with\tE. coli chromosomal replication origin\n"
+    }, 
+    "dnac": {
+        "is": "1.0\tDnaC helicase loader\tis\tdual ATP/ADP switch protein\n"
+    }, 
+    "dnaj": {}, 
+    "dnak": {
+        "are": "0.903038133428097\tDnaK\tare\trequired for flagellum synthesis in Escherichia coli\n", 
+        "is": "1.0\tDnaK chaperone machinery\tis\tessential for invasion of epithelial cells by Salmonella depending on SPI1 TTSS\n", 
+        "is in": "1.0\tDnaK signal\tis in\tbacterial culture supernatant\n"
+    }, 
+    "doc": {
+        "is": "1.0\tone Doc molecule\tis\table\n", 
+        "is in": "1.0\tDOC sensitivity\tis in\tasmA mutant\n", 
+        "is with": "1.0\tstudy pRS1553 P1 phd doc P1 phd pRDM032 pRDM034 pXZ006 pXZ024 pXZ029 pXZ030 pXZ032 pXZ033 pXZ034 pXZ035 pXZ036 pXZ037 pXZ062 St103\tis with\tsingle GTGT ACAC palindrome P1 promoter\n"
+    }, 
+    "dppa": {}, 
+    "dps": {
+        "is": "1.0\tdps promoter\tis\tactivated by OxyR during growth by IHF in stationary phase\n"
+    }, 
+    "dsba": {
+        "are": "1.0\tdsbA srgA double mutants\tare\tIndeed mucoid\n", 
+        "is": "1.0\tDsbA\tis\trequired for stable expression of outer membrane protein YscC for ef\ufb01cient Yop secretion in Yersinia pestis\n", 
+        "is in": "1.0\ttwo distinct dsbA transcripts\tis in\twild-type serovar Typhimurium of approximately 0.8 kb\n", 
+        "is member of": "1.0\tdsbA\tis member of\tToxR regulon\n", 
+        "is with": "1.0\ttwo distinct dsbA transcripts\tis with\t2.5-fold increase in level of smaller transcript under NlpE-overproducing conditions compared to level for induced cells containing\n"
+    }, 
+    "dsbc": {
+        "is": "1.0\tDsbC\tis\tperiplasmic\n"
+    }, 
+    "dsbd": {}, 
+    "dsra": {
+        "is": "1.0\tDsrA\tis\twhen overexpressed\n"
+    }, 
+    "dusb": {}, 
+    "ecnb": {}, 
+    "ecnr": {
+        "is": "1.0\tecnR gene\tis\tlocated\n"
+    }, 
+    "eco": {
+        "is in": "1.0\tEco lamB1\tis in\tgenotypes expressed from pBR322 tet promoter\n"
+    }, 
+    "eda": {
+        "is": "1.0\tEda\tis\trequired\n"
+    }, 
+    "elac": {}, 
+    "emrr": {
+        "is": "1.0\tEmrR\tis\tnegative regulato\n"
+    }, 
+    "entc": {
+        "is in": "1.0\tentC\tis in\tPNPase-de\ufb01cient MC71\n"
+    }, 
+    "entd": {
+        "is": "1.0\tEntD\tis\tinvolved\n"
+    }, 
+    "enve": {}, 
+    "envf": {
+        "is": "1.0\tenvF gene product\tis\tlikely\n"
+    }, 
+    "envy": {
+        "is": "1.0\tenvY\tis\tmost similar\n"
+    }, 
+    "envz": {
+        "are": "1.0\tEnvZ\tare\tpleiotropic regulatory proteins\n", 
+        "is": "1.0\tEnvZ\tis\tresponsible for environmental regulation of hilA expression\n", 
+        "is in": "1.0\tosmolarity-sensing gene EnvZ\tis in\tE. coli\n", 
+        "is necessary for": "1.0\tEnvZ\tis necessary for\tinduction of SPI2 expression by chelators\n", 
+        "is responsible for": "1.0\tEnvZ\tis responsible for\tenvironmental regulation of hilA expression\n"
+    }, 
+    "envz-ompr": {
+        "are": "1.0\tenvZ-ompR\tare\tIn S. Typhimurium major regulators of virulence\n", 
+        "is": "1.0\tEnvZ-OmpR two-component regulatory system\tis\tthought\n", 
+        "is in": "1.0\tInouye M. EnvZ-OmpR interaction\tis in\tEscherichia coli\n"
+    }, 
+    "era": {}, 
+    "euta": {
+        "is": "1.0\teutA gene\tis\trequired\n"
+    }, 
+    "eutb": {
+        "is": "1.0\twild-type eutB subunit\tis\tcapable\n"
+    }, 
+    "eutc": {}, 
+    "eutd": {}, 
+    "eute": {}, 
+    "eutp": {}, 
+    "eutr": {
+        "are": "1.0\tEutR\tare\tThus required for wild-type-like growth of S. Typhimurium during infection of C. elegans\n", 
+        "is": "1.0\teutR gene\tis\texpressed by weak constitutive promoter activity by main regulated promoter\n", 
+        "is in": "1.0\teutR\tis in\tmilk well with pattern of PeutS expression\n"
+    }, 
+    "evga": {}, 
+    "exbb": {
+        "is": "1.0\tExbB\tis\tinvolved\n"
+    }, 
+    "exo": {
+        "is with": "1.0\texo Cloning vector\tis with\tarabinose-inducible promoter\n"
+    }, 
+    "fadb": {}, 
+    "fadd": {
+        "is": "1.0\tFadD\tis\tresponsible for environmental regulation of hilA expression\n", 
+        "is responsible for": "1.0\tFadD\tis responsible for\tenvironmental regulation of hilA expression\n", 
+        "is with": "1.0\tfadD mutant\tis with\tprimer pair \ufb01mW_xho_5\n"
+    }, 
+    "fadl": {
+        "is": "1.0\tfadL\tis\touter membrane transporter required for uptake of LCFA\n"
+    }, 
+    "fadr": {
+        "is": "1.0\tFadR activity\tis\talso inhibited\n"
+    }, 
+    "farr": {
+        "is": "1.0\tE. coli FarR\tis\tthought\n"
+    }, 
+    "fdhf": {
+        "is": "0.8979933388580166\tfdhF\tis\thow regulated in E. coli\n", 
+        "is in": "1.0\tfdhF expression\tis in\tparent strain EB137\n"
+    }, 
+    "feoa": {
+        "are": "1.0\tfeoA genes\tare\tlikely\n", 
+        "constitute": "1.0\tFeoA proteins\tconstitute\tFeo system\n", 
+        "is": "1.0\tFeoA protein\tis\tnecessary\n"
+    }, 
+    "feob": {
+        "are": "1.0\tFeoB transporter levels\tare\tnegatively controlled\n", 
+        "contains": "1.0\tmembrane protein FeoB\tcontains\tintramolecular G protein essential for Fe uptake in bacteria\n", 
+        "is": "1.0\tFeoB protein\tis\tauthentic Fe transporter consisting of N-terminal cytoplasmic domain\n", 
+        "is in": "1.0\tFeoB protein levels\tis in\tstrains deleted for chromo \u00ac FeoC protein\n"
+    }, 
+    "feoc": {
+        "interacts with": "1.0\tFeoC protein\tinteracts with\tFeoB transporter\n", 
+        "is": "1.0\tFIG 1 FeoC protein\tis\tnecessary\n", 
+        "is necessary for": "1.0\tFIG 1 FeoC protein\tis necessary for\thigh cellular levels of FeoB Fe transporter under low-oxygen\n"
+    }, 
+    "fepa": {}, 
+    "fepd": {}, 
+    "fhla": {
+        "is in": "1.0\tfhlA\tis in\tregulation offdhF expression\n"
+    }, 
+    "fhua": {}, 
+    "fhub": {
+        "is": "1.0\tFhuB\tis\tas in E. coli necessary for transport of ferrioxamine across cytoplasmic membrane of S. typhi-murium\n", 
+        "is necessary for": "1.0\tFhuB\tis necessary for\ttransport of ferrioxamine across cytoplasmic membrane of S. typhi-murium\n"
+    }, 
+    "fhuc": {}, 
+    "fhucdb": {}, 
+    "fhue": {}, 
+    "fhuf": {
+        "is with": "1.0\tFhuF\tis with\tnew type of center\n"
+    }, 
+    "fidl": {
+        "is": "1.0\tFidL\tis\thypothetical inner membrane protein\n"
+    }, 
+    "fima": {
+        "are": "1.0\tfimA four motifs\tare\tlocated upstream of fimA transcription start site\n", 
+        "interacts with": "1.0\tfimA expression\tinteracts with\tFimZ\n", 
+        "is": "1.0\tfimA gene\tis\ttranscribed\n", 
+        "is in": "1.0\tplasmid cloning vector pACYC184 de-repressed fimA expression\tis in\tculture conditions\n"
+    }, 
+    "fimb": {
+        "are": "1.0\tfimB\tare\tHowever in E. coli two genes needed\n"
+    }, 
+    "fimc": {}, 
+    "fimd": {}, 
+    "fimf": {
+        "are": "1.0\tFimF\tare\tnecessary for assembly of type 1 \ufb01mbriae on Salmonella enterica serovar Typhi-murium\n"
+    }, 
+    "fimh": {
+        "are": "1.0\tFimH\tare\tnecessary for assembly of type 1 \ufb01mbriae on Salmonella enterica serovar Typhi-murium\n", 
+        "is": "1.0\tFimH protein\tis\tmannose-specific adhesin\n"
+    }, 
+    "fimi": {}, 
+    "fimw": {
+        "interacts with": "1.0\tFimW\tinteracts with\tFimZ\n", 
+        "is": "0.6971035376084123\tFimW\tis\ton FimZ negative regulator of type 1 \ufb01mbrial gene expression\n", 
+        "is in": "1.0\tFimW\tis in\tFimZW construct\n", 
+        "is regulator of": "1.0\tFimW\tis regulator of\tserovar Typhimurium type 1 \ufb01mbrial expression\n"
+    }, 
+    "fimy": {
+        "are": "1.0\tFimY\tare\twhy required for strong P\ufb01mA promoter activity\n", 
+        "is": "0.6000899191122763\tFimY\tis\tunder normal physiological conditions involved in phosphorylation of FimZ\n", 
+        "is in": "1.0\tfimY expression\tis in\ttranslational level\n", 
+        "is necessary for": "1.0\tFimY\tis necessary for\tFimZ activity\n", 
+        "is regulator of": "1.0\tFimY\tis regulator of\t\ufb01mbrial expression\n"
+    }, 
+    "fimz": {
+        "are": "1.0\tserovar Typhimurium FimZ\tare\tInstead necessary for serovar Typhimurium \ufb01mA transcription\n", 
+        "belongs to": "1.0\tFimZ\tbelongs to\tfamily of bacterial response regulators of two-component systems\n", 
+        "is": "1.0\tFimZ\tis\tpositive transcriptional activator of type 1 \ufb01mbrial expression in serovar Typhi-murium\n", 
+        "is homologous to": "1.0\tFimZ\tis homologous to\tknown response regulators\n", 
+        "is in": "1.0\tFimZ synthesis\tis in\tlrp mutants harboring\n", 
+        "is necessary for": "1.0\tphosphorylated FimZ\tis necessary for\toptimal activation of \ufb01mA\n", 
+        "is regulator of": "1.0\tFimZ\tis regulator of\ttype 1 \ufb01mbrial gene expression\n", 
+        "is with": "1.0\tFimZ interaction\tis with\tRNA polymer-ase\n"
+    }, 
+    "fino": {}, 
+    "finp": {
+        "is": "1.0\tFinP RNA\tis\tshort-lived molecule\n", 
+        "is with": "1.0\tFinP RNA primer\tis with\tavian myeloblastosis virus reverse transcriptase\n"
+    }, 
+    "fis": {
+        "are": "1.0\tFis sites\tare\tprotected from DNase I cleavage by E. coli Fis at K. pneumoniae \ufb01s P\n", 
+        "is": "1.0\tE. coli fis expression\tis\tmuch more dependent on global cellular physiology than on direct activity of transcription factors\n", 
+        "is in": "1.0\tFis Affect hilA Expression\tis in\tSalmonella enterica Serovar Typhimurium Lisa M. Schechter\n", 
+        "is with": "1.0\tFis\tis with\tsame tendency including genes for oxidative phosphorylation\n"
+    }, 
+    "flag": {
+        "is in": "1.0\ttet template FLAG tag expression vector Integrational plasmid\tis in\tpMW118 stm3169\n", 
+        "is with": "1.0\ttet template FLAG tag expression vector Integrational plasmid\tis with\tpromoterless lacZ gene Expression vector\n"
+    }, 
+    "flga": {
+        "belongs to": "1.0\tflgA\tbelongs to\tclass II andfliD\n", 
+        "is": "1.0\tflgA promoter\tis\twhen deleted\n", 
+        "is in": "1.0\tflgA gene\tis in\tSalmonella typhimurium\n"
+    }, 
+    "flgd": {
+        "is": "1.0\tIino T. FlgD\tis\tscaffolding protein needed for flagellar hook assembly in Salmonella typhimurium\n"
+    }, 
+    "flge": {
+        "are": "1.0\tFlgE protein levels\tare\tnegatively regulated\n", 
+        "is": "1.0\tFlgE translation\tis\tTherefore decreased at stage of rod assembly\n"
+    }, 
+    "flgh": {
+        "are": "1.0\tFlgH\tare\tneeded for completion of HBBs\n"
+    }, 
+    "flgi": {
+        "are": "1.0\tFlgI\tare\tonly proteins\n"
+    }, 
+    "flgj": {
+        "belongs to": "1.0\tflgJ gene\tbelongs to\ttheflgB operon\n"
+    }, 
+    "flgk": {
+        "are": "1.0\tFlgK\tare\tHowever exported ef\ufb01ciently only after completion of hook-basal body assembly\n"
+    }, 
+    "flgkl": {
+        "is in": "1.0\tlower FlgKL levels\tis in\t\ufb02gKL class 3 promoter mutant\n"
+    }, 
+    "flgl": {}, 
+    "flgm": {
+        "are": "1.0\tHis FlgM proteins\tare\tare expressed from arabinose-inducible P promoter from BAD S. typhi-murium chromosome\n", 
+        "interacts with": "1.0\tAnti-s28 Holoenzyme Factor 28 FlgM\tinteracts with\ts holoenzyme\n", 
+        "is": "1.0\tFlgM protein\tis\tFollowing assembly of hook-basal body complex secreted by \ufb02agellum-speci\ufb01c export apparatus with transcriptional regulation\n", 
+        "is in": "1.0\tflgM\tis in\tcorrect orientation for transcription from inducible T7 promoter\n", 
+        "is necessary for": "1.0\tFlgM\tis necessary for\tvirulence of S. typhimurium in mouse model of typhoid fever\n", 
+        "is regulator of": "1.0\tflgM gene product\tis regulator of\tflagellin transcription\n", 
+        "is with": "1.0\tFlgM-depletion backgrounda flgM Activity\tis with\tTnlO insertion aalllleelle None flhD fliA flgB flhB lac fusion Class 1 flhD-lac fAgM\n"
+    }, 
+    "flgmn": {}, 
+    "flgn": {
+        "is": "1.0\tFlgN Protein Hook Completion\tis\tkey checkpoint in \ufb02agellar development\n"
+    }, 
+    "flha": {
+        "is in": "1.0\tFlhA\tis in\t\ufb02agella assembly\n"
+    }, 
+    "flhb": {
+        "is": "1.0\tFlhB\tis\tmembrane-bound\n", 
+        "is part of": "1.0\tFlhB\tis part of\ttype III export machinery\n"
+    }, 
+    "flhc": {
+        "are": "1.0\tflhC genes\tare\tmaster regulators required\n", 
+        "is": "1.0\tFlhC\tis\tmaster regulator protein involved in flagellar biogenesis in Salmonella\n", 
+        "is in": "1.0\tflhC repression\tis in\ttviA expressing\n"
+    }, 
+    "flhd": {
+        "are": "1.0\tFlhD proteins\tare\tsubjected to posttranslational control at level of protein degradation in P. mirabilis swarm cells\n", 
+        "belongs to": "1.0\tflhD operon\tbelongs to\tclass I\n", 
+        "is": "1.0\tFlhD\tis\tregulator\n", 
+        "is in": "1.0\tFlhD dimer\tis in\tDNA .11 Our data\n", 
+        "is regulator of": "1.0\tFlhD\tis regulator of\tcell division\n", 
+        "is with": "1.0\tFlhD C interaction\tis with\tits binding site ,11 4 2\n"
+    }, 
+    "flhdc": {
+        "are": "0.9999236064746959\tflhDC \u2212 strains\tare\tindicated in top panel\n", 
+        "is": "1.0\tFlhDC complex\tis\tpositive transcriptional activator\n", 
+        "is in": "1.0\tFlhDC expression\tis in\tProteus mirabilis\n"
+    }, 
+    "flhe": {
+        "is": "1.0\tflhE\tis\ttranscribed as part of flhBAE flagellar operon under control of flagellar master regulator FlhD2C2\n", 
+        "is in": "1.0\tFlhE sequences\tis in\tFig. 1\n", 
+        "is with": "1.0\ttyphimurium LT2 flhE gene\tis with\tBLASTP algorithm\n"
+    }, 
+    "flia": {
+        "is": "1.0\tFliA\tis\t\ufb02agellum-speci\ufb01c alternate sigma factor essential for expression of motor genes\n", 
+        "is in": "1.0\tIntracellular FliA level\tis in\tabsence of FlhD4C2\n"
+    }, 
+    "flib": {}, 
+    "flic": {
+        "are": "1.0\tFliC\tare\tgreatly increased by disruption of clpPX\n", 
+        "is": "0.6694343341673994\tfliC expression\tis\twhere ON\n", 
+        "is in": "1.0\tFIG 5 FliC expression\tis in\tiacP mutant strain\n"
+    }, 
+    "flid": {
+        "are": "1.0\t\ufb01lament cap protein FliD\tare\talso expressed from\n", 
+        "is": "1.0\tFliD\tis\tAfter hook-basal body completion excreted outside cell through hook-basal body complex with aid of \ufb02agellum-speci\ufb01c type III export apparatus\n"
+    }, 
+    "flidst": {}, 
+    "flif": {}, 
+    "flig": {
+        "is in": "1.0\tFliG subunit arrangement\tis in\tflagellar rotor probed by targeted cross-linking\n"
+    }, 
+    "flih": {
+        "interacts with": "1.0\tOrgB-related \ufb02agellar protein FliH\tinteracts with\tInvC homologue FliI\n"
+    }, 
+    "flii": {}, 
+    "flik": {
+        "contains": "1.0\tFliK\tcontains\tunstable N-terminal region\n", 
+        "interacts with": "1.0\tregulatory protein FliK\tinteracts with\tsecretion apparatus subunit FlhB\n", 
+        "is": "1.0\tFliK\tis\tsecreted by flagellar protein export apparatus during hook assembly with export signal located within FliKN\n", 
+        "is part of": "1.0\tfliK gene\tis part of\tRpoN regulon in bacteria\n"
+    }, 
+    "flil": {
+        "is": "1.0\tFliL\tis\tmembrane-associated component\n"
+    }, 
+    "flim": {}, 
+    "flin": {
+        "is": "1.0\tKhan S. FliN\tis\tmajor structural protein\n"
+    }, 
+    "flis": {
+        "are": "1.0\tFliS\tare\tbelieved\n", 
+        "is": "1.0\tFliS\tis\talso negative factor\n"
+    }, 
+    "flit": {
+        "are": "1.0\tFliT\tare\tnegative respectively\n", 
+        "interacts with": "1.0\tFliT\tinteracts with\tFlhD\n", 
+        "is": "1.0\tFliT\tis\tTherefore dualfunction protein involved in control of protein export\n", 
+        "is expressed in": "1.0\tFliT\tis expressed in\tHis tagged form\n", 
+        "is regulator of": "1.0\tFliT\tis regulator of\tFlhD4C2 activity\n"
+    }, 
+    "fliz": {
+        "are": "1.0\tFliZ\tare\tactivated by same signal\n", 
+        "is": "1.0\tFliZ protein\tis\tdirect antagonist of antiFlhD4C2 factor YdiV in transcriptional control of class 2 \ufb02agellar operons\n", 
+        "is at": "1.0\tFliZ\tis at\tcrossroads between motility in insect pathogenic bacterium Xenorhabdus\n", 
+        "is expressed in": "1.0\tFliZ\tis expressed in\totherwise \ufb02iZ background\n", 
+        "is in": "1.0\tdue FliZ\tis in\tabsence of FlhD4C2 autoregulation\n", 
+        "is regulator of": "1.0\t\ufb02agellar protein FliZ\tis regulator of\tHilD activity\n", 
+        "is responsible for": "1.0\tFliZ\tis responsible for\tincreased levels of FlhC protein independent of \ufb02hDC transcription\n"
+    }, 
+    "flja": {
+        "belongs to": "1.0\tFljA\tbelongs to\tsuperfamily\n", 
+        "interacts with": "1.0\tFljA\tinteracts with\tother sequences downstream from Dup-2\n", 
+        "is": "1.0\tFljA\tis\tposttranscriptional regulator\n", 
+        "is in": "1.0\tplasmid-encoded FljA protein\tis in\tiacP mutant strain\n", 
+        "is regulator of": "1.0\tFljA\tis regulator of\t\ufb02iC operon\n", 
+        "is responsible for": "1.0\tFljA\tis responsible for\tposttranscriptional inhibition of FliC expression\n"
+    }, 
+    "fljb": {
+        "are": "1.0\tFljB\tare\table\n", 
+        "is": "1.0\tFIG 3 FljB\tis\tregulated at transcriptional level by IacP\n", 
+        "is in": "1.0\tFljB synthesis\tis in\tiacP mutant results from \ufb02agellar phase variation from increased transcriptional activity of \ufb02jB promoter\n"
+    }, 
+    "flk": {
+        "are": "1.0\tS. typhimurium Flk\tare\trich\n", 
+        "is": "1.0\tFlk\tis\tinserted into cytoplasmic membrane via its C-terminal 18-amino-acid hydrophobic stretch facing into cytoplasm\n", 
+        "is in": "1.0\tFlk couples \ufb02gM translation\tis in\tSalmonella typhi-murium\n"
+    }, 
+    "fnr": {
+        "are": "1.0\tFNR\tare\taligned with hybrid CF binding site\n", 
+        "is": "1.0\tproposed FNR site\tis\tlocated upstream from -10 region of most of FNR-dependent promoters\n", 
+        "is in": "1.0\tpossible Fnr binding site\tis in\tregulatory region of E. coli dms operon\n", 
+        "is regulator of": "1.0\tFnr\tis regulator of\tSPI1 gene expression\n", 
+        "is with": "1.0\tFnr protein shares considerable homology\tis with\tcatabolite activator protein CAP\n"
+    }, 
+    "fold": {
+        "are": "1.0\tFold changes\tare\tgiven for gene in response to H2O2 in different genetic backgrounds\n", 
+        "is": "1.0\tduplicated fold\tis\tstructural basis\n", 
+        "is in": "1.0\tFold induction\tis in\tindicated medium conditiona Result for promoter fusion pmrC\n", 
+        "is with": "1.0\t2 fold\tis with\t95 % confidence using\n"
+    }, 
+    "foxa": {}, 
+    "fpr": {
+        "is": "1.0\tE. coli fpr\tis\tNADPH\n"
+    }, 
+    "frua": {}, 
+    "frub": {
+        "is in": "1.0\tcase two fruB mutants did ferment mannitol\tis in\twhich\n"
+    }, 
+    "fruf": {
+        "is": "1.0\tFruF\tis\tbifunctional PTS system fructose-specific transporter subunit IIA/HPr protein\n"
+    }, 
+    "frur": {
+        "is": "1.0\tfruR leu ara\tis\tapproximately 0.2 min from leu from ara\n"
+    }, 
+    "ftnb": {
+        "is": "1.0\tpositive regulation ftnB\tis\tmediated\n", 
+        "is in": "1.0\tftnB\tis in\t\u0394fur\n"
+    }, 
+    "ftsh": {
+        "is": "1.0\tFtsH\tis\tonly membrane-bound AAA \u00fe protease in E. coli\n", 
+        "is in": "1.0\tftsH deletion\tis in\tstrain expressing from plasmid-linked lac promoter\n", 
+        "is member of": "1.0\tEscherichia coli FtsH protein\tis member of\tprotein family of putative ATPases involved in membrane functions\n"
+    }, 
+    "ftsk": {
+        "is": "1.0\tFtsK\tis\tmultifunctional protein\n", 
+        "is in": "1.0\tFtsK functions\tis in\tcell division\n"
+    }, 
+    "ftsz": {}, 
+    "fuma": {}, 
+    "fur": {
+        "are": "1.0\tFur binding motif\tare\tshown above corresponding putative sites underlined in mntH promoter regions\n", 
+        "contains": "1.0\tFur\tcontains\tzinc for protein stability\n", 
+        "is": "1.0\tfur mutant\tis\tcompromised for survival within macrophages even in absence of elevated NO levels in non-stimulated macrophages\n", 
+        "is in": "1.0\tFur regulon\tis in\tanaerobically grown Salmonella enterica sv Typhimurium\n", 
+        "is regulator of": "1.0\tFur\tis regulator of\tnrdHIEF\n", 
+        "is with": "1.0\tstudy fur\tis with\tin-frame expression of hemagglutinin epitope in AvaI HindIII sites of pACYC184 to 20 bp\n"
+    }, 
+    "fusa": {}, 
+    "fxsa": {}, 
+    "gadw": {
+        "is": "1.0\tGadW\tis\ttranscription factor encoded within acid \ufb01tness island\n"
+    }, 
+    "gadx": {}, 
+    "gale": {
+        "are": "1.0\tSalmonella galE mutants\tare\tWhen grown in presence of high concentrations of galactose\n", 
+        "is": "1.0\tgalE end\tis\tlocated adjacent to BamHI site of cloning vector\n"
+    }, 
+    "galk": {
+        "are": "1.0\tpKO galK vectors\tare\tderivatives\n", 
+        "contains": "1.0\tgalK gene sequence\tcontains\tits own ribosome-binding site\n", 
+        "is": "1.0\tgalK mRNA sequence\tis\ttranslated\n", 
+        "is in": "1.0\tilvC-directed galK expression\tis in\tabsence of transcription of contiguous ilv Y gene Galacto-kinase sp act\n"
+    }, 
+    "galr": {
+        "is in": "1.0\tgalR mutation\tis in\tE. coli background\n"
+    }, 
+    "galt": {}, 
+    "gap": {
+        "is": "1.0\tgap\tis\tHowever only 2 bp\n", 
+        "is in": "1.0\t146-bp gap\tis in\tS. typhimurium sequence 117 bp upstream of coding region\n"
+    }, 
+    "gapa": {}, 
+    "gark": {
+        "is": "1.0\tgene garK\tis\t3.4-fold upregulated\n"
+    }, 
+    "gatc": {
+        "are": "1.0\tappropriate GATC sites\tare\tonly when methylated\n", 
+        "is": "1.0\tGATC site\tis\tWhen embedded within protein-binding sequence\n", 
+        "is in": "1.0\tdifferential GATC methylation patterns\tis in\tgtrP22 ON cells\n"
+    }, 
+    "gcva": {
+        "is in": "1.0\tGcvA binding site\tis in\tgcvA control region\n"
+    }, 
+    "gcvb": {
+        "is": "1.0\tGcvB\tis\tnovel\n"
+    }, 
+    "gdh": {
+        "is": "1.0\tGDH\tis\tsynthesized in various media in parallel with pattern observed for chromosomally coded GDH\n", 
+        "is in": "1.0\tplasmid-coded GDH activity\tis in\tglucose-ammo-nia-grown cells\n"
+    }, 
+    "gdha": {
+        "is in": "1.0\tparticular gdhA mutation\tis in\trecipient strain\n"
+    }, 
+    "ggt": {}, 
+    "glgs": {}, 
+    "glms": {
+        "is": "1.0\tglmS binding site\tis\texclusively present\n"
+    }, 
+    "glmus": {}, 
+    "glna": {
+        "is": "1.0\tglnA\tis\ttranscribed\n"
+    }, 
+    "glng": {
+        "are": "1.0\tglnG\tare\tevolutionarily related\n", 
+        "is in": "1.0\tglnG\tis in\tK. pneumoniae\n"
+    }, 
+    "glnl": {}, 
+    "glnq": {}, 
+    "glpabc": {}, 
+    "glpb": {}, 
+    "glpc": {
+        "is": "1.0\tglpC expression\tis\tinduced under anaerobic conditions at exponential phase\n"
+    }, 
+    "glpd": {}, 
+    "glpk": {
+        "are": "1.0\tglpK mutants\tare\tunable\n"
+    }, 
+    "glrk": {}, 
+    "glrr": {
+        "are": "1.0\tGlrR binding sites\tare\tlikewise conserved\n", 
+        "is": "1.0\tZ197 Phosphorylated GlrR\tis\tactive\n", 
+        "is in": "1.0\tGlrR\tis in\tY. pseudotuberculosis\n", 
+        "is with": "1.0\tGlrR\tis with\tits homologs from S. typhimurium\n"
+    }, 
+    "gltb": {
+        "is in": "1.0\tgltB gene\tis in\tEscherichia coli\n"
+    }, 
+    "gltd": {}, 
+    "glya": {}, 
+    "gmk": {}, 
+    "gmm": {
+        "is": "1.0\tgmm transcription\tis\tupon activation of RcsC-YojN-RcsB phosphorelay induced sixfold in igaA1 mutant\n", 
+        "is expressed in": "1.0\tgmm gene\tis expressed in\twild-type bacteria\n", 
+        "is in": "1.0\tgmm transcription\tis in\twild-type strains\n", 
+        "is necessary for": "1.0\tgmm gene\tis necessary for\tproduction of colanic acid capsule\n"
+    }, 
+    "gnd": {
+        "is": "1.0\tgnd gene\tis\tinducible in E. coli K-12\n", 
+        "is at": "1.0\tgnd\tis at\twhen its normal chromosomal position\n", 
+        "is in": "1.0\tgnd gene\tis in\tpossible orientations into K NF1955\n", 
+        "is with": "1.0\tgnd ATCC 14028s\tis with\tMudJ insertion in yibD ATCC 14028s\n"
+    }, 
+    "gntt": {}, 
+    "gogb": {}, 
+    "gor": {
+        "are": "1.0\tGor\tare\trequired for turnover of oxidized glutathione\n"
+    }, 
+    "groel": {}, 
+    "groes": {}, 
+    "grpe": {
+        "are": "1.0\tGrpE\tare\trequired for \ufb02agellum synthesis in Escherichia coli\n"
+    }, 
+    "gsha": {
+        "is": "1.0\tE. coli GshA protein\tis\trepresented\n", 
+        "is in": "1.0\tgshA mutation\tis in\tStrain Relevant genotype\n"
+    }, 
+    "gst": {
+        "is with": "1.0\tGST expression\tis with\tIPTG\n"
+    }, 
+    "gtge": {
+        "is": "1.0\tGtgE\tis\tsecreted\n"
+    }, 
+    "gtra": {
+        "are": "1.0\tgtrA genes\tare\tpredicted\n", 
+        "is with": "1.0\tpartial gtrA coding sequence\tis with\tgrey box\n"
+    }, 
+    "guac": {}, 
+    "gyra": {
+        "are": "1.0\twell-characterized gyrA\tare\tFinally also his regulatory mutations\n", 
+        "is": "1.0\tgyrA\tis\tsuggested\n", 
+        "is in": "1.0\tGyrA results\tis in\taltered expression of numerous genes including those important\n", 
+        "is with": "1.0\tgyrA\tis with\tKnown Defects in Supercoiling\n"
+    }, 
+    "gyrb": {
+        "are": "1.0\tgyrB alleles\tare\tFinally also his regulatory mutations\n", 
+        "is": "1.0\thimA gyrB double mutant\tis\tNonetheless more defective in supercoiling function than with model\n", 
+        "is in": "1.0\tnovel gyrB mutation\tis in\tcipro\ufb02oxacin resistance\n"
+    }, 
+    "h-ns": {
+        "are": "1.0\tH-NS protein levels\tare\tUnder growth conditions higher in wild type than in strain NLM2173 during log phase growth\n", 
+        "belongs to": "1.0\tH-NS\tbelongs to\tsuperfamily of bacterial nucleoid-associated proteins\n", 
+        "interacts with": "1.0\tchromatin-associated protein H-NS\tinteracts with\tcurved DNA to in\ufb02uence DNA topology\n", 
+        "is": "1.0\tH-NS\tis\tFor example at ilvIH-leuO-leuABCD gene cluster of S. typhimurium initially thought\n", 
+        "is in": "1.0\tH-NS binding site\tis in\tpromoter region of serotype Typhimurium misL gene\n", 
+        "is part of": "1.0\tH-NS\tis part of\tthermally controlled mechanism for bacterial gene regulation Temperature\n", 
+        "is with": "1.0\tH-NS binding\tis with\tbase-composition features of DNA such curvature\n"
+    }, 
+    "hcp": {
+        "are": "1.0\tHcp proteins\tare\tmost highly expressed\n", 
+        "contains": "1.0\tHcp\tcontains\ttwo clusters\n", 
+        "is": "1.0\tHcp protein expression\tis\tenhanced\n", 
+        "is in": "1.0\thcp ortholog\tis in\tSPI-6 T6SS of S. Typhi\n"
+    }, 
+    "hcr": {
+        "are": "1.0\thcr\tare\tupregulated in our nsrR mutant\n"
+    }, 
+    "hdeb": {}, 
+    "hdfr": {
+        "is": "1.0\tHdfR\tis\tstd activator in absence of Dam methylation\n"
+    }, 
+    "hema": {
+        "is": "1.0\tHemA regulation\tis\tmediated either at step after transcription initiation through modulation of protein stability\n", 
+        "is in": "1.0\tHemA induction\tis in\tadapted hemL mutant strains of E. coli\n"
+    }, 
+    "hemb": {
+        "is": "1.0\themB\tis\tseparated from prpE by 66-bp gap\n"
+    }, 
+    "heme": {
+        "is": "1.0\theme\tis\tIn Salmonella typhimurium essential for respiration in defense against toxic oxygen metabolite H2O2\n", 
+        "is in": "1.0\theme biosynthetic pathway\tis in\tenteric bacteria\n", 
+        "is responsible for": "1.0\theme limitation\tis responsible for\tinduction\n"
+    }, 
+    "hemf": {
+        "are": "1.0\themF\tare\tcotranscribed\n", 
+        "constitute": "1.0\themF\tconstitute\toperon under control\n", 
+        "is": "1.0\tHemF\tis\tS. typhimurium coproporphyri-nogen oxidase\n"
+    }, 
+    "hemh": {}, 
+    "heml": {
+        "is": "1.0\themL mutant strain\tis\tdeletion mutant\n", 
+        "is in": "1.0\themL mutant\tis in\ttwo different E. coli backgrounds\n"
+    }, 
+    "hemn": {
+        "are": "1.0\themN\tare\tconvergently transcribed\n", 
+        "is": "1.0\t52.8-kDa HemN protein\tis\texpressed\n"
+    }, 
+    "hfq": {
+        "are": "1.0\tHfq\tare\tmajor contributors to multicellular development in Salmonella enterica serovar Typhimuri\n", 
+        "contains": "1.0\thfq 3 Cm strain\tcontains\tinsertion of same cassette immediately downstream of WT hfq ORF\n", 
+        "is": "1.0\tfunctional hfq gene\tis\trequired for ef\ufb01cient translation of sta-tionary-phase sigma factor RpoS in S. typhimurium\n", 
+        "is in": "1.0\thfq insertion mutation\tis in\tEsch-erichia coli K-12\n", 
+        "is member of": "1.0\tRNA-binding protein Hfq\tis member of\tSm protein family\n", 
+        "is part of": "1.0\tchromosomal hfq gene\tis part of\tcomplex operon\n", 
+        "is with": "1.0\tS. typhimurium hfq mutant\tis with\tkatE-lac fusion\n"
+    }, 
+    "hha": {
+        "are": "1.0\tHha\tare\trepressors of type III secretion system encoded\n", 
+        "is": "1.0\tHha\tis\tmajor repressor responsible for silencing virulence genes carried in Salmonella pathogenicity island 2 prior to bacteria\n", 
+        "is in": "1.0\thha ydgT-mediated gene deregulation\tis in\tLB medium\n", 
+        "is member of": "1.0\tHha protein\tis member of\tfamily\n", 
+        "is regulator of": "1.0\tHha\tis regulator of\tS. enterica serovar Typhimurium invasion gene transcriptional activator hilA\n", 
+        "is with": "1.0\tpredicted Salmonella Hha protein identi\ufb01ed proteins\tis with\tsigni\ufb01cant homology to Hha\n"
+    }, 
+    "hila": {
+        "are": "1.0\thilA genes\tare\trepressed by response regulator PhoB in absence of Pst high-af\ufb01nity inorganic phosphate uptake system\n", 
+        "contains": "1.0\tHilA box\tcontains\tdirect repeat comprised of two hexamers separated by 5 nucleotides\n", 
+        "interacts with": "1.0\tHilA\tinteracts with\tampli\ufb01ed spi4_H upstream region\n", 
+        "is": "1.0\tHilA expression\tis\tin turn regulated by three AraC-like transcription factors with homologous DNA binding domains\n", 
+        "is important for": "1.0\tputative HilA box\tis important for\tHilA-dependent sicA induction\n", 
+        "is in": "1.0\tprgH HilA box 's activity\tis in\tabsence of upstream sequences including half-site-like hexamers at 2106\n", 
+        "is necessary for": "1.0\tHilA box\tis necessary for\tactivation by HilA\n", 
+        "is regulator of": "1.0\tHilA\tis regulator of\tserovar Typhimurium invasion genes\n", 
+        "is with": "1.0\thilA upstream region pAMD-BA-lacZ\tis with\tsiiA upstream region pAMD-BA-lacZ\n"
+    }, 
+    "hilc": {
+        "are": "1.0\tHilC\tare\thomologues of HilD with 62 % respectively in their DNA-binding domains\n", 
+        "constitute": "1.0\tHilC\tconstitute\tfeed\n", 
+        "is": "1.0\thilC expression\tis\tin hilD mutant even further repressed by low-osmolarity conditions\n", 
+        "is expressed in": "1.0\tHilC\tis expressed in\tabsence of HilD\n", 
+        "is in": "1.0\thilC regulatory genes\tis in\tSPI-1 pathogenicity island\n"
+    }, 
+    "hild": {
+        "are": "1.0\thilD translation start site\tare\tshown below autoradiograph of gel in relation to hilD transcription start sites\n", 
+        "belongs to": "1.0\tHilD\tbelongs to\tAraC/XylS family of transcriptional regulators\n", 
+        "constitute": "1.0\tJ.M. HilD\tconstitute\tfeed\n", 
+        "contains": "1.0\tHilD\tcontains\tC-terminal helix-turn-helix DNA-binding motif within conserved 99-amino-acid domain characteristic of AraC/XylS family members\n", 
+        "interacts with": "1.0\tHilD\tinteracts with\tsubunit of RNA polymerase\n", 
+        "is": "1.0\thilD\tis\tamong known SPI1 regulators required for propionate-mediated repression of Salmonella genes essential for tissue invasion\n", 
+        "is at": "1.0\tHilD\tis at\ttop of hierarchy of regulation of SPI1 expression\n", 
+        "is in": "1.0\tT7 RNA polymerase BL21 Plasmid pUC19 Amp r Laboratory collection 14 hilD expression\tis in\tpZC320 hilD\n", 
+        "is member of": "1.0\tHilD\tis member of\tAraC/XylS family of regulators\n", 
+        "is necessary for": "1.0\tHilD\tis necessary for\tHilA expression\n", 
+        "is regulator of": "1.0\tHilD\tis regulator of\thilA transcription\n", 
+        "is with": "1.0\tHilD\tis with\tits DNA-binding domain deleted on \ufb02agellar genes expressed from class 1 class 2 \ufb02iL-lac\n"
+    }, 
+    "hima": {
+        "is": "1.0\thimA gyrB double mutant\tis\tNonetheless more defective in supercoiling function than with model\n"
+    }, 
+    "hin": {
+        "is": "1.0\tHin\tis\tlimiting factor\n", 
+        "is in": "1.0\thin genes\tis in\twildtype mutant strains\n", 
+        "is responsible for": "1.0\tHin\tis responsible for\tsynthesis of FljB in iacP mutant strain\n", 
+        "is with": "1.0\thin gene\tis with\tits promoter region\n"
+    }, 
+    "hisa": {}, 
+    "hisb": {
+        "is": "1.0\thisB enzyme\tis\tsingle polypeptide\n", 
+        "is in": "1.0\tComparable HisB enzyme levels\tis in\tCR1/2P\n"
+    }, 
+    "hisd": {
+        "is": "1.0\tsilent hisD gene\tis\tIn one case activated by fusion to argA promoter at join point of duplication\n", 
+        "is with": "1.0\thisD\tis with\tleft endpoint of insertion 151 bp downstream of hisD translation initiation codon\n"
+    }, 
+    "hisg": {}, 
+    "hisj": {}, 
+    "hisl": {}, 
+    "hisp": {
+        "is": "1.0\thisP protein\tis\talso arginine transport component\n"
+    }, 
+    "hisr": {
+        "is": "1.0\thisR multigene tRNA operon\tis\tIn particular transcribed efficiently in vitro\n"
+    }, 
+    "hist": {
+        "are": "1.0\thisT mutations\tare\thighly pleiotro-pic\n", 
+        "is": "1.0\thisT mutation\tis\tMoreover sufficient\n", 
+        "is part of": "1.0\thisT\tis part of\tmultigene operon in Escherichia coli K-12\n"
+    }, 
+    "hit": {
+        "is in": "1.0\thit selection\tis in\tRNA interference\n"
+    }, 
+    "hlye": {
+        "contains": "1.0\thlyE promoter\tcontains\tobservation recently confirmed by Faucher et\n", 
+        "is": "1.0\tHlyE\tis\tpore-forming toxin\n", 
+        "is in": "1.0\thlyE expression\tis in\tS. Typhi\n"
+    }, 
+    "hmp": {
+        "are": "1.0\thmp knockout mutants\tare\tseverely compromised for survival in presence of NO in vitro\n", 
+        "is": "1.0\tnsrR hmp double mutant\tis\taffected\n", 
+        "is expressed in": "1.0\thmp\tis expressed in\tnsrR mutant\n", 
+        "is member of": "1.0\tHmp\tis member of\tNsrR regulon\n"
+    }, 
+    "hmpa": {
+        "is": "1.0\thmpA\tis\tThus repressed\n"
+    }, 
+    "hnr": {}, 
+    "hns": {
+        "are": "1.0\thns\tare\ttightly linked\n", 
+        "is": "1.0\tspeci\ufb01c hns transcript\tis\tapproximately 378 bp in size\n", 
+        "is in": "1.0\thns gene\tis in\tregion coding for carboxy terminus of H-NS nucleoid protein\n", 
+        "is with": "1.0\thns gene\tis with\tlambda Red system\n"
+    }, 
+    "hpai": {
+        "are": "1.0\tHpaI sites\tare\tmarked\n", 
+        "is in": "1.0\tHpaI site\tis in\tpSpvA-Z\n"
+    }, 
+    "hpt": {
+        "are": "0.43403852951495137\thpt mutants\tare\timpaired\n"
+    }, 
+    "hsls": {
+        "are": "1.0\tHSLs\tare\tsynthesized by LuxI family of HSL synthases above threshold concentrations bind to their cognate receptor proteins\n"
+    }, 
+    "htra": {}, 
+    "hu": {
+        "are": "1.0\tab HU\tare\tdetected\n", 
+        "is": "1.0\tHU\tis\tcomposed\n", 
+        "is in": "1.0\tHU\tis in\teukaryotes\n"
+    }, 
+    "hup": {}, 
+    "hupa": {}, 
+    "hupb": {}, 
+    "hutc": {}, 
+    "hyab": {
+        "is": "1.0\thyaB\tis\tlocated\n", 
+        "is in": "1.0\thyaB\tis in\tE. coli\n"
+    }, 
+    "hybb": {
+        "is": "1.0\thybB\tis\tlocated\n"
+    }, 
+    "hyce": {
+        "is in": "1.0\tHycE\tis in\tFHL complex STM2855 hypB 8.84 2.79 Hydrogenase-3 accessory protein\n"
+    }, 
+    "hydg": {
+        "is": "1.0\tHydG\tis\tinvolved\n"
+    }, 
+    "hypa": {
+        "is in": "1.0\thypA\tis in\tS. Typhimurium Antisense RNAs\n"
+    }, 
+    "iacp": {
+        "is": "1.0\tIacP\tis\tassociated\n", 
+        "is in": "1.0\tiacP gene\tis in\tS. Typhimurium\n"
+    }, 
+    "iagb": {
+        "is": "1.0\tiagB\tis\tgene downstream of same operon with hilA\n"
+    }, 
+    "ibpa": {}, 
+    "icd": {
+        "is in": "1.0\tcontrol gene icd\tis in\tsame reaction\n"
+    }, 
+    "iclr": {
+        "is in": "1.0\ticlR gene\tis in\tposition comparable to that of constitutive mutants\n"
+    }, 
+    "icmf": {
+        "are": "1.0\tIcmF\tare\trequired for optimal effector translocation of Legionella pneumophila vacuole\n", 
+        "is": "1.0\ticmF homolog\tis\tlocated\n", 
+        "is in": "1.0\ticmF homolog\tis in\tS. enterica serovar Typhimurium named for salmonella centisome 7 island\n"
+    }, 
+    "igaa": {
+        "are": "1.0\tigaA\tare\tpresent exclusively in enterobacteria with exception of endosymbiotic bacteria\n", 
+        "interacts with": "1.0\tIgaA\tinteracts with\tRcsB-RcsC regulatory system\n", 
+        "is": "1.0\tigaA gene\tis\tIn Salmonella enterica serovar Typhimurium located at centisome 75 between genes\n", 
+        "is homologous to": "1.0\tigaA\tis homologous to\tyrfF in Escherichia coli in Proteus mirabilis\n", 
+        "is in": "1.0\tviable igaA alleles\tis in\tS. enterica serovar Typhimurium\n"
+    }, 
+    "ihf": {
+        "are": "1.0\tIHF protein\tare\timportant\n", 
+        "is": "1.0\tIHF\tis\trequired at multiple steps during induction of cob/pdu transcription in response to 1,2-PDL\n", 
+        "is important for": "1.0\tIHF\tis important for\tactivities of s54-promoters\n", 
+        "is in": "1.0\tihf site sequence\tis in\tE. coli \ufb01s P region\n", 
+        "is with": "1.0\tIHF\tis with\tFnr\n"
+    }, 
+    "ihfa": {}, 
+    "ihfb": {
+        "are": "1.0\tihfB mutants\tare\tunable\n"
+    }, 
+    "iica": {
+        "are": "1.0\tiicA\tare\tseparated by 6 kb of DNA on chromosome\n"
+    }, 
+    "ilva": {
+        "is": "1.0\tilvA\tis\tderepressed\n"
+    }, 
+    "ilvb": {
+        "is": "1.0\tilvB\tis\tderepressed\n", 
+        "is in": "1.0\tilvB expression\tis in\tcya strains\n"
+    }, 
+    "ilvc": {
+        "is": "1.0\tS. typhimurium ilvC gene\tis\ttranscribed in same direction as that of ilvGEDA\n"
+    }, 
+    "ilvd": {
+        "is": "1.0\tilvD\tis\tderepressed\n"
+    }, 
+    "ilve": {}, 
+    "ilvg": {
+        "are": "1.0\tilvG mutations\tare\tcotransduced\n", 
+        "is": "1.0\tilvG coding sequence\tis\twhere disrupted\n", 
+        "is in": "1.0\tilvG mutant\tis in\tmedia\n"
+    }, 
+    "ilvgmeda": {}, 
+    "ilvih": {
+        "are": "1.0\tilvIH\tare\tknown\n"
+    }, 
+    "ilvy": {
+        "are": "1.0\tilvY structural gene\tare\tcontained within XhoI-SaiI fragment\n", 
+        "is": "1.0\tilvY\tis\twhen provided in trans induction of ilvC\n"
+    }, 
+    "imp": {
+        "is": "1.0\timp\tis\timmediately followed by surA with only 43-bp intervening sequence\n"
+    }, 
+    "impc": {
+        "is in": "1.0\tImpC\tis in\tEnterobacter cloacae\n"
+    }, 
+    "int": {}, 
+    "inva": {
+        "contains": "1.0\tinvA Km strain\tcontains\tKm resistance cassette inserted in invA ORF\n", 
+        "is": "1.0\tinvA\tis\tproximal gene\n", 
+        "is in": "1.0\tinvA gene\tis in\tSPI-1\n"
+    }, 
+    "invb": {
+        "is": "1.0\tInvB\tis\ttype III secretion chaperone speci\ufb01c for SspA\n"
+    }, 
+    "invc": {
+        "is in": "1.0\tATPase InvC\tis in\tSalmonella\n"
+    }, 
+    "inve": {
+        "is with": "1.0\tinvE mutant defects\tis with\tplasmids pINVG1\n"
+    }, 
+    "invf": {
+        "are": "1.0\tinvF\tare\tregulatory genes\n", 
+        "belongs to": "1.0\tInvF\tbelongs to\tAraC/XylS family of transcriptional regulators\n", 
+        "interacts with": "1.0\tInvF\tinteracts with\tSicA\n", 
+        "is": "1.0\tInvF\tis\tAraC-like transcriptional regulator required for expression of secreted effectors encoded on SPI1\n", 
+        "is in": "1.0\tinvF mutation\tis in\tstrain\n", 
+        "is necessary for": "1.0\tInvF\tis necessary for\tfull expression of sipC\n", 
+        "is with": "1.0\tinvF mutant\tis with\taddition of hilA in multicopy\n"
+    }, 
+    "invg": {
+        "is": "1.0\tInvG\tis\tencoded\n"
+    }, 
+    "invh": {
+        "contains": "1.0\tInvH\tcontains\ttwo cysteine residues\n", 
+        "is": "1.0\tSalmonella typhimurium InvH protein\tis\touter membrane lipoprotein required for proper localization of InvG\n", 
+        "is with": "1.0\tinvH primer\tis with\tEcoRI linker\n"
+    }, 
+    "iole": {
+        "are": "1.0\tiolE promoters\tare\talso strongly induced in iolR-negative background in comparison to their transcriptional activity in presence of glucose\n", 
+        "is with": "1.0\tcomplem iolE\tis with\tputative promoter region cloned into pBR322 for complem Promoter probe vector\n"
+    }, 
+    "irap": {
+        "are": "1.0\tiraP genes\tare\tnecessary for normal RpoS levels during growth in low Mg2\n", 
+        "is": "1.0\tiraP gene\tis\tIn addition necessary for stabilization after phosphate starvation in E. coli\n", 
+        "is important for": "1.0\tIraP\tis important for\tstabilization of RpoS during phosphate starvation in E. coli\n", 
+        "is in": "1.0\tiraP expression\tis in\tdifferent ways\n", 
+        "is necessary for": "1.0\tiraP gene\tis necessary for\tstabilization after phosphate starvation in E. coli\n"
+    }, 
+    "iron": {
+        "are": "1.0\tSalmonella typhi iron uptake mutants\tare\tattenuated\n", 
+        "is": "1.0\tiron content\tis\tby contrast typically far lower in range of few hundred micromolar\n", 
+        "is in": "1.0\tFur-mediated iron regulation\tis in\tbidirectional fepA-fes control region of Escherichia coli enterobactin gene system\n", 
+        "is with": "1.0\tferrous iron\tis with\toxygen\n"
+    }, 
+    "isca": {
+        "are": "1.0\tIscA\tare\tmembers of two families of proteins involved in generalized iron-sulfur Fe-S protein maturation\n"
+    }, 
+    "iscr": {}, 
+    "iscu": {}, 
+    "kate": {
+        "is": "1.0\tkatE expression\tis\tmore sensitive to Crl in ATCCrpoSLT2\n", 
+        "is in": "1.0\tkatE gene transcription\tis in\tlow Mg2 conditions\n"
+    }, 
+    "katg": {
+        "are": "1.0\tKatG\tare\toften referred to as HPI respectively\n"
+    }, 
+    "kbl": {
+        "are": "1.0\tkbl\tare\thomologous to same location as equivalent genes in Escherichia coli K-12\n"
+    }, 
+    "kdgr": {
+        "is in": "1.0\tKdgR regulon\tis in\tErwinia chrysanthemi 3937\n"
+    }, 
+    "kdpa": {}, 
+    "kdpd": {
+        "is": "1.0\t2002 16 Macrophage kdpD\tis\tdifferentially transcribed\n", 
+        "is in": "1.0\tputative osmosensor KdpD\tis in\tEscherichia coli\n"
+    }, 
+    "kdpe": {
+        "interacts with": "1.0\tKdpE\tinteracts with\tsecond transcription factor\n", 
+        "is": "1.0\tKdpE production\tis\tcorrelated\n", 
+        "is in": "1.0\tKdpE\tis in\tvirulence\n"
+    }, 
+    "kdpf": {
+        "is": "1.0\tKdpF subunit\tis\tpart\n", 
+        "is part of": "1.0\tKdpF subunit\tis part of\tK translocating Kdp complex of Escherichia coli\n"
+    }, 
+    "kdsa": {
+        "is": "1.0\tKdsA\tis\tinvolved\n"
+    }, 
+    "laci": {
+        "is": "1.0\tlacI expression\tis\tinduced\n"
+    }, 
+    "lacy": {
+        "is in": "1.0\tdecreased lacY expression\tis in\this-lac fusion strain\n", 
+        "is with": "1.0\tN-terminal LacY\tis with\tprimers\n"
+    }, 
+    "lacz": {
+        "are": "0.8434007765171426\tlacZ transcriptional fusion\tare\trepresented\n", 
+        "contains": "0.5825805817675346\tlacZ transcriptional fusion\tcontains\tonly 165 bp 5 to start of translation\n", 
+        "is": "0.5565298790927182\tlacZ fusion\tis\tnormally regulated by growth phase with maximal induction of expression occurring upon entry into stationary phase of growth\n", 
+        "is expressed in": "0.6021458467844361\tlacZ\tis expressed in\twhen intracellular environment of J774 macrophages\n", 
+        "is in": "1.0\tlacZ SP6/T7 expression vector pSPT18 \ufb02iC pSPT18 \ufb02iC pSPT18 trc \ufb02iC SP6/T7 expression vector pSPT19 \ufb02iC pSPT19 \ufb02jB trc expression vector pTrc97A trcp \ufb02iC pTrc97A trcp \ufb02iC pICP2 A-to-C substitution\tis in\tinitiation codon of \ufb02iC gene trc expression vector pTrc99A \ufb02iC\n", 
+        "is with": "1.0\tpromoterless lacZ gene pMEG2 pMP190\tis with\t258-bp XhoI/BglII fragment from immediately upstream of dsbA translational start site cloned into multiple cloning site\n"
+    }, 
+    "lamb": {
+        "is": "1.0\tlamB\tis\tinduced approximately 17-fold\n"
+    }, 
+    "last": {
+        "are": "1.0\tlast four mgtP codons\tare\tpart\n", 
+        "contains": "1.0\tlast lane\tcontains\tsize standard of X174 DNA cut with HaeIII\n", 
+        "is": "1.0\tlast\tis\tencountered by numerous pathogens during natural course of infection\n", 
+        "is in": "1.0\tlast step\tis in\thierarchy of flagellar biosynthesis\n"
+    }, 
+    "ldha": {
+        "is": "1.0\tlactate dehydrogenase gene ldhA\tis\tupregulated\n", 
+        "is in": "1.0\tldhA\tis in\tWT strain\n"
+    }, 
+    "leuo": {
+        "is": "1.0\tLeuO\tis\tglobal regulator of gene expression in Salmonella enterica serovar Typhimurium\n", 
+        "is regulator of": "1.0\tLeuO\tis regulator of\tgene expression\n"
+    }, 
+    "leux": {}, 
+    "levr": {}, 
+    "lexa": {
+        "are": "1.0\tLexA levels\tare\treplenished\n", 
+        "is": "0.04233298802032592\tLexA DNA-binding domain\tis\tIn system used as reporter determine\n", 
+        "is in": "1.0\tputative lexA regulatory motif\tis in\tits regulatory region\n"
+    }, 
+    "lola": {
+        "is with": "1.0\tperiplasmic LolA derivative\tis with\tlethal disulfide bond\n"
+    }, 
+    "lon": {
+        "is": "1.0\tLon\tis\tcapable of degrading SPI1 regulatory proteins after invasion\n", 
+        "is important for": "1.0\tLon\tis important for\tsystemic Salmonella enterica serovar Typhimurium infection of mice\n", 
+        "is in": "1.0\tLon protease\tis in\tS. enterica serovar Typhimurium\n", 
+        "is regulator of": "1.0\tATP-dependent Lon protease\tis regulator of\tSPI1 expression\n", 
+        "is responsible for": "1.0\tLon\tis responsible for\tenvironmental regulation of SPI1 genes\n", 
+        "is with": "1.0\t2,352-bp lon gene pUHE21-2 fd12\tis with\t1,836-bp hilA gene pMPM-A4 carrying\n"
+    }, 
+    "lpxa": {}, 
+    "lpxd": {}, 
+    "lpxo": {}, 
+    "lrha": {
+        "is": "1.0\tLrhA\tis\tnegative regulator of \ufb02agellar in E. coli\n", 
+        "is in": "1.0\tLrhA\tis in\tEscherichia coli\n", 
+        "is regulator of": "1.0\tLrhA\tis regulator of\t\ufb02agellar\n"
+    }, 
+    "lrp": {
+        "are": "1.0\tLrp binding sites\tare\tlocated far upstream from transcription start site\n", 
+        "interacts with": "1.0\tPuri\ufb01ed Lrp protein\tinteracts with\tpromoter regions of hilA genes\n", 
+        "is": "1.0\tLrp\tis\tIn serovar Typhimurium required for type 1 fimbriae production\n", 
+        "is in": "1.0\tlrp transcripts\tis in\tserovar Typhimurium SL1344 cells grown\n", 
+        "is with": "1.0\tLrp homologue\tis with\t99 % amino acid sequence identity\n"
+    }, 
+    "lsrk": {
+        "is": "1.0\tA Figure S4 LsrK\tis\trequired\n", 
+        "is in": "1.0\tlsrK loci\tis in\twild-type strains\n"
+    }, 
+    "lsrr": {
+        "are": "1.0\tlsrR\tare\tdeleted\n", 
+        "is": "1.0\tLsrR\tis\tinvolved in regulation of SPI-1 genes in contrast to recent proposal\n", 
+        "is in": "1.0\tLsrR overexpression\tis in\twild-type Salmonella\n"
+    }, 
+    "luxs": {
+        "are": "1.0\tluxS\tare\tinvolved in bio\ufb01lm process in Salmonella Typhimurium\n", 
+        "is": "1.0\tgene Salmonella enterica luxS\tis\tIn V. harveyi directly involved in production of AI-2 molecules from S-adenyl-methionine\n", 
+        "is in": "1.0\tLuxS stability\tis in\tSalmonella serovar Typhimurium\n", 
+        "is necessary for": "0.8582147075078352\tluxS gene\tis necessary for\texpression of genes in pathogenicity island 1\n", 
+        "is responsible for": "1.0\tluxS\tis responsible for\tregulation\n", 
+        "is with": "1.0\tDescription Wild type SL1344 luxS SL1344 luxS\tis with\tpBRluxS SL1344\n"
+    }, 
+    "lysr": {
+        "is": "1.0\tLysR\tis\tpositive regulator\n", 
+        "is in": "1.0\tLysR\tis in\tRhizobium\n"
+    }, 
+    "male": {
+        "is": "1.0\tfolding-defective MalE protein\tis\tat lower levels of expression degraded by DegP\n"
+    }, 
+    "malk": {}, 
+    "malt": {
+        "is in": "1.0\tmalT\tis in\tthat\n"
+    }, 
+    "manb": {
+        "are": "1.0\tmanB\tare\tpart\n"
+    }, 
+    "manx": {}, 
+    "many": {
+        "are": "1.0\tmany different cell types\tare\tDuring enteric infections targets for S. Typhimu-rium including enterocytes\n", 
+        "is": "0.647700946034051\tmany diverse biochemical systems\tis\tclearly advantageous\n", 
+        "is in": "1.0\tmany putative drug ef\ufb02ux pumps\tis in\tSalmonella genome\n", 
+        "is with": "1.0\tmany microenvironments\tis with\tdiverse environmental conditions\n"
+    }, 
+    "map": {
+        "are": "1.0\trestriction endonuclease map\tare\tshown in Fig. 1 A respectively\n", 
+        "is": "1.0\tmap\tis\toriented in same direction as S. typhimurium genetic map\n", 
+        "is in": "1.0\tstandard Salmonella linkage map\tis in\tvicinity of \ufb02gAMN genes\n", 
+        "is with": "1.0\tgenetic map\tis with\tinferred transcription indicated above\n"
+    }, 
+    "mara": {
+        "are": "1.0\tMarA\tare\trequired for positive regulation\n", 
+        "is": "0.96433072274158\tmarA\tis\tvirulence factor for animal infection\n", 
+        "is in": "1.0\tMarA\tis in\tE. coli\n", 
+        "is part of": "1.0\tE. coli marA\tis part of\tmarRAB operon linked\n"
+    }, 
+    "marb": {}, 
+    "marc": {}, 
+    "marr": {
+        "are": "1.0\tMarR family member SlyA\tare\tpresent Tin members of family Enterobacteriaceae\n", 
+        "is": "1.0\tMarR\tis\trepressor\n", 
+        "is in": "1.0\tmarR\tis in\tserovar Typhi-murium DT104 strain S/921495\n"
+    }, 
+    "marrab": {
+        "is": "1.0\tmarRAB operon transcriptional start site\tis\thelix-turn-helix motif\n", 
+        "is expressed in": "1.0\tmarRAB\tis expressed in\tabsence of inducing agent\n", 
+        "is in": "1.0\tmarRAB transcriptional activation\tis in\tabsence of AsmA\n"
+    }, 
+    "mart": {
+        "are": "1.0\tMarT\tare\tmembers of family of ToxR-like regulatory proteins\n", 
+        "contains": "1.0\tMarT\tcontains\tputative DNA-binding winged-helix-turn-helix domain between amino acids\n", 
+        "is": "1.0\tmarT gene\tis\tlocated\n"
+    }, 
+    "mbp": {}, 
+    "mcp": {}, 
+    "mdab": {}, 
+    "mdoh": {
+        "is": "1.0\tmdoH gene product\tis\tinvolved\n"
+    }, 
+    "mdtk": {}, 
+    "menb": {}, 
+    "meng": {
+        "is in": "1.0\tMeng J. Effect\tis in\t\ufb02uoroquinolone-resistant Salmonella Typhimurium\n"
+    }, 
+    "mere": {}, 
+    "merr": {
+        "is": "1.0\tMerR\tis\tHowever in contrast to in behavior of MerR with truncated subunits sensitive in vivo to alterations at G311\n", 
+        "is in": "1.0\tresponsive MerR homologue\tis in\tEscherichia coli\n"
+    }, 
+    "meta": {
+        "is": "1.0\tmetA\tis\talso regulated posttranscriptionally\n", 
+        "is in": "1.0\tmetA\tis in\tmetC nonfolate branch of pathway\n"
+    }, 
+    "metb": {
+        "are": "1.0\tmetJ metB metC lysogen 720XRlac\tare\tdefective in synthesis of homocysteine\n", 
+        "is": "1.0\tmetB mRNA\tis\tmore efficiently translated\n", 
+        "is in": "1.0\tmetJ metB mutant b-Galactosidase activity\tis in\tmedium containingb\n"
+    }, 
+    "metbl": {}, 
+    "metc": {
+        "are": "1.0\tmetJ metB metC lysogen 720XRlac\tare\tdefective in synthesis of homocysteine\n"
+    }, 
+    "mete": {
+        "are": "1.0\tmetE genes\tare\tnegatively regulated by metJ gene product with S-adeno-sylmethionine as corepressor\n", 
+        "contains": "1.0\tmetE mRNA leader sequence\tcontains\tregion of extensive dyad symmetry with its center between positions\n", 
+        "is": "1.0\tmetE gene\tis\tregulated in trans by metJ gene products by metR gene product\n", 
+        "is in": "1.0\tmetE control region\tis in\tplasmid pGS105\n"
+    }, 
+    "metf": {
+        "are": "1.0\tmetJ metB metC metF lysogen 723XRlac\tare\tdefective\n", 
+        "is": "1.0\tmetF gene product\tis\tdirectly required for metR gene expression\n", 
+        "is in": "1.0\tmetF mutation\tis in\tlysogen 723AElac\n"
+    }, 
+    "meth": {
+        "is": "1.0\tmetH gene product\tis\tIn addition involved in repression of metE\n", 
+        "is in": "1.0\tmetH\tis in\tS. typhimurium\n"
+    }, 
+    "metj": {
+        "are": "1.0\tmetJ metB metC lysogen 720XRlac\tare\tdefective in synthesis of homocysteine\n", 
+        "is": "1.0\tproposed metJ termination region\tis\talso shown\n", 
+        "is in": "1.0\tmetJ metB mutant b-Galactosidase activity\tis in\tmedium containingb\n", 
+        "is with": "1.0\tpossible metJ operator region\tis with\tpartial homology to tandemly repeating palindrome 5\n"
+    }, 
+    "metk": {}, 
+    "metr": {
+        "are": "1.0\tmetR lysogen 244XRlac\tare\tfunctionally metE mutants\n", 
+        "belongs to": "1.0\tbound unbound DISCUSSION MetR protein\tbelongs to\tlysR family of DNA binding proteins\n", 
+        "is": "1.0\tmetR gene\tis\tnegatively regulated by its own gene product in conjunction with homocysteine\n", 
+        "is in": "1.0\tMetR Activator-Binding Site\tis in\tmetE metR Control Region of Salmonella typhimurium MARK L. URBANOWSKI\n"
+    }, 
+    "mgla": {
+        "constitute": "1.0\tmglA\tconstitute\toperon\n", 
+        "is in": "1.0\tmglA gene product\tis in\t3-methylgaloctoside transport system of Escherichia coli\n"
+    }, 
+    "mglb": {
+        "constitute": "1.0\tmglB\tconstitute\toperon\n", 
+        "is": "1.0\tmglB gene product\tis\tonly 33,000 daltons\n", 
+        "is in": "1.0\tmglB\tis in\torder\n"
+    }, 
+    "mglc": {
+        "is": "1.0\tmglC gene product\tis\tclaimed\n"
+    }, 
+    "mgrb": {
+        "interacts with": "1.0\tMgrB\tinteracts with\tE. coli PhoQ\n", 
+        "is": "1.0\tmgrB\tis\tLike many other small open reading frames frequently missed in genome annotations\n", 
+        "is in": "1.0\tputative mgrB homologs\tis in\tnumerous species\n", 
+        "is part of": "1.0\tMgrB\tis part of\tnegative feedback loop in PhoQ/PhoP signaling circuit\n", 
+        "is with": "1.0\tMgrB inserts\tis with\tits N-terminus in cytoplasm in periplasm\n"
+    }, 
+    "mgta": {
+        "are": "1.0\tmgtA genes\tare\tparadigm genes for two types of regulation reported for PhoP-PhoQ system\n", 
+        "is": "1.0\tmgtA transcription\tis\tAdditionally differentially and more sensitively regulated in to Mg2 availability with its promoter\n", 
+        "is in": "1.0\tmgtA LR\tis in\tsimilarly DNA templates corresponding to wild-type\n", 
+        "is with": "1.0\tmgtA expression\tis with\tdefective mgtA riboswitch due replacement of 100-bp sequence corresponding to positions 148 247 in wildtype mgtA 5 leader by 84-bp scar sequence\n"
+    }, 
+    "mgtb": {
+        "are": "1.0\tMgtB\tare\tIn particular quite similar following conserved phosphorylation site\n", 
+        "is": "1.0\tmgtB gene\tis\talso up-regulated\n", 
+        "is in": "1.0\tSPI-3 gene mgtB\tis in\tlivers\n", 
+        "is part of": "1.0\tmgtB\tis part of\tsmall operon with companion mgtC gene\n", 
+        "is with": "1.0\tMg2 MgtB\tis with\tapparent role in virulence\n"
+    }, 
+    "mgtc": {
+        "are": "0.9348826198131044\tmgtC coding regions\tare\tcomplementary to mgtC mRNA separated by 219 nucleotides\n", 
+        "is": "1.0\tMgtC protein\tis\tDespite high level of mgtCB transcriptional induction in magnesium-depleted medium hardly detected in wildtype Salmonella strain\n", 
+        "is in": "1.0\tMgtC 's role\tis in\tability of Salmonella enterica serovar Typhimurium survive within macrophages\n"
+    }, 
+    "miaa": {
+        "are": "1.0\tmiaA mutant cells\tare\tAt 42 \u00b0C rapidly depleted of free leucine\n", 
+        "is": "1.0\tS. typhi-murium miaA mutant\tis\tleucine auxotroph\n", 
+        "is in": "1.0\tmiaA mutant 's hypersensitivity\tis in\ttrans\n"
+    }, 
+    "miab": {
+        "is": "1.0\tMiaB\tis\tthiotransferase required in ms2i o 6A37 tRNA modi\ufb01cation\n", 
+        "is part of": "1.0\tmiaB gene\tis part of\tmonocistronic operon\n"
+    }, 
+    "mic": {
+        "is": "1.0\tc MIC\tis\tminimal inhibitory concentration of fusidic acid in micrograms required\n", 
+        "is in": "1.0\tRob-induced resistance phenotypes MIC % Survival\tis in\tACKNOWLEDGMENTS\n", 
+        "is with": "1.0\tLTL ciprofloxacin MIC\tis with\tsingle point mutation in GyrA\n"
+    }, 
+    "micf": {
+        "is": "1.0\tmicF gene\tis\ttranscriptionally regulated by SoxS in E. coli\n", 
+        "is in": "1.0\tmicF expression\tis in\twild-type strain\n"
+    }, 
+    "mig-14": {
+        "is": "1.0\tmig-14\tis\thorizontally acquired gene required for Salmonella enterica lethal infection in murine model of typhoid fever\n", 
+        "is in": "1.0\tmig-14 expression\tis in\tmacrophages\n", 
+        "is necessary for": "1.0\tMig-14 protein\tis necessary for\tresistance killing by antimicrobial peptides within host environment\n"
+    }, 
+    "mind": {}, 
+    "mine": {}, 
+    "misl": {
+        "is": "1.0\tMisL\tis\textracellular matrix adhesin involved in intestinal colonization\n", 
+        "is in": "1.0\ttet-racycline-inducible misL expression\tis in\tLB broth\n"
+    }, 
+    "mlc": {
+        "is": "1.0\tMlc\tis\tglobal regulator\n", 
+        "is in": "1.0\tMlc sequestration\tis in\tGlc presence of glucose\n", 
+        "is regulator of": "1.0\tMlc\tis regulator of\tcarbohydrate metabolism\n"
+    }, 
+    "mlra": {}, 
+    "mltc": {
+        "contains": "1.0\tMltC\tcontains\tadditional domain of unknown function\n", 
+        "is": "1.0\tMltC\tis\texpressed at signi\ufb01cantly lower levels than MltE despite fact\n", 
+        "is with": "1.0\tmltE mltC STM4264 triple mutant\tis with\tupregulated rdar morphotype\n"
+    }, 
+    "mlte": {
+        "are": "1.0\tMltE lytic transglycosylase SLT domains\tare\thighly related\n", 
+        "contains": "1.0\tMltE\tcontains\tonly transglycosylase SLT domain\n", 
+        "is": "1.0\tOverexpressed inactive MltE\tis\thowever sensed\n", 
+        "is in": "1.0\tMltE\tis in\tcombination with MltC\n", 
+        "is with": "1.0\tmltE mltC STM4264 triple mutant\tis with\tupregulated rdar morphotype\n"
+    }, 
+    "mnth": {
+        "are": "1.0\tSalmonella enterica serovar Typhimurium divalent cation transport sysG169 tems MntH\tare\tessential for virulence in Nramp1 murine typhoid model\n", 
+        "contains": "1.0\tmntH promoter\tcontains\tputative sites for binding OxyR\n", 
+        "is": "1.0\tmntH\tis\tIn of Mn2 repressed primarily by Salmonella equivalent of E. coli b0817 acting through inverted-repeat motif located between likely 10 polymerase binding site\n", 
+        "is in": "1.0\tmntH expression\tis in\tof exogenous peroxide\n"
+    }, 
+    "mntr": {
+        "are": "1.0\tMntR\tare\tstrictly speci\ufb01c for Fe2 respectively in E. coli\n", 
+        "belongs to": "1.0\tMntR\tbelongs to\tDtxR family\n", 
+        "is": "1.0\tMntR\tis\tmain transcriptional regulator of sit operon in response to Mn\n", 
+        "is in": "1.0\tfour MntR binding sites\tis in\tS. enterica serovar Typhimurium LT2 sequence\n", 
+        "is regulator of": "1.0\tMntR\tis regulator of\tsit operon\n", 
+        "is with": "1.0\tmntR strain\tis with\tmutated Fur binding site\n"
+    }, 
+    "moab": {
+        "is": "1.0\tmoaB\tis\tpart\n", 
+        "is part of": "1.0\tmoaB\tis part of\toperon required for synthesis of molybdenum cofactor\n"
+    }, 
+    "moar": {}, 
+    "moda": {}, 
+    "mode": {
+        "is": "1.0\tpeculiar mode\tis\tbiologically important property\n", 
+        "is in": "1.0\tmode\tis in\tS. typhimurium\n"
+    }, 
+    "mota": {
+        "are": "1.0\tMotA\tare\tintegral\n", 
+        "is": "1.0\tMotA protein\tis\tproton-conducting component\n", 
+        "is in": "1.0\tmotA\tis in\twhich\n"
+    }, 
+    "motb": {
+        "are": "1.0\tMotB\tare\tintegral to cell membrane\n"
+    }, 
+    "msga": {
+        "is": "1.0\tmsgA\tis\tcotranscribed with envE\n"
+    }, 
+    "mta": {
+        "are": "1.0\tMTA\tare\tpotent inhibitors\n"
+    }, 
+    "mukb": {
+        "is in": "1.0\tmukB mutation\tis in\tEscherichia coli\n"
+    }, 
+    "mura": {
+        "is in": "1.0\tmurA transcript\tis in\tstrains\n"
+    }, 
+    "muth": {
+        "is": "1.0\tmismatch repair endonuclease MutH\tis\tFor instance active only on hemimethylated GATC sites\n"
+    }, 
+    "mutl": {}, 
+    "mvim": {
+        "is": "1.0\tmviM gene\tis\tclosely linked\n"
+    }, 
+    "nada": {
+        "are": "1.0\tnadA genes\tare\tnegatively regulated\n", 
+        "is": "1.0\tS. typhimurium nadA\tis\tIn contrast 1,095-bp ORF coding for 40,759-Da protein\n", 
+        "is in": "1.0\tnadA location\tis in\tsingle operon\n"
+    }, 
+    "nada-pnuc": {
+        "is": "1.0\tnadA-pnuC operon\tis\tregulated\n"
+    }, 
+    "nadb": {
+        "are": "1.0\tbiosynthesis nadB\tare\ttranscriptionally repressed\n"
+    }, 
+    "nade": {}, 
+    "nadr": {
+        "are": "0.6668228276448023\tnadr mutations\tare\tlocated\n", 
+        "interacts with": "1.0\tNadR\tinteracts with\tPnuC\n", 
+        "is": "1.0\tNadR\tis\talso important in transport of nicotinamide mononucleotide as exogenous precursor of NAD\n", 
+        "is in": "1.0\tnadR locus\tis in\tEsche-richia coli\n", 
+        "is with": "1.0\tNadR interactions\tis with\tDNA target sequences\n"
+    }, 
+    "nahr": {
+        "is in": "1.0\tNahR\tis in\tCitrobacter freundii\n"
+    }, 
+    "nana": {}, 
+    "nanh": {}, 
+    "napb": {}, 
+    "napf": {}, 
+    "narg": {
+        "is in": "1.0\tnarG\tis in\tnap operon encoding\n"
+    }, 
+    "nari": {}, 
+    "narl": {
+        "is in": "1.0\twell-characterized NarL paradigm\tis in\tE. coli\n"
+    }, 
+    "narz": {
+        "is": "1.0\tnarZ\tis\t\ufb01rst gene of Salmonella narZYWV operon\n", 
+        "is in": "1.0\tnarZ transcriptional activity\tis in\totherwise wild-type rstA strain\n"
+    }, 
+    "nhoa": {}, 
+    "nifu": {
+        "is in": "1.0\tnifU deletion\tis in\tdehydrated cells\n"
+    }, 
+    "nine": {
+        "are": "1.0\tnine residues\tare\thighly conserved\n", 
+        "is in": "1.0\tNine unique repeating sequences\tis in\tregion essential for replication of mini-F plasmid\n", 
+        "is with": "1.0\tnine mutants\tis with\tmutations\n"
+    }, 
+    "nirb": {
+        "is in": "1.0\tnirB gene\tis in\tE. coli\n"
+    }, 
+    "nird": {
+        "is with": "1.0\tnirD boxes\tis with\thorizontal lines\n"
+    }, 
+    "nlpc": {
+        "is in": "1.0\tnlpC\tis in\tpanel A\n"
+    }, 
+    "nlpd": {
+        "is in": "1.0\tnlpD gene\tis in\toperon\n"
+    }, 
+    "nlpi": {}, 
+    "nmpc": {}, 
+    "norm": {
+        "is": "1.0\tmultidrug ef\ufb02ux protein NorM\tis\tprototype\n"
+    }, 
+    "norr": {
+        "are": "1.0\tNorR\tare\tFor example dedicated sensors of NO\n"
+    }, 
+    "nrdd": {
+        "is": "1.0\tNrdD\tis\tanaerobic ribonucleotide reductase\n"
+    }, 
+    "nrdef": {
+        "is": "1.0\tnrdEF\tis\tIn E. coli upregulated in to H2O2\n"
+    }, 
+    "nrdg": {}, 
+    "nrdhief": {
+        "is": "1.0\tnrdHIEF expression\tis\tindependently regulated\n"
+    }, 
+    "nrdr": {
+        "are": "1.0\tNrdR boxes\tare\tpalindromic sequences\n", 
+        "is": "1.0\tNrdR\tis\ttranscriptional\n", 
+        "is in": "1.0\tblack nrdR mutant strain\tis in\tdark grey\n"
+    }, 
+    "nrfa": {}, 
+    "nsrr": {
+        "are": "1.0\tNsrR\tare\tFor example dedicated sensors of NO\n", 
+        "contains": "1.0\tNsrR\tcontains\tNO-sensitive cluster\n", 
+        "is": "1.0\tNsrR\tis\tmajor regulator of hmp in S. typhimurium\n", 
+        "is in": "1.0\tNsrR targets\tis in\tEscherichia coli genome\n", 
+        "is regulator of": "1.0\tNsrR\tis regulator of\thmp\n", 
+        "is with": "1.0\tnsrR mutant\tis with\tless 10 % of cells surviving at 10 min after H2O2 treatment\n"
+    }, 
+    "ntra": {
+        "is": "1.0\tNtrA\tis\trequired for transcription initiation at fdhF promoter\n", 
+        "is in": "1.0\tchromosomal ntrA mutation\tis in\tsuch strains\n"
+    }, 
+    "ntrc": {
+        "is": "1.0\tE. coli ntrC protein\tis\tdimer\n", 
+        "is in": "1.0\thomologous ntrC protein-binding sites\tis in\tother nitrogenregulated promoters\n"
+    }, 
+    "nuoe": {}, 
+    "nusa": {
+        "is": "1.0\tNusA\tis\ttranscription termination factor\n", 
+        "is in": "1.0\tits cofactors NusA\tis in\tE. coli\n"
+    }, 
+    "nusg": {
+        "is in": "1.0\tNusG protein\tis in\tin transcription system\n"
+    }, 
+    "oafa": {
+        "is": "0.6268817709033083\toafA\tis\tmember\n", 
+        "is member of": "0.6268817709033083\toafA\tis member of\tfamily of integral membrane trans-acylases\n"
+    }, 
+    "ogt": {
+        "belongs to": "1.0\togt gene\tbelongs to\tRpoS regulon\n", 
+        "is": "1.0\togt gene expression\tis\tregulated by RpoS in stationary phase of growth in rich medium\n", 
+        "is in": "1.0\togt gene expression\tis in\tSalmonella\n"
+    }, 
+    "ompa": {
+        "are": "1.0\tompA levels\tare\tin double RNase III MicA mutant reduced in comparison with RNase III single mutant\n", 
+        "is": "1.0\tOmpA\tis\talso in Salmonella Typhimurium involved in biofilm formation as ompA deletion mutant\n", 
+        "is in": "1.0\tompA deletion mutant\tis in\tS. Typhi-murium SL1344\n", 
+        "is with": "1.0\tompA\tis with\tpSV-122\n"
+    }, 
+    "ompb": {
+        "are": "1.0\tompB loci\tare\tcomposed\n", 
+        "is": "1.0\tnative E. coli ompB locus\tis\tretained\n", 
+        "is in": "1.0\tS. typhi ompB operon\tis in\tS. typhi cosmid bank\n"
+    }, 
+    "ompc": {
+        "are": "1.0\tS. enterica serovar Typhimurium ompC ompF double mutants\tare\tattenuated\n", 
+        "is": "1.0\tompC expression\tis\tdifferentially affected by osmolarity in E. coli\n", 
+        "is in": "1.0\tosmoregulated ompC\tis in\tEscherichia coli\n"
+    }, 
+    "ompd": {
+        "are": "1.0\tgene Primer GCAACCGTACTGAAAGCCAGGG GCCAAAGAAGTCAGTGTTACGGT TTTCCTGCAGGGCGATCCTTATCA CTGCCGTAGAACGGAAGTTGCATA AAACGTGCCGTTGCGGAACTTATC ATTTCTTTGTTCGTCCGCTGCGTG TAACCGCAGCAATTGACGTTACCC TCTACAAGACTCAAGCCTGCCAGT ompD ompD-F ompD-R vacJ vacJ-F vacJ-R psd-F psd-R 16S RNA-F 16S RNA-R psd 16S RNA\tare\tunderlined\n", 
+        "interacts with": "1.0\tOmpD\tinteracts with\tperiplasmic protein YdeI\n", 
+        "is": "1.0\tOmpD\tis\tpresent in outer membrane in signi\ufb01cantly lower abundance at lower pH. in response to low pH\n", 
+        "is important for": "1.0\tOmpD\tis important for\tresistance\n", 
+        "is in": "1.0\touter membrane protein OmpD\tis in\tperiplasmic compartment\n", 
+        "is necessary for": "1.0\tompD gene\tis necessary for\tresistance to toxic compound methyl viologen\n", 
+        "is with": "1.0\tporin OmpD\tis with\tputative inner membrane ef\ufb02ux pump\n"
+    }, 
+    "ompf": {
+        "are": "1.0\tOmpF porins\tare\treciprocally regulated in response to proportion of OmpR in phosphorylated state\n", 
+        "is": "1.0\tOmpF\tis\tless abundant\n", 
+        "is in": "1.0\tOmpF expression\tis in\t\ufb02uoroquinolone-resistant Salmo-nella\n"
+    }, 
+    "ompr": {
+        "are": "1.0\tnative E. coli ompR\tare\treplaced by corresponding ompR/envZ genes from S. Typhimurium\n", 
+        "constitute": "1.0\tompR genes\tconstitute\tbicistronic ompB operon\n", 
+        "interacts with": "1.0\tOmpR DNA binding domain\tinteracts with\tDNA\n", 
+        "is": "1.0\tOmpR\tis\tphosphorylated by its cognate histidine kinase by other cellular phosphate donors\n", 
+        "is important for": "1.0\tOmpR\tis important for\tearly transcription of ssrA inside mac-rophages\n", 
+        "is in": "1.0\tcandidate OmpR binding sites\tis in\ttheir 5 \u2032 UTR determined by ChIP-seq\n", 
+        "is with": "1.0\tompR mutant background\tis with\thigh\n"
+    }, 
+    "ompr-envz": {
+        "is": "1.0\tompR-envZ promoter\tis\tinduced by high concentrations of novobiocin at late stages of growth\n", 
+        "is in": "1.0\tOmpR-EnvZ regulatory system\tis in\tS. enterica serovar Typhimurium\n"
+    }, 
+    "omps": {
+        "are": "1.0\tOMPs\tare\timportant virulence factors\n"
+    }, 
+    "omps1": {
+        "are": "1.0\tSalmonella enterica serovar Typhimurium ompS1\tare\tattenuated for virulence in mice\n", 
+        "belongs to": "1.0\tserovar Typhi ompS1\tbelongs to\tgroup of low-level-expressed porins\n", 
+        "contains": "1.0\tompS1\tcontains\ttwo cis-acting regions\n", 
+        "is": "1.0\tserovar Typhimurium ompS1 mutant\tis\tless virulent\n", 
+        "is in": "1.0\tderepressed ompS1 activity\tis in\thns background\n", 
+        "is with": "1.0\tompS1\tis with\tlacZ fusions in wild-type S. enterica serovar Typhimurium 14028\n"
+    }, 
+    "ompw": {
+        "is": "1.0\t59 CCGCCGCGAGTTCGATCGCACTCCCAGCGATTACCGTCAAGAAACAGCGCCACGGTGGTT-39 59-CTCCCGTTAGCCAATCCGCTAACCACCGTGGCGCTGTTTCTTGACGGTAATCGCTGGGAG-39 59-CGCGGATCCTTAATCATCTTCAAGCAGCC-39 pBR322_MarA_BamHI_Rv pBR322_SoxS_EcoRI_Fw pBR322_Rob_BamHI_Fw pBR322_Rob_EcoRI_Rv ompW_RT_Fw 59-CGCGGATCCGAAACAGCGCCACGGTGGTT-399 59-CCGGAATTCTTGACGGTAATCGCTGGGAG-39 59-CGCGGATCCGCCCGTTTTCGCCCGGCTAA-39 59-CCGGAATTCAAAATATCCCCATCCTTTCA-39 59-ATGAAAAAATTTACAGTGG-39 ompW_RT_Rv marA_RT_Fw marA_RT_Rv soxS_RT_Fw soxS_RT_Rv 59-GAAACGATAGCCTGCCGA-39 59-TTCATAGCATTTTGGACTGG-39 59-TAGAGAATGGGCTCGTTGCT-39 59-GCGGATGTTTCGTACGGTAA-39 59-GGTGACGGTAATCGCTGGGA-39 rob_RT_Fw rob_RT_Rv 16S_RT_Fw 16S_RT_Rv 59-CCGCTGTCACTTGACAATGT-39 59-GTTTGCTGAGAATCGAAGCG-39 59-GTAGAATTCCAGGTGTAGCG-39 59-TTATCACTGGCAGTCTCCTT-39 ompW\tis\tpositively regulated\n", 
+        "is in": "1.0\tOmpW expression\tis in\tS. enterica serovar Typhimurium DmarA\n", 
+        "is necessary for": "1.0\tOmpW\tis necessary for\tH2O2 uptake\n"
+    }, 
+    "opda": {
+        "are": "1.0\topdA\tare\tThus indeed previously unidenti\ufb01ed heat shock genes\n", 
+        "constitute": "1.0\topdA\tconstitute\toperon\n", 
+        "is": "1.0\topdA\tis\thomolog of Escherichia coli prlC gene conferred by certain signal sequence mutations\n", 
+        "is in": "1.0\topdA ORF\tis in\tGenBank sequence accession no\n"
+    }, 
+    "oppa": {
+        "are": "1.0\toppA\tare\tconstitutively expressed under growth conditions\n", 
+        "is in": "1.0\toppA protein\tis in\tperiplasm\n"
+    }, 
+    "oppb": {
+        "are": "1.0\toppB gene products\tare\tassociated\n"
+    }, 
+    "orf242": {
+        "is": "1.0\torf242\tis\tapparently co-transcribed\n"
+    }, 
+    "orf7": {
+        "are": "1.0\tORF7\tare\tpreviously unrecognized members\n"
+    }, 
+    "orfx": {}, 
+    "orga": {
+        "are": "1.0\torgA\tare\tunder PhoP-activating conditions up-regulated by PhoP\n", 
+        "is": "1.0\torgA\tis\tIn addition similar to mxiK gene in Shigella\n", 
+        "is in": "1.0\tsteady-state orgA speci\ufb01c mRNA levels\tis in\tSalmonella enterica serovar typhimurium\n"
+    }, 
+    "orgb": {
+        "are": "1.0\torgB\tare\tcotranscribed with prg genes\n", 
+        "interacts with": "1.0\tOrgB\tinteracts with\t3\n", 
+        "is": "1.0\torgB gene\tis\trequired\n", 
+        "is in": "1.0\tB Comparative orgB expression\tis in\tpresence of SM mutations\n"
+    }, 
+    "orgc": {
+        "is": "1.0\tOrgC\tis\tsecreted into extracellular milieu by SPI-1 translocon\n"
+    }, 
+    "osmc": {}, 
+    "osmy": {
+        "is": "1.0\tOsmY\tis\tperiplasmic protein\n"
+    }, 
+    "otsa": {}, 
+    "otsb": {}, 
+    "otsba": {
+        "is": "1.0\totsBA operon\tis\tknown\n"
+    }, 
+    "oxyr": {
+        "are": "1.0\tputative OxyR binding sites\tare\tInterestingly found\n", 
+        "is": "1.0\tOxyR\tis\tbound at OxyR in ON phase at OxyR site in OFF phase\n", 
+        "is homologous to": "1.0\tOxyR\tis homologous to\tfamily of bacterial regulatory proteins\n", 
+        "is in": "1.0\tLysR-like factor 2 OxyR locks STM2209-STM2208 expression\tis in\tOFF state\n", 
+        "is member of": "1.0\tOxyR\tis member of\tfamily of LysR-type transcriptional regulators\n", 
+        "is regulator of": "1.0\tOxyR\tis regulator of\tits own expression\n", 
+        "is with": "1.0\tthree OxyR half sites\tis with\tidentical spacing\n"
+    }, 
+    "oxys": {
+        "is": "1.0\tOxyS\tis\tupregulated\n", 
+        "is in": "1.0\toxyS control\tis in\tresponse to oxidative stress\n"
+    }, 
+    "pagc": {
+        "are": "1.0\tpagC\tare\tdivergently transcribed\n", 
+        "is": "1.0\tpagC expression\tis\tsimilar\n", 
+        "is in": "1.0\tpagC\tis in\tSalmonella\n"
+    }, 
+    "pagd": {
+        "is": "1.0\tpagD gene\tis\tFor S. enterica serovar Typhimurium present upstream of cspH\n"
+    }, 
+    "pagk": {
+        "are": "1.0\tpagK\tare\talso controlled by PhoPQ signaling system\n"
+    }, 
+    "pagm": {}, 
+    "pagn": {
+        "is": "1.0\tPagN protein\tis\tadhesin\n", 
+        "is in": "1.0\tPagN\tis in\tintracellular bacteria\n"
+    }, 
+    "pagp": {
+        "is": "1.0\tpagP\tis\tgene believed\n", 
+        "is in": "1.0\t5 | TCRS-mediated pagP\tis in\tba\ufb01lomycin-treated WT\n"
+    }, 
+    "pal": {}, 
+    "parc": {}, 
+    "pare": {}, 
+    "pcm": {
+        "is": "1.0\tLB PCM DISCUSSION Expression\tis\tstrongly dependent\n"
+    }, 
+    "pcnb": {}, 
+    "pdua": {
+        "is in": "1.0\tpduA genes\tis in\tDhfq mutant strain\n"
+    }, 
+    "pdub": {}, 
+    "pdud": {
+        "are": "1.0\tpduD subunit\tare\tresponsible\n"
+    }, 
+    "pdue": {
+        "are": "1.0\tpduE subunit\tare\tresponsible\n"
+    }, 
+    "pduf": {
+        "are": "1.0\tcob-pdu pocR pduF Transcribed regions\tare\tindicated\n", 
+        "is": "1.0\tpduF gene\tis\texpressed\n"
+    }, 
+    "pdug": {}, 
+    "pdun": {}, 
+    "pduo": {}, 
+    "pdup": {
+        "is": "1.0\tpduP\tis\tHere replaced\n", 
+        "is in": "1.0\tpBA18s bla pPDU3 pduP\tis in\tpBAD18s bla pPDU4 pduQ\n"
+    }, 
+    "pduq": {
+        "is in": "1.0\tpBAD18s bla pPDU4 pduQ\tis in\tpBAD18s bla pPDU15 pduX\n"
+    }, 
+    "pduw": {
+        "is": "1.0\tpduW\tis\trequired for growth of S. enterica serovar Typhimurium on 1,2-PDL\n", 
+        "is important for": "1.0\tPduW activity\tis important for\tsynthesis of propionyl coenzyme A during growth on 1,2-PDL\n", 
+        "is in": "1.0\tpBAD30 bla pPDU16 pduW pduX\tis in\tpBAD30 bla pTDC1 tdcD\n"
+    }, 
+    "pdux": {
+        "is in": "1.0\tpBAD18s bla pPDU15 pduX\tis in\tpBAD30 bla pPDU16 pduW pduX\n"
+    }, 
+    "pdxb": {
+        "is": "1.0\tpdxB gene\tis\trequired\n"
+    }, 
+    "pefa": {}, 
+    "pefi": {
+        "are": "1.0\tpefI\tare\tpreviously unrecognized members of rck operon\n", 
+        "is": "1.0\tPefI\tis\thomolog of PapI in E. coli\n", 
+        "is homologous to": "1.0\tPefI\tis homologous to\tE. coli \ufb01mbrial regulatory proteins\n"
+    }, 
+    "pepe": {
+        "is": "1.0\tpepE\tis\tfirst peptidase gene shown\n", 
+        "is in": "1.0\tpepE\tis in\tBamHI site of pBR328 pJG30\n", 
+        "is member of": "1.0\tpepE\tis member of\tCRP regulon\n"
+    }, 
+    "pepn": {}, 
+    "pept": {
+        "are": "1.0\tpepT P1\tare\tindicated\n", 
+        "contains": "1.0\tpepT promoter region\tcontains\tthree appearances of sequence AAAGTGA\n", 
+        "is": "1.0\tpepT gene\tis\ttranscribed approximately 20-fold more ef-\ufb01ciently under anaerobic conditions\n", 
+        "is in": "1.0\tpepT carrying mutations\tis in\tseveral other peptidase genes\n", 
+        "is member of": "1.0\tpepT\tis member of\tFnr family of anaerobically induced genes\n"
+    }, 
+    "pflb": {
+        "is in": "1.0\tpflB mutation\tis in\tSalmonella\n"
+    }, 
+    "pfs": {
+        "are": "1.0\tpuri\ufb01ed Pfs\tare\tnecessary for AI-2 production in vitro with SAH as substrate\n", 
+        "is": "1.0\tpfs expression pro\ufb01le\tis\tindicated by solid line in Sal-monella serovar Typhimurium SS007 by dashed line\n", 
+        "is in": "1.0\tpfs expression pro\ufb01le\tis in\tSalmonella serovar Typhimurium 14028/pAB13\n", 
+        "is with": "1.0\tincreased pfs expression\tis with\tcyanocobalamin\n"
+    }, 
+    "pgi": {
+        "are": "1.0\tpgi\tare\tThus almost certainly alleles\n", 
+        "is": "1.0\tpgi structural gene\tis\tlocated\n"
+    }, 
+    "pgta": {}, 
+    "pgtb": {
+        "are": "1.0\tPgtB\tare\tpresumably involved in transmission of transmembrane signal to PgtA in to inducer binding\n", 
+        "constitute": "1.0\tpgtB\tconstitute\toperon\n"
+    }, 
+    "pgtc": {
+        "are": "1.0\tpgtC\tare\tregulatory genes necessary for induction of pgtP gene\n", 
+        "constitute": "1.0\tpgtC\tconstitute\toperon\n"
+    }, 
+    "pgte": {
+        "belongs to": "1.0\tPgtE\tbelongs to\tfamily\n", 
+        "is": "1.0\tPgtE\tis\tposttranscriptionally regulated component\n", 
+        "is part of": "1.0\tPgtE\tis part of\tresistance to innate immunity regulated by PhoP/PhoQ\n", 
+        "is with": "1.0\tpgtE\tis with\tinserted Kanr cassette replacing\n"
+    }, 
+    "pgtp": {
+        "belongs to": "1.0\tpgtP gene\tbelongs to\tgroup of genes with low codon bias\n", 
+        "is": "1.0\tpgtP gene\tis\tencoded\n", 
+        "is in": "1.0\tpgtP\tis in\tpSJ18\n"
+    }, 
+    "phd": {
+        "are": "1.0\tNatural Phd binding sites\tare\tshown\n", 
+        "is": "1.0\tAddiction protein Phd\tis\tsubstrate\n", 
+        "is with": "1.0\tstudy pRS1553 P1 phd doc P1 phd pRDM032 pRDM034 pXZ006 pXZ024 pXZ029 pXZ030 pXZ032 pXZ033 pXZ034 pXZ035 pXZ036 pXZ037 pXZ062 St103\tis with\tsingle GTGT ACAC palindrome P1 promoter\n"
+    }, 
+    "phea": {
+        "is": "1.0\tGene pheA\tis\tconserved\n", 
+        "is in": "1.0\tfunctional PheA\tis in\tS. Typhimurium\n"
+    }, 
+    "pher": {
+        "is": "1.0\tpheR\tis\tlocated\n"
+    }, 
+    "phes": {}, 
+    "phnk": {}, 
+    "phob": {
+        "are": "1.0\tphoB\tare\tclosely linked in E. coli\n", 
+        "is": "1.0\tPhoB\tis\tresponsible for environmental regulation of hilA expression\n", 
+        "is responsible for": "1.0\tPhoB\tis responsible for\tenvironmental regulation of hilA expression\n"
+    }, 
+    "phoe": {}, 
+    "phon": {
+        "is": "1.0\tphoN gene\tis\tdispensible\n", 
+        "is in": "1.0\tphoN gene\tis in\tS. Typhimurium\n"
+    }, 
+    "phop": {
+        "are": "1.0\tPhoP regulons\tare\tactivated inside macrophages by sublethal concentrations of cat-ionic antimicrobial peptide polymyxin\n", 
+        "interacts with": "1.0\t2 \u00fe PhoP regulatory protein\tinteracts with\tmgtCB promoter\n", 
+        "is": "1.0\tPhoP\tis\talso homologous to deduced amino acid sequence of second open reading frame present in phoM operon to regulators\n", 
+        "is homologous to": "1.0\tPhoP\tis homologous to\tdeduced amino acid sequence of second open reading frame present in phoM operon\n", 
+        "is in": "1.0\tphoP transcriptional studies\tis in\t96-well plates for macrophage-killing\n", 
+        "is member of": "1.0\tPhoP\tis member of\tOmpR subclass of transcriptional activators\n", 
+        "is necessary for": "1.0\tphoP\tis necessary for\tinduction of mig-14 in response to protamine\n", 
+        "is regulator of": "1.0\tphoP gene product\tis regulator of\tgene expression\n", 
+        "is with": "1.0\tMudJ phoP mutant Salmonella strain\tis with\tpartially Sau3AI-digested Salmonella phoPQ DNA chromosomal library generated in plasmid pBBR1-MCS2\n"
+    }, 
+    "phopq": {
+        "are": "1.0\tPhoPQ\tare\tfurther ubiquitous two-component systems with extended functions in pathogenic bacteria\n", 
+        "is": "1.0\tPhoPQ system\tis\tactivated as Salmonella adapts to intracellular environment of needed\n", 
+        "is important for": "1.0\tPhoPQ two-component system\tis important for\tintracellular survival within macrophages\n", 
+        "is in": "1.0\tPhoPQ\tis in\tpresence of sublethal concentrations of CAMPs\n", 
+        "is responsible for": "1.0\tPhoPQ regulon\tis responsible for\tintracellular survival of bacteria dependent on PhoPQ\n", 
+        "is with": "1.0\tcam phoPQ double mutant strain\tis with\tone controlled by HilA\n"
+    }, 
+    "phoq": {
+        "are": "1.0\tPhoP PhoQ system effects\tare\tphysiologically relevant\n", 
+        "is": "1.0\tS. Typhimurium phoQ mutant\tis\tFor example consistently less \ufb01t for survival in intracellular environment than spiC-de\ufb01-cient isogenic controls\n", 
+        "is in": "1.0\tSalmonella typhimurium PhoQ histidine kinase sensor\tis in\tproteoliposomes\n", 
+        "is with": "1.0\tphoQ locus mutant\tis with\tPhoP-constitutive phenotype grown in conditions\n"
+    }, 
+    "phoq-phop": {}, 
+    "phor": {}, 
+    "phou": {}, 
+    "pili": {
+        "are": "1.0\tP pili\tare\tshorter\n", 
+        "is in": "1.0\tsfa pili operons\tis in\tEscherichia coli\n"
+    }, 
+    "pldb": {
+        "are": "1.0\tpldB genes\tare\tco-transcribed\n"
+    }, 
+    "pldb-yigl": {}, 
+    "pmra": {
+        "are": "1.0\tPmrA\tare\tsimilar to members of OmpR-EnvZ family of two-component regulators\n", 
+        "interacts with": "1.0\tPhosphorylated PmrA\tinteracts with\tpromoter region of ugd\n", 
+        "is": "1.0\tpolymyxin-resistant pmrA mutant\tis\tmore resistant to killing by intact human polymorphonuclear neutrophils than isogenic pmrA1 strain\n", 
+        "is in": "1.0\tPmrA UDP-glucose/GDP-mannose dehydrogenase response regulator\tis in\ttwo-component regulatory system with PmrB putative integral membrane protein PhoP-activated gene\n", 
+        "is necessary for": "1.0\tPmrA\tis necessary for\tresistance of Salmonella serovar Typhimurium to high iron concentrations\n", 
+        "is regulator of": "1.0\tPmrA\tis regulator of\tgenes\n", 
+        "is with": "1.0\tpoint mutated putative PmrA motif A \u2192 C pCMPG5611\tis with\tpoint mutated putative PmrA motif T \u2192 C Gibco BRL Invitrogen E. coli DH5\u03b1 pCRII-TOPO pFPV25 pFPV25 .1 pCMPG5611 pCMPG5612 pCMPG5613 pCMPG5614 pCMPG5621 Plasmids\n"
+    }, 
+    "pmrb": {
+        "are": "1.0\tPmrB expression\tare\tconnected\n", 
+        "is": "1.0\tPmrB\tis\tIn fact required for activation of PmrA-regulated genes in response\n", 
+        "is in": "1.0\tPmrA PmrB two-component A fundamental question\tis in\tbiology\n", 
+        "is necessary for": "1.0\tfunctional pmrB gene\tis necessary for\tnormal response to mild acid pH.\n", 
+        "is with": "1.0\tmutant PmrB protein\tis with\tT156R substitution\n"
+    }, 
+    "pmrd": {
+        "is": "1.0\tPmrD protein\tis\ttranscriptionally induced in low Mg2 in PhoP-dependent manner\n", 
+        "is in": "1.0\tpmrD mutant\tis in\thigh-level-PM-resistant strain background\n", 
+        "is with": "1.0\tpmrD fusion\tis with\tprimers JG252\n"
+    }, 
+    "pmrf": {
+        "is in": "1.0\tpmrF double mutants\tis in\tselected backgrounds\n"
+    }, 
+    "pnca": {}, 
+    "pncb": {}, 
+    "pnp": {
+        "are": "1.0\tisogenic pnp mutant MC71\tare\tdescribed in Clements et\n", 
+        "is in": "1.0\tpnp mutant\tis in\tBALB/c mice\n"
+    }, 
+    "pnuc": {
+        "are": "1.0\tpnuC mutants\tare\tdeficient in NMN transport\n", 
+        "is": "1.0\tPnuC transporter activity\tis\tmodulated by NadR in response to internal pyridine nucleo-tide levels\n", 
+        "is in": "1.0\tpnuC locus residing\tis in\toperon with nadA\n", 
+        "is with": "1.0\tPnuC protein\tis with\tonly minor modification\n"
+    }, 
+    "pocr": {
+        "are": "1.0\tPocR protein\tare\trepresented by shaded circles respectively\n", 
+        "is": "1.0\tpocR gene\tis\tThus in pduF fusion strains expressed only by its own promoter\n", 
+        "is expressed in": "1.0\tpocR gene\tis expressed in\tpduF fusion strains\n", 
+        "is in": "1.0\t14028 pocR counts\tis in\tcomparison with those of strain 14028\n", 
+        "is with": "1.0\tPocR protein\tis with\tbound propanediol\n"
+    }, 
+    "pola": {
+        "is": "1.0\tPolA\tis\t5.0-induced\n", 
+        "is with": "1.0\tpolA strain\tis with\tselection for chloramphenicol resistance\n"
+    }, 
+    "potb": {}, 
+    "poxb": {}, 
+    "ppha": {}, 
+    "ppia": {}, 
+    "pqab": {}, 
+    "prfa": {}, 
+    "prgh": {
+        "are": "1.0\tPrgH mutants\tare\tdefective in BME by cultured epithelial cells\n", 
+        "is": "1.0\tprgH\tis\tvirulence locus for S. typhimurium\n", 
+        "is in": "1.0\tprgH HilA box 's activity\tis in\tabsence of upstream sequences including half-site-like hexamers at 2106\n"
+    }, 
+    "prgi": {
+        "is": "1.0\tPrgI\tis\tmain subunit\n"
+    }, 
+    "prgj": {}, 
+    "prgk": {
+        "are": "1.0\tprgK\tare\tcomponents\n", 
+        "is": "1.0\tGene prgK\tis\tinvolved\n"
+    }, 
+    "prlc": {}, 
+    "prma": {
+        "is": "1.0\tprmA stop codon\tis\tIn S. Typhimurium 628 bp upstream\n", 
+        "is in": "1.0\tupstream prmA\tis in\tbacteria\n"
+    }, 
+    "prob": {
+        "is in": "1.0\tproB mutant\tis in\tmedia lacking\n"
+    }, 
+    "proc": {}, 
+    "prom": {
+        "is with": "1.0\twork oter prom 14028s/pMutC-lacZ work oter prom Wild-type strain\tis with\tpLacZ vector carrying\n"
+    }, 
+    "prop": {
+        "are": "1.0\tproline-prototrophic putP proP mutants\tare\tIn of osmotic stress normally resistant to proline analogs\n", 
+        "is": "1.0\tproP expression\tis\trapidly and transiently stimulated\n", 
+        "is in": "1.0\tProP system\tis in\tmedia of various\n"
+    }, 
+    "prov": {
+        "is": "1.0\tProV\tis\twell characterised H-NS-dependent osmoinducible transport protein in Salmonella\n", 
+        "is in": "1.0\tproV expression\tis in\tSalmonella strain SV5015AV\n"
+    }, 
+    "prow": {
+        "contains": "1.0\tproW\tcontains\tthree genes pro arranged in one operon\n"
+    }, 
+    "prox": {
+        "contains": "1.0\tproX\tcontains\tthree genes pro arranged in one operon\n"
+    }, 
+    "prpb": {
+        "are": "1.0\tprpB functions\tare\trequired\n"
+    }, 
+    "prpc": {
+        "is": "1.0\tPrpC\tis\tprobably involved\n"
+    }, 
+    "prpd": {
+        "are": "1.0\tPrpD\tare\tin three proteins required for catabolism of propionate in S. typhimurium\n"
+    }, 
+    "prpe": {
+        "is": "1.0\tprpE gene\tis\tpart of prpBCDE operon under control\n", 
+        "is part of": "1.0\tprpE gene\tis part of\tprpBCDE operon\n", 
+        "is with": "1.0\tprpE mutants\tis with\totherwise wild-type genetic background\n"
+    }, 
+    "prpr": {
+        "are": "1.0\tprpR functions\tare\trequired\n", 
+        "belongs to": "1.0\tPrpR\tbelongs to\tNtrC family of transcriptional activators\n", 
+        "is": "1.0\tprpR function\tis\tnecessary\n", 
+        "is in": "1.0\tprpR\tis in\tIn plasmid opposite direction to lac promoter on cloning vector pSU19\n", 
+        "is necessary for": "1.0\tprpR function\tis necessary for\tgrowth on propionate as carbon\n", 
+        "is responsible for": "1.0\tPrpR\tis responsible for\ttranscriptional activation of prpBCDE operon\n"
+    }, 
+    "prsa": {
+        "is in": "1.0\t37 \u00b0C Plasmid Description S. typhimurium prsA\tis in\tpUC19 t0 20 30 40 50 40\n"
+    }, 
+    "psd": {
+        "are": "1.0\tgene Primer GCAACCGTACTGAAAGCCAGGG GCCAAAGAAGTCAGTGTTACGGT TTTCCTGCAGGGCGATCCTTATCA CTGCCGTAGAACGGAAGTTGCATA AAACGTGCCGTTGCGGAACTTATC ATTTCTTTGTTCGTCCGCTGCGTG TAACCGCAGCAATTGACGTTACCC TCTACAAGACTCAAGCCTGCCAGT ompD ompD-F ompD-R vacJ vacJ-F vacJ-R psd-F psd-R 16S RNA-F 16S RNA-R psd 16S RNA\tare\tunderlined\n"
+    }, 
+    "psi": {
+        "is": "1.0\tdesignation psi\tis\tused however\n", 
+        "is in": "1.0\tpsi genetic loci\tis in\tSalmonella typhimurium\n"
+    }, 
+    "psib": {}, 
+    "psif": {
+        "are": "1.0\tpsiF\tare\talso absent\n"
+    }, 
+    "pslt046": {
+        "is": "1.0\tPSLT046\tis\thereafter referred to\n"
+    }, 
+    "pslt047": {
+        "is with": "1.0\tPSLT047\tis with\tinteraction at their respective 39 ends\n"
+    }, 
+    "pspa": {
+        "are": "1.0\tpspA\tare\tinvolved\n"
+    }, 
+    "pspf": {
+        "are": "1.0\tpspF\tare\tdeletions of chloramphenicol cassette\n"
+    }, 
+    "psts": {}, 
+    "pta": {
+        "are": "1.0\tpta genes\tare\tIn E. coli required for synthesis of acetyl phosphate from acetyl coenzyme A from acetate respectively\n", 
+        "is in": "1.0\tackA pta region\tis in\tstrain 14028s\n"
+    }, 
+    "ptsg": {
+        "is": "1.0\tPtsG EIICBGlc protein\tis\trelevant transporter\n", 
+        "is in": "1.0\tptsG mRNA\tis in\twork by Maki et al.\n"
+    }, 
+    "ptsh": {
+        "is in": "1.0\tcysA gsr ptsI ptsH cysK cysZ dsd\tis in\tS. typhimurium\n"
+    }, 
+    "ptsh-ptsi-crr": {
+        "is in": "1.0\tptsH-ptsI-crr region\tis in\tEscherichia coli K-12\n"
+    }, 
+    "ptsi": {
+        "is in": "1.0\tcysA gsr ptsI ptsH cysK cysZ dsd\tis in\tS. typhimurium\n"
+    }, 
+    "ptsl": {}, 
+    "ptsn": {
+        "is": "1.0\tptsN gene\tis\tE member of \u03c3 regulon\n"
+    }, 
+    "pura": {
+        "are": "1.0\tpurA mutants\tare\tIncidentally known\n"
+    }, 
+    "purb": {
+        "is with": "1.0\tpurB genes\tis with\t\ufb02gM5208-lacZ gene fusion located at join point of duplicated region\n"
+    }, 
+    "purd": {
+        "is": "1.0\tpurD gene\tis\tlinked\n"
+    }, 
+    "pure": {
+        "is": "1.0\tpurE gene\tis\tcoregulated\n"
+    }, 
+    "purl": {
+        "is in": "1.0\tpurL\tis in\tYersinia\n"
+    }, 
+    "purr": {
+        "is": "1.0\tpurR mutation\tis\twhen present\n"
+    }, 
+    "puta": {
+        "are": "1.0\tputA mutants\tare\tHowever less sensitive to AZT than null alleles\n", 
+        "is": "1.0\tPutA protein\tis\tDNA-binding protein specific for put control region\n", 
+        "is in": "0.31975977422145396\tputA gene product\tis in\tput REGULATORY MUTATIONS\n"
+    }, 
+    "putp": {
+        "are": "1.0\tproline-prototrophic putP proP mutants\tare\tIn of osmotic stress normally resistant to proline analogs\n", 
+        "is": "1.0\tPutP system\tis\trequired for utilization of proline as carbon source\n", 
+        "is in": "1.0\tputP expression\tis in\tH3-4\n"
+    }, 
+    "pykf": {
+        "is": "1.0\tpykF\tis\tglycolytic\n"
+    }, 
+    "pyrb": {
+        "are": "1.0\tpyrB usp double mutants\tare\table\n"
+    }, 
+    "pyrc": {
+        "is": "1.0\tpyrC expression\tis\tcontrolled primarily\n", 
+        "is in": "1.0\tputative pyrC leader mRNA structures\tis in\tfigure 3\n", 
+        "is with": "1.0\tshorter G-started wild-type pyrC orpyrD leader transcripts\tis with\tlimited potential form\n"
+    }, 
+    "pyrd": {
+        "is": "1.0\tpyrD hairpin\tis\tmore compact\n"
+    }, 
+    "pyre": {
+        "are": "1.0\tpyrE mutants\tare\tHence resistant\n", 
+        "is": "1.0\tpyrE transcription\tis\tcounterclockwise\n"
+    }, 
+    "pyrf": {}, 
+    "pyrh": {}, 
+    "qseb": {}, 
+    "rama": {
+        "are": "0.8337387523210043\tRamA\tare\tassociated with decreased susceptibility to tigecycline in Enterobacter cloacae\n", 
+        "is": "1.0\tramA expression\tis\tIn Salmonella enterica serovar Typhimurium negatively regulated at local level by RamR\n", 
+        "is in": "1.0\tRamA overexpression\tis in\tSalmonella enterica serovar Typhimurium\n"
+    }, 
+    "rata": {}, 
+    "ratb": {
+        "are": "1.0\tratB genes\tare\talso transcribed in same direction as their respective rightward genes\n"
+    }, 
+    "rbfa": {
+        "is": "1.0\tRbfA\tis\tcold-shock\n"
+    }, 
+    "rbsa": {}, 
+    "rbsb": {
+        "interacts with": "1.0\tDemuth DR. Actinobacillus actinomycetemcomitans ribose binding protein RbsB\tinteracts with\tcognate autoinducer 2 signals\n", 
+        "is": "1.0\tRbsB\tis\tknown\n"
+    }, 
+    "rck": {
+        "are": "1.0\trck operon\tare\tregulated by SdiA in AHL-de-pendent manner\n", 
+        "is": "1.0\tSalmonella typhimurium virulence plasmid complement resistance gene rck\tis\thomologous\n", 
+        "is homologous to": "1.0\tSalmonella typhimurium virulence plasmid complement resistance gene rck\tis homologous to\tfamily of virulence-related outer membrane protein genes including pagC\n", 
+        "is in": "1.0\trck operon\tis in\tparticular\n", 
+        "is member of": "1.0\trck\tis member of\tpefI-srgDAB-rck-srgC operon\n"
+    }, 
+    "rcsa": {
+        "is": "1.0\trcsA transcript\tis\tis detected in microarrays\n", 
+        "is in": "1.0\tauxiliary protein RcsA\tis in\tS. Typhimurium strain 14028\n", 
+        "is regulator of": "1.0\tRcsA\tis regulator of\ttranscription of cps genes necessary for capsule synthesis\n", 
+        "is with": "1.0\tRcsA coregulates\tis with\tRcsB\n"
+    }, 
+    "rcsab": {
+        "is in": "1.0\tRcsAB box\tis in\tpromoter region of several genes\n"
+    }, 
+    "rcsb": {
+        "are": "1.0\trcsB loci\tare\tpresent exclusively in enterobacteria with exception of endosymbiotic bacteria\n", 
+        "constitute": "1.0\tRcsB regulator\tconstitute\tmain components of RcsCDB system\n", 
+        "is": "1.0\tRcsB\tis\trequired for expression of indicated genes i.e. positively regulated by RcsB\n", 
+        "is in": "1.0\tpotential RcsB protein binding site\tis in\tpmrA gene of S. Enteritidis\n", 
+        "is necessary for": "1.0\tunphosphorylated RcsB\tis necessary for\tsynthesis of bio\ufb01lm matrix compounds\n", 
+        "is part of": "1.0\tRcsB box\tis part of\tlarge region bound by osmoregulator OmpR in E. coli\n", 
+        "is regulator of": "1.0\tunphosphorylated RcsB\tis regulator of\tcsgD\n", 
+        "is with": "1.0\trcsB mutant\tis with\twild type\n"
+    }, 
+    "rcsc": {
+        "are": "1.0\trcsC\tare\timportant for systemic Salmonella enterica serovar Typhimurium infection\n", 
+        "constitute": "1.0\thybrid sensor RcsC\tconstitute\tmain components of RcsCDB system\n", 
+        "contains": "1.0\tRcsC\tcontains\tHisKA domains\n", 
+        "is": "1.0\tRcsC\tis\timportant for antimicrobial peptide resistance for resistance to cationic peptide polymyxin B\n", 
+        "is important for": "1.0\tRcsC\tis important for\tsystemic disease in two different mouse models of Salmonella infection\n", 
+        "is in": "1.0\tRcsC results\tis in\tdifferent Rcs responses\n", 
+        "is with": "1.0\tSalmonella enterica rcsC mu \u00ac tants\tis with\tconstitutive activation of Rcs system\n"
+    }, 
+    "rcsf": {
+        "is": "1.0\tRcsF\tis\touter membrane lipoprotein involved in RcsCDB phosphorelay signaling pathway in Escherichia coli\n"
+    }, 
+    "rdoa": {
+        "are": "1.0\trdoA promoters\tare\tinduced at different points in growth phase\n", 
+        "is": "1.0\tSalmonella enterica serovar Typhimurium rdoA\tis\tregulated\n", 
+        "is in": "1.0\trdoA null strain\tis in\tRdoA/NlpE overexpression-dependent manner\n", 
+        "is part of": "1.0\tRdoA\tis part of\tsignaling pathway\n", 
+        "is with": "1.0\trdoA null strain\tis with\tpBAD18\n"
+    }, 
+    "reca": {
+        "is in": "1.0\trecA gene\tis in\tstrains of Escherichia coli K-12\n", 
+        "is with": "1.0\ttransforming recA Escherichia coli strain\tis with\tbeta-galac-tosidase selection\n"
+    }, 
+    "recb": {
+        "are": "1.0\trecB recJ mutants\tare\tde\ufb01cient\n", 
+        "is in": "1.0\trecB suppressor mutations\tis in\tstrain LT2\n"
+    }, 
+    "rece": {
+        "is": "1.0\trecE activation\tis\tsharply reduced\n"
+    }, 
+    "recj": {
+        "are": "1.0\trecB recJ mutants\tare\tde\ufb01cient\n"
+    }, 
+    "rect": {
+        "is in": "1.0\trecT ortholog\tis in\tdistal portion of Gifsy-1\n"
+    }, 
+    "rela": {
+        "are": "0.43403852951495137\tListeria monocytogenes relA\tare\timpaired in surface-attached growth\n", 
+        "is": "1.0\tRelA\tis\tspecifically synthesized\n", 
+        "is in": "1.0\tRelA enzymes\tis in\tbeta\n"
+    }, 
+    "relb": {
+        "is": "1.0\tRelB level\tis\treduced\n"
+    }, 
+    "rele": {
+        "is": "1.0\tChristensen RelE\tis\tactivated\n"
+    }, 
+    "rep": {
+        "is in": "1.0\ttwo REP sequences\tis in\tinverted orientation\n", 
+        "is with": "1.0\twork Plasmids pKD3 rep r r R6K Ap FRT Cm FRT 20 pCMPG5802 Fragment\tis with\tSpeI site\n"
+    }, 
+    "repa": {
+        "is with": "1.0\trepA Tetr Ampr Tetr iolR\tis with\tputative promoter region cloned into pBR322 for complem iolE\n"
+    }, 
+    "res": {}, 
+    "rfac": {
+        "is with": "1.0\tRfaC proteins\tis with\t49 % similarity index\n"
+    }, 
+    "rfad": {
+        "are": "1.0\trfaD\tare\thomologous to same location as equivalent genes in Escherichia coli K-12\n", 
+        "is": "1.0\trfaD\tis\talso known\n", 
+        "is in": "1.0\trfaD\tis in\tE. coli\n"
+    }, 
+    "rfae": {
+        "is in": "1.0\trfaE\tis in\tS. typhimurium\n"
+    }, 
+    "rfaf": {
+        "is": "1.0\trfaF gene\tis\t80 % identical to E. coli rfaF at nucleotide level\n", 
+        "is in": "1.0\trfaF gene\tis in\tS. typhimurium\n"
+    }, 
+    "rfag": {}, 
+    "rfah": {
+        "are": "1.0\trfaH mutants\tare\twhereby attenuated\n", 
+        "interacts with": "1.0\tRfaH\tinteracts with\tops element present in promoter regions of large operons\n", 
+        "is": "1.0\tRfaH\tis\tsimilarly required for transcription of LPS biosynthetic genes in S. enterica serovar Typhimurium for capsule in E. coli\n", 
+        "is in": "1.0\trfaH mutant\tis in\ttwo eukaryotic cell lines\n", 
+        "is regulator of": "1.0\tRfaH\tis regulator of\texpression of tra Y-Z operon of F factor\n", 
+        "is with": "1.0\tApr rfaH\tis with\tits promoter region cloned into pLDR11\n"
+    }, 
+    "rfaj": {
+        "is": "1.0\trfaJ\tis\ttranscribed\n"
+    }, 
+    "rfak": {}, 
+    "rfal": {}, 
+    "rfaq": {}, 
+    "rfbh": {
+        "is": "1.0\tSalmonella Enteritidis lipopolysaccharide biosynthesis gene rfbH\tis\trequired\n"
+    }, 
+    "rhaa": {}, 
+    "rhab": {}, 
+    "rhad": {}, 
+    "rhar": {
+        "is in": "1.0\tRhaR transcriptional regulons\tis in\tbacteria from diverse taxonomic lineages with experimental validation of L-Rha utilization system\n", 
+        "is with": "1.0\tRhaR\tis with\tpreviously unknown DNA motif\n"
+    }, 
+    "rhas": {
+        "belongs to": "1.0\ttranscriptional regulator RhaS\tbelongs to\tAraC protein family\n", 
+        "is in": "1.0\tadditional RhaS targets\tis in\tanalyzed genomes\n"
+    }, 
+    "rhat": {
+        "is in": "1.0\tL-rhamnose permease RhaT\tis in\tEnterobacteriaceae\n"
+    }, 
+    "rhau": {
+        "is": "1.0\tRhaU\tis\trhamnose mutarotase\n"
+    }, 
+    "rho": {
+        "are": "1.0\tRho 's RNA substrates\tare\tusually rich\n", 
+        "is": "1.0\trho mutant effect\tis\tSecond considerably diminished\n", 
+        "is in": "1.0\tRho involvement\tis in\tregulation by trans-encoded Hfq-dependent sRNA\n", 
+        "is with": "1.0\ttemperature-sensitive Salmonella typhimurium rho mutant\tis with\taltered Rho-associated po-lycytidylate-dependent adenosine triphosphatase activity\n"
+    }, 
+    "rhs": {
+        "is": "1.0\tRhs element\tis\tlocated\n"
+    }, 
+    "rhs1": {}, 
+    "ribb": {}, 
+    "rna": {
+        "are": "1.0\tgene Primer GCAACCGTACTGAAAGCCAGGG GCCAAAGAAGTCAGTGTTACGGT TTTCCTGCAGGGCGATCCTTATCA CTGCCGTAGAACGGAAGTTGCATA AAACGTGCCGTTGCGGAACTTATC ATTTCTTTGTTCGTCCGCTGCGTG TAACCGCAGCAATTGACGTTACCC TCTACAAGACTCAAGCCTGCCAGT ompD ompD-F ompD-R vacJ vacJ-F vacJ-R psd-F psd-R 16S RNA-F 16S RNA-R psd 16S RNA\tare\tunderlined\n", 
+        "interacts with": "1.0\tE. coli RNA polymerase\tinteracts with\ttwo different promoters\n", 
+        "is": "1.0\tsmall non-coding RNA molecule\tis\tIn Salmonella Typhimurium as in E. coli encoded in opposite strand of luxS\n", 
+        "is in": "1.0\tWashington 981033 Received 21 September 2005/Accepted 18 November 2005 RNA levels\tis in\teight different genetic backgrounds\n", 
+        "is regulator of": "1.0\tRNA binding protein CsrA\tis regulator of\tLEE pathogenicity island of enteropathogenic Escherichia coli\n", 
+        "is responsible for": "1.0\tRNA polymerase holoenzyme\tis responsible for\ttranscription of most genes during exponential growth\n", 
+        "is with": "1.0\tmannose-speci\ufb01c enzyme IIAB Methyl-accepting chemotaxis protein Outer membrane lipoprotein ATP-dependent RNA helicase-like protein Cytoplasmic protein Cytoplasmic protein Inner membrane protein Periplasmic protein Putative class 3 cheV\tis with\tpro\ufb01les different from known\n"
+    }, 
+    "rnd": {
+        "is in": "1.0\tresistance-nodulation-division RND superfamily member AcrAB-TolC\tis in\tEnterobacteriaceae\n"
+    }, 
+    "rne": {}, 
+    "rnpa": {}, 
+    "rnr": {
+        "are": "1.0\trnr\tare\tco-transcribed\n", 
+        "is in": "1.0\trnr expression levels\tis in\twild-type mutant strains\n"
+    }, 
+    "rob": {
+        "are": "1.0\tRob\tare\talso members\n", 
+        "is": "0.747363032714411\tRob\tis\t7 February 2008/Accepted 7 May 2008 member of Sox/Mar subfamily of AraC/XylS-type transcriptional regulators implicated in bacterial multidrug\n", 
+        "is in": "1.0\tMar/Sox Rob motif\tis in\tS. enterica mgtA promoter\n"
+    }, 
+    "rop": {}, 
+    "rpia": {}, 
+    "rpmi": {
+        "is with": "1.0\tRPMI 1640\tis with\t5 % fetal calf serum\n"
+    }, 
+    "rpo": {
+        "are": "1.0\tRPo complexes\tare\tunstable\n"
+    }, 
+    "rpoa": {
+        "is": "1.0\trpoA mutation\tis\tshown\n"
+    }, 
+    "rpob": {
+        "is in": "1.0\trpoB mutations\tis in\tEscherichia coli\n"
+    }, 
+    "rpod": {
+        "is": "1.0\trpoD mutation\tis\tshown\n"
+    }, 
+    "rpoe": {
+        "are": "1.0\trpoE mutants\tare\thighly attenuated in vivo\n", 
+        "is": "1.0\trpoE gene\tis\tnegatively regulated\n", 
+        "is with": "1.0\trpoE\tis with\tendogenous promoters\n"
+    }, 
+    "rpoh": {
+        "is": "1.0\trpoH\tis\tinduced\n"
+    }, 
+    "rpon": {
+        "is": "1.0\trpoN gene\tis\trequired\n", 
+        "is in": "1.0\tRpoN regulon\tis in\t\u03b5-Proteobacteria\n"
+    }, 
+    "rpos": {
+        "are": "1.0\trpoS mutants\tare\tthus highly attenuated in mice with 50 % lethal dose at least 4 logs higher\n", 
+        "contains": "1.0\trpoS\tcontains\tlacIq sequences\n", 
+        "is": "0.7213922893794715\trpoS gene product\tis\tsecond principal s factor of RNA polymerase in stationary-phase Escherichia coli\n", 
+        "is at": "1.0\tRpoS\tis at\twhen low level\n", 
+        "is expressed in": "1.0\tectopic RpoS\tis expressed in\tcomplemented strain\n", 
+        "is in": "1.0\tE. coli study reports RpoS induction\tis in\tabsence of intact RpoS degradation pathway\n", 
+        "is necessary for": "1.0\tRpoS\tis necessary for\tpositive regulation of starvation-survival genes during phosphate in Salmonella typhimurium\n", 
+        "is regulator of": "1.0\tRpoS\tis regulator of\thighly conserved sRNA SraL in S. Typhimurium\n", 
+        "is with": "1.0\tmonocistronic rpoS transcript\tis with\tlong untranslated leader region of 566 nucleotides\n"
+    }, 
+    "rpra": {
+        "are": "1.0\tRprA E. coli ydiK ydiL RybB E. coli SL0845 SL0846 72 75 5 109\tare\tshown\n", 
+        "is": "1.0\tRprA synthesis\tis\tregulated by RcsC/RcsB phosphorelay system in E. coli\n", 
+        "is in": "1.0\tsmall regulatory RNA RprA links\tis in\tEsch-erichia coli\n"
+    }, 
+    "rpsm": {
+        "is in": "1.0\tAmpR Constitutive rpsM promoter\tis in\tpFPV25\n"
+    }, 
+    "rpsv": {}, 
+    "rrs": {}, 
+    "rsea": {
+        "is": "1.0\tRseA \u03c3E complex\tis\tFollowing cleavage by RseP released from membrane\n"
+    }, 
+    "rseb": {}, 
+    "rsep": {
+        "is": "1.0\tRseP PDZ domain\tis\tindispensable\n", 
+        "is important for": "1.0\tRseP\tis important for\t\u03c3E acid induction\n"
+    }, 
+    "rsmc": {}, 
+    "rsta": {
+        "are": "1.0\trstA\tare\tIntriguingly in bacterium separated by 3,585 bp in chromosome in contrast to adjacent localization displayed in E. coli\n", 
+        "constitute": "1.0\tRstA\tconstitute\torthodox TCS regulatory pair\n", 
+        "is": "1.0\trstA gene\tis\teven when transcribed from heterologous promoter\n", 
+        "is in": "1.0\trstA mRNA levels\tis in\twild-type strains\n", 
+        "is member of": "1.0\tRstA\tis member of\tOmpR subfamily of two-compo-nent system characterized by display of winged-helix-turn-helix motif in DNA-binding domain\n"
+    }, 
+    "rstb": {
+        "constitute": "1.0\tRstB\tconstitute\torthodox TCS regulatory pair\n", 
+        "is": "1.0\tRstB sensor\tis\tresponsible\n", 
+        "is responsible for": "1.0\tRstB sensor\tis responsible for\tacidic-pH-promoted RstA activity\n"
+    }, 
+    "rutr": {}, 
+    "rybb": {
+        "are": "1.0\tRprA E. coli ydiK ydiL RybB E. coli SL0845 SL0846 72 75 5 109\tare\tshown\n", 
+        "is in": "1.0\t\u03c3E-dependent sRNA RybB\tis in\tSalmonella\n"
+    }, 
+    "s28": {
+        "are": "1.0\ts28 proteins\tare\t239 amino acids in length\n", 
+        "belongs to": "1.0\ts28 protein\tbelongs to\tconserved s70 family of transcription factors\n", 
+        "is": "1.0\t239-amino-acid s28 protein\tis\trepresented\n", 
+        "is in": "1.0\tthere should free s28\tis in\tcell\n", 
+        "is with": "1.0\ts28 binding\tis with\tthat of wild-type FlgM\n"
+    }, 
+    "s32": {
+        "is with": "1.0\ts32 mutant\tis with\tsingle amino acid change in highly conserved region 2.2\n"
+    }, 
+    "s54": {
+        "is in": "1.0\ts54\tis in\tEnterobacteriaceae\n"
+    }, 
+    "s70": {
+        "is": "1.0\ts70\tis\talso important\n", 
+        "is in": "1.0\tE. coli s70 235 promoter sequence\tis in\tregion\n"
+    }, 
+    "safa": {}, 
+    "safc": {}, 
+    "sapa": {
+        "contains": "1.0\tSapA\tcontains\tits predicted periplasmic location\n"
+    }, 
+    "sapabcdf": {}, 
+    "sapb": {}, 
+    "sapc": {}, 
+    "sapd": {
+        "are": "1.0\tSapD\tare\t40 % identical % SapF to Salmonella OppD\n"
+    }, 
+    "sapf": {
+        "are": "1.0\tSapF\tare\tFurthermore similar\n", 
+        "is": "1.0\tsapF\tis\trequired\n"
+    }, 
+    "sapg": {
+        "is in": "1.0\tsapG mutation\tis in\tkdp1 background\n"
+    }, 
+    "sbca": {}, 
+    "sbce": {}, 
+    "scid": {}, 
+    "scig": {
+        "is in": "1.0\tsciG mutants\tis in\tsystemic dissemination\n"
+    }, 
+    "scii": {}, 
+    "scil": {
+        "is": "1.0\tsciL\tis\tlocated\n", 
+        "is in": "1.0\tsciL genes\tis in\tcluster 1\n"
+    }, 
+    "sciq": {
+        "are": "1.0\tsciQ\tare\tdifferent\n", 
+        "is in": "1.0\tsciQ\tis in\tA. tumefaciens\n"
+    }, 
+    "scir": {
+        "is in": "1.0\tsciR\tis in\tcluster 2\n"
+    }, 
+    "scis": {
+        "is": "1.0\tsciS induction\tis\tmarkedly different than that of SPI2 genes as expression levels for seven SPI2 genes\n", 
+        "is expressed in": "1.0\tsciS\tis expressed in\thost macrophages\n", 
+        "is in": "1.0\tsciS\tis in\tmacrophages\n"
+    }, 
+    "scit": {}, 
+    "sciu": {
+        "is in": "1.0\tsciU\tis in\tcluster 3\n"
+    }, 
+    "sciv": {}, 
+    "scix": {
+        "are": "1.0\tsciX\tare\tlocated\n", 
+        "is in": "1.0\tsciX\tis in\tbicistronic operon\n"
+    }, 
+    "sdia": {
+        "are": "1.0\tsdiA genes\tare\tpredicted\n", 
+        "is": "1.0\tsdiA\tis\twhen expressed from its natural position in Salmonella serovar Typhimurium chromosome\n", 
+        "is expressed in": "1.0\tS. typhimurium sdiA\tis expressed in\tpresence of arabinose\n", 
+        "is in": "1.0\tarabinose-conditional sdiA background\tis in\tisogenic control background BA612/pBAD33\n", 
+        "is with": "1.0\t14028 sdiA mutant\tis with\tAHL-C6\n"
+    }, 
+    "selc": {
+        "contains": "0.470504997771273\tSalmonella selC locus\tcontains\tpathogenicity island\n"
+    }, 
+    "seqa": {
+        "are": "1.0\tGATC-binding protein SeqA\tare\tstd repressors\n", 
+        "is": "1.0\tGATC-binding protein SeqA\tis\trepressor\n"
+    }, 
+    "sera": {}, 
+    "serb": {}, 
+    "serc": {
+        "are": "1.0\tserC\tare\tsingle\n", 
+        "is with": "1.0\tgene serC\tis with\tpromoter intact\n"
+    }, 
+    "sert": {
+        "is": "0.952111217457166\tserT mutant\tis\tdefective\n"
+    }, 
+    "setb": {}, 
+    "sgrr": {}, 
+    "shda": {
+        "is": "1.0\tShdA\tis\t\ufb01bronectin-binding\n"
+    }, 
+    "sica": {
+        "interacts with": "1.0\tTTSS chaperone protein SicA\tinteracts with\tInvF\n", 
+        "is": "1.0\tsicA\tis\tdirectly regulated by HilA via putative HilA box immediately upstream of sicA\n"
+    }, 
+    "sicp": {}, 
+    "sifa": {
+        "is": "1.0\tsifA transcriptional regulation\tis\twhere dependent mostly on QseC especially within macrophages\n", 
+        "is in": "1.0\tSalmonella enterica serovar Typhimurium sifA mutant strain\tis in\tcytosol of different host cell lines\n", 
+        "is with": "1.0\tKanR sifA\tis with\tendogenous promoter\n"
+    }, 
+    "sifb": {
+        "is": "1.0\tsifB promoter\tis\tresponsive\n"
+    }, 
+    "sigd": {
+        "are": "1.0\tSigD\tare\trequired\n", 
+        "is": "1.0\tSigD\tis\tsecreted protein required for ef\ufb01cient invasion of Salmonella typhimurium into cultured eucaryotic cells\n", 
+        "is in": "1.0\tless SigD\tis in\tsupernatant preparations from SVM167\n"
+    }, 
+    "sige": {
+        "are": "1.0\tsigE\tare\tindependent\n", 
+        "is": "1.0\tSigE\tis\tcomponent of SPI1 secretion apparatus since absence of SigE\n", 
+        "is in": "1.0\tsigE mutation would result\tis in\trapid degradation of SigD\n"
+    }, 
+    "sigma70": {
+        "is in": "1.0\tSigma70 promoters\tis in\tEscherichia coli\n"
+    }, 
+    "siia": {
+        "is": "1.0\tsiiA\tis\t\ufb01rst gene in Salmonella pathogenicity island 4\n", 
+        "is with": "1.0\tsiiA upstream region pAMD-BA-lacZ\tis with\trtsA upstream region pAMD-BA-lacZ\n"
+    }, 
+    "siib": {
+        "is": "1.0\tSiiB\tis\t40 % similar to several methyl-accepting chemotaxis\n"
+    }, 
+    "siic": {
+        "are": "1.0\tSiiC\tare\tclassical components of T1SS\n"
+    }, 
+    "siid": {
+        "are": "1.0\tSiiD\tare\tclassical components of T1SS\n", 
+        "is": "1.0\tSiiD\tis\tperiplasmic adaptor protein\n"
+    }, 
+    "siie": {
+        "are": "1.0\tsiiE\tare\tseparated by noncoding regions respectively\n", 
+        "contains": "1.0\tSiiE\tcontains\tC-terminal signal sequence conserved among type I secreted proteins\n", 
+        "is": "1.0\tSiiE\tis\tgiant non\ufb01mbrial adhesin involved in adhesion of Salmonella enterica serovar Typhimurium to polarized epithelial cells\n", 
+        "is in": "1.0\tsiiE transcription levels\tis in\twild-type hns\n", 
+        "is with": "1.0\tadhesin SiiE\tis with\tinvasion genes of S. enterica serovar Typhimurium\n"
+    }, 
+    "siif": {
+        "are": "1.0\tSiiF\tare\tclassical components\n", 
+        "is": "0.9771060656548846\tSiiF\tis\tinner membrane ATPase\n"
+    }, 
+    "sinr": {
+        "are": "1.0\tsinR mutants\tare\tdefective\n", 
+        "is": "1.0\tsinR\tis\tFurthermore located\n", 
+        "is with": "1.0\tsinR upstream region pAMD-BA-lacZ\tis with\tSTM14_2343 upstream region pAMD-BA-lacZ\n"
+    }, 
+    "sipa": {
+        "are": "1.0\tElktagged SipA\tare\tsecreted into HEp-2 cells from orgC deletion mutant in amounts comparable to those for wt strain\n", 
+        "is in": "1.0\tsipA genes\tis in\tWT Salmonella serovar Typhimurium\n"
+    }, 
+    "sipb": {
+        "are": "1.0\tSipB\tare\tescorted by speci\ufb01c chaperone SicA\n", 
+        "is": "1.0\tSipB\tis\tnecessary\n", 
+        "is in": "1.0\tSipB secretion assay\tis in\tWT\n", 
+        "is necessary for": "1.0\tSipB\tis necessary for\tinduction of rapid macrophage apoptosis\n"
+    }, 
+    "sipc": {
+        "are": "1.0\tSipC\tare\tintegral components\n", 
+        "is": "1.0\tSipC\tis\tSPI1-secreted protein\n", 
+        "is in": "1.0\tsipC expression\tis in\tSalmonella strains grown at pH 6.7\n", 
+        "is with": "1.0\tsipC boxes\tis with\tvertical lines\n"
+    }, 
+    "sipd": {
+        "are": "1.0\tSipD\tare\tintegral components\n", 
+        "is": "1.0\tSipD\tis\trequired\n"
+    }, 
+    "sira": {
+        "are": "1.0\tSirA orthologs\tare\tpresent with different names throughout proteobacteria\n", 
+        "belongs to": "1.0\tLT2-speci\ufb01c gene sirA\tbelongs to\tBarA/SirA two-component regulatory system critical for bacterial bio\ufb01lm formation\n", 
+        "interacts with": "1.0\tSirA\tinteracts with\tinvF promoter\n", 
+        "is": "1.0\tsirA ortholog\tis\tIn V. cholerae required for expression of ToxR regulon of murine intestine\n", 
+        "is in": "1.0\tKm sirA\tis in\tSJW1103 Plasmids pTKY 748 pZA4 lacIq hilA Apr lacIq Specr\n", 
+        "is member of": "1.0\tSirA\tis member of\t\ufb02agellar regulons in species\n", 
+        "is regulator of": "1.0\tSalmonella SirA\tis regulator of\tgenes\n", 
+        "is responsible for": "1.0\tSirA\tis responsible for\tenvironmental regulation of hilA expression\n", 
+        "is with": "1.0\tarabinose-conditional sirA strain\tis with\tdeletion in hilA\n"
+    }, 
+    "sirc": {
+        "are": "1.0\tSirC\tare\tpart of HilA-independent pathway to invasion gene expression\n", 
+        "is": "1.0\tsirC\tis\tenvironmentally regulated\n", 
+        "is important for": "1.0\tSirC\tis important for\tef\ufb01ciency of induction of TTSS expression\n", 
+        "is part of": "1.0\tsirC\tis part of\tSirA regulon\n"
+    }, 
+    "sita": {
+        "are": "1.0\tsitA\tare\tregulated by iron concentration\n", 
+        "is": "1.0\tSitA\tis\talso required\n"
+    }, 
+    "sitabcd": {
+        "are": "1.0\tSitABCD\tare\tessential\n", 
+        "contains": "1.0\tsitABCD promoter\tcontains\tMntR binding sites\n", 
+        "is": "1.0\tSitABCD\tis\talkaline Mn2 transporter of Salmonella enterica serovar Typhimurium\n"
+    }, 
+    "slrp": {
+        "is": "1.0\tSlrP production\tis\tcontrolled posttranscriptionally\n"
+    }, 
+    "slt": {
+        "are": "1.0\tMltE lytic transglycosylase SLT domains\tare\thighly related\n", 
+        "is": "1.0\tSlt\tis\tprincipal lytic transglycosylase responsible for turn-over of PG\n", 
+        "is in": "1.0\ttransglycosylase SLT domains\tis in\tS. Typhimurium\n"
+    }, 
+    "slya": {
+        "are": "1.0\tMarR family member SlyA\tare\tpresent Tin members of family Enterobacteriaceae\n", 
+        "belongs to": "1.0\tSlyA\tbelongs to\tfamily of transcriptional regulators\n", 
+        "interacts with": "1.0\tSlyA\tinteracts with\tclyA promoter region\n", 
+        "is": "1.0\tSlyA\tis\trequired for virulence of Salmonella serovar Typhimurium for capability of bacteria survive in professional phagocytes\n", 
+        "is expressed in": "1.0\tslyA\tis expressed in\twhen intracellular environment of J774 macrophages\n", 
+        "is in": "1.0\tE. coli DH5a endA1 hsdR17 supE44 thi-1 recA1 pyrA relA1 D U169 deoR Plasmids pSX34 pBAD18 pSL2237 pSL2570 pSC101 derivative Cmr araC-PBAD plasmid slyA\tis in\tpSC101 pSX34\n", 
+        "is member of": "1.0\tSlyA\tis member of\tMarR family of transcription factors\n", 
+        "is with": "1.0\tslyA\tis with\tmouse virulence of Salmonella serovar Choleraesuis\n"
+    }, 
+    "smg": {}, 
+    "smpb": {
+        "are": "1.0\tSmpB\tare\tinvolved in broad cellular functions including growth rate regulation\n", 
+        "interacts with": "1.0\tRNA-binding protein SmpB\tinteracts with\tsRNA tmRNA\n", 
+        "is": "1.0\tSmpB\tis\timportant\n", 
+        "is in": "1.0\tSmpB\tis in\tgrowth\n"
+    }, 
+    "smva": {
+        "are": "1.0\tTyphimurium smvA\tare\trequired for ef\ufb01cient ef\ufb02ux of methyl viologen\n", 
+        "is": "1.0\tSmvA ef\ufb02ux pump\tis\tinvolved\n"
+    }, 
+    "soda": {
+        "are": "1.0\tSodA\tare\tcytosolic superoxide dismutases of S. Typhimurium\n", 
+        "is": "1.0\tSodA activity\tis\tinduced in S. enterica serovar Typhimurium upon exposure to PQ in soxRS-dependent manner\n", 
+        "is in": "1.0\tsodA expression\tis in\twild-type strain\n"
+    }, 
+    "sodb": {
+        "are": "1.0\tSodB\tare\tcytosolic superoxide dismutases of S. Typhimurium\n", 
+        "is": "1.0\tsodB mutant strain\tis\tInterestingly sensitive\n", 
+        "is in": "1.0\tsodB regulation\tis in\tSalmonella\n"
+    }, 
+    "sodc": {
+        "are": "1.0\tsodC mutants\tare\tless virulent\n", 
+        "is": "1.0\tsodC transcription\tis\tinduced by oxidative stress under normal growth\n", 
+        "is member of": "1.0\tE. coli sodC\tis member of\tregulon\n"
+    }, 
+    "sodci": {
+        "are": "1.0\tsodCI open reading frame\tare\tIn phage inserted between open reading frames for minor tail proteins\n", 
+        "is": "1.0\tSalmonella enterica serovar Typhi-murium periplasmic superoxide dismutase SodCI\tis\tinduced\n", 
+        "is in": "1.0\ttesting sodCI\tis in\tchromatin immunoprecipitation assay\n", 
+        "is member of": "1.0\tSalmonella enterica serovar Typhi-murium periplasmic superoxide dismutase SodCI\tis member of\tPhoPQ regulon\n"
+    }, 
+    "sodcii": {
+        "is": "1.0\tenhanced sodCII expression\tis\tsimply compensatory phenomenon\n", 
+        "is in": "1.0\tenhanced sodCII expression\tis in\tSalmonella serovar Typhimurium ATCC 14028s slyA mutant\n"
+    }, 
+    "sopa": {
+        "are": "1.0\tsopA\tare\tactivated by invFsicA\n", 
+        "is": "1.0\tSopA production\tis\tcontrolled\n", 
+        "is with": "1.0\tSopA binding site\tis with\tnucleotide substitutions\n"
+    }, 
+    "sopb": {
+        "are": "1.0\tSopB\tare\trequired for orchestrated invasion\n", 
+        "is": "1.0\tSopB\tis\tinositol phosphate phosphatase\n", 
+        "is in": "1.0\tSopB secretion assay\tis in\tCP327 complemented with p705CRP\n"
+    }, 
+    "sopd": {
+        "is": "1.0\tSopD\tis\tknown as general virulence factor with multiple roles in development of gastroenteritis\n"
+    }, 
+    "sopd2": {
+        "is": "1.0\tSopD2\tis\tsecreted\n", 
+        "is with": "1.0\tsopD2\tis with\tSgrS\n"
+    }, 
+    "sope": {
+        "are": "1.0\tSopE\tare\tAmong effectors on pathogen side on host side required for coordinated invasion\n", 
+        "is": "1.0\tSopE\tis\ttranslocated into target eukaryotic cell via sip-dependent mechanism\n", 
+        "is in": "1.0\tsopE SopE\tis in\tstrain SL1344\n"
+    }, 
+    "sope2": {
+        "are": "1.0\tsopE2\tare\trepresentative members respectively\n", 
+        "is": "1.0\tsopE2 gene\tis\tpresent\n"
+    }, 
+    "sot": {}, 
+    "soxr": {
+        "is": "1.0\tSoxR protein\tis\texpressed constitutively\n", 
+        "is homologous to": "1.0\tSoxR protein\tis homologous to\tMerR family of transcriptional activators\n"
+    }, 
+    "soxs": {
+        "are": "1.0\tE. coli predicted SoxS proteins\tare\thighly related\n", 
+        "belongs to": "1.0\tSoxS\tbelongs to\tAraC family of transcriptional regulators\n", 
+        "is": "1.0\tsoxS expression\tis\tsuf\ufb01cient for induction of resistance to superoxide-generating drug paraquat for transcriptional activation of sodA\n", 
+        "is in": "1.0\tSoxS regulation\tis in\tS. enterica serovar Typhimurium\n", 
+        "is with": "1.0\tsoxS primers pBR322_MarAR_EcoRI_Fw\tis with\tpBR322 _ MarAR_complsoxS_Rv\n"
+    }, 
+    "span": {}, 
+    "spas": {}, 
+    "speb": {}, 
+    "speed": {
+        "is": "1.0\tspeed\tis\timportant survival advantage\n", 
+        "is in": "1.0\tspeed setting\tis in\tGyrotory shaker\n"
+    }, 
+    "spef": {}, 
+    "speg": {}, 
+    "spia": {}, 
+    "spic": {
+        "is": "1.0\tSalmonella virulence factor SpiC\tis\tinvolved\n"
+    }, 
+    "spot": {
+        "contains": "1.0\tSpoT\tcontains\tsynthetase activities\n", 
+        "is": "1.0\tSpoT synthesizing activity\tis\tIn addition inhibited during amino acid downshift concomitant with activation of RelA enzyme\n", 
+        "is in": "1.0\tspot numbers\tis in\tadditional file\n", 
+        "is with": "1.0\tpredominant spot\tis with\tmuch less abundant spot corresponding to Trigger factor\n"
+    }, 
+    "spr": {
+        "is": "1.0\tSPR technique\tis\tused most reliably\n", 
+        "is in": "1.0\tSPR measurements\tis in\tpresence of FlgM\n"
+    }, 
+    "sprb": {
+        "is": "1.0\tSprB\tis\tweak negative regulator\n", 
+        "is in": "1.0\tSprB\tis in\tfact\n", 
+        "is regulator of": "1.0\tSprB\tis regulator of\tSPI1 gene expression\n"
+    }, 
+    "sptp": {
+        "are": "1.0\tsptP\tare\tregulated by FIG. 3\n", 
+        "is": "1.0\tSalmonella typhimurium tyrosine phosphatase SptP\tis\ttranslocated\n", 
+        "is in": "1.0\tsptP\tis in\tSPI1\n"
+    }, 
+    "spva": {
+        "are": "1.0\tspvA promoters\tare\trecognized\n", 
+        "is": "1.0\tspvA\tis\tin concordance with microarray data downregulated in igaA1 mutant in strains\n", 
+        "is in": "1.0\tspvA mRNA expression\tis in\tbacteria grown\n"
+    }, 
+    "spvb": {
+        "are": "1.0\tSpvB\tare\teffectors translocated by T3SS2\n", 
+        "is": "1.0\tspvB gene product\tis\tmono transferase\n", 
+        "is expressed in": "1.0\tspvB\tis expressed in\tstationary growth phase\n", 
+        "is in": "1.0\tS. typhimurium LT2 spvB structural gene\tis in\tits native context on single-copy virulence plasmid\n"
+    }, 
+    "spvc": {}, 
+    "spvd": {
+        "are": "1.0\tSpvD\tare\tproduced\n"
+    }, 
+    "spvr": {
+        "are": "1.0\tspvR mutants\tare\tIntriguingly defective\n", 
+        "is": "1.0\tspvR promoter\tis\tproficient for transcription in absence of cAMP-CRP\n", 
+        "is expressed in": "1.0\tspvR\tis expressed in\ttrans\n", 
+        "is in": "1.0\tregulatory gene spvR\tis in\tgrowth phase-dependent regulation of spvABCD operon\n", 
+        "is regulator of": "1.0\tSpvR\tis regulator of\tat least three essential virulence genes\n", 
+        "is with": "1.0\tSpvR\tis with\tS. typhi-murium MetR\n"
+    }, 
+    "spy": {
+        "is": "1.0\tspy\tis\tmember of BaeSR regulon like mdtABC\n", 
+        "is in": "1.0\tmetal-induced spy gene expression\tis in\tEscherichia coli\n", 
+        "is member of": "1.0\tspy\tis member of\tBaeSR regulon\n"
+    }, 
+    "sra": {
+        "is in": "1.0\tsrA binding sites\tis in\t5 \u2032 untranslated leader sequences\n"
+    }, 
+    "srab": {}, 
+    "srfa": {
+        "is in": "1.0\tsrfA\tis in\tserovar Typhimurium\n"
+    }, 
+    "srfabc": {
+        "constitute": "1.0\tsrfABC\tconstitute\tmultigene horizontal acquisition based\n", 
+        "is": "1.0\tsrfABC operon\tis\trepressed under SPI-2-inducing conditions in PhoP-dependent manner\n", 
+        "is expressed in": "1.0\tsrfABC operon\tis expressed in\tLB medium\n", 
+        "is in": "1.0\tsrfABC expression pattern\tis in\tmedia\n", 
+        "is with": "1.0\tPutative transcriptional unit trg srfABC i36 trg srfB\tis with\trepeats\n"
+    }, 
+    "srfb": {
+        "are": "1.0\tsrfB\tare\tpart\n", 
+        "is with": "1.0\tPutative transcriptional unit trg srfABC i36 trg srfB\tis with\trepeats\n"
+    }, 
+    "srfc": {}, 
+    "srfj": {
+        "is": "1.0\tSrfJ\tis\tsynthesized inside host in response to intracellular conditions outside host in myo-inositol-rich environments\n", 
+        "is in": "1.0\tsrfJ\tis in\tLB\n"
+    }, 
+    "srga": {
+        "are": "1.0\tdsbA srgA double mutants\tare\tIndeed mucoid\n", 
+        "is": "1.0\tSrgA\tis\talso required for folding of SpiA\n"
+    }, 
+    "srgb": {}, 
+    "srgc": {}, 
+    "ssab": {}, 
+    "ssae": {}, 
+    "ssag": {
+        "is": "1.0\tssaG expression\tis\tstrongly controlled\n", 
+        "is in": "1.0\tssaG expression\tis in\tSalmonella enterica serovar Typhi-murium\n"
+    }, 
+    "ssah": {
+        "are": "1.0\tssaH\tare\tinduced in minimal medium\n", 
+        "is": "1.0\tSsaH\tis\tcomponent\n"
+    }, 
+    "ssaj": {
+        "is": "1.0\tSsaJ\tis\tessential component\n"
+    }, 
+    "ssam": {}, 
+    "ssar": {
+        "is with": "1.0\tssaR mutant\tis with\tdeletion in ssaR encoding\n"
+    }, 
+    "ssat": {
+        "are": "1.0\tSsaT\tare\thomologs of YscT of virulence plasmid-encoded type III secretion system of Yersinia spp\n", 
+        "is": "1.0\tssaT\tis\tpenultimate gene of ssaK-U operon\n", 
+        "is in": "1.0\tssaT\tis in\tpACYC184 Cmr\n"
+    }, 
+    "ssau": {
+        "are": "1.0\tssaU\tare\timportant\n"
+    }, 
+    "ssav": {
+        "is": "1.0\tSsaV\tis\tessential component\n", 
+        "is with": "1.0\tssaV\tis with\tchloramphenicol resistance gene\n"
+    }, 
+    "ssb": {
+        "is": "0.20092175177216798\tssb\tis\tlocated\n"
+    }, 
+    "ssea": {
+        "is": "1.0\tSseA\tis\trequired\n", 
+        "is in": "1.0\tsseA\tis in\tssaE CDS\n"
+    }, 
+    "sseb": {}, 
+    "ssec": {}, 
+    "sseg": {
+        "is": "1.0\tsseG\tis\tIn contrast to other fusions distal gene of larger operon controlled by PsseA\n"
+    }, 
+    "ssei": {}, 
+    "ssej": {
+        "is": "1.0\tSseJ\tis\tsecreted\n", 
+        "is in": "1.0\tsseJ expression\tis in\televated Fe3\n"
+    }, 
+    "ssel": {
+        "are": "1.0\tSseL\tare\teffectors translocated by T3SS2\n", 
+        "is": "1.0\tSseL\tis\tSalmonella-speci\ufb01c translocated effector integrated into SsrB-controlled Salmonella pathogenicity island 2 type III secretion system\n", 
+        "is expressed in": "1.0\tSseL\tis expressed in\tSsrB-depen-dent manner\n", 
+        "is in": "1.0\tsseL\tis in\tS. enterica serotype Typhimurium\n", 
+        "is member of": "1.0\tRESULTS SseL\tis member of\tSsrB regulon\n", 
+        "is with": "1.0\tSseL\tis with\tGFP fused in frame to amino terminus\n"
+    }, 
+    "ssph2": {}, 
+    "ssra": {
+        "are": "1.0\tSsrA\tare\tsensor respectively\n", 
+        "is": "1.0\tssrA transcription\tis\tinduced inside macrophages presumably in response to vacuolar environment\n", 
+        "is in": "1.0\tSPI2 ssrA\tis in\tresponse to different phosphorylation levels of OmpR\n"
+    }, 
+    "ssrab": {
+        "is": "1.0\tssrAB expression\tis\tinduced by HilD in late stationary phase well beyond time point of our ChIP-seq experiment\n", 
+        "is in": "1.0\ttwo-component regulatory system SsrAB\tis in\tSPI-2\n"
+    }, 
+    "ssrb": {
+        "are": "1.0\tSalmonella SsrB\tare\t69 % identical at amino acid level\n", 
+        "contains": "1.0\tSsrB\tcontains\tredox-active cysteines\n", 
+        "interacts with": "0.7285152467638243\tSsrB\tinteracts with\tits target DNA\n", 
+        "is": "1.0\ttranscription factor SsrB\tis\trequired for expression of T3SS encoded within SPI2 for expression of its substrate effector proteins\n", 
+        "is in": "1.0\tssrB\tis in\tonly partially accord with quanti\ufb01cation of expression levels of Salmonella genes in vivo\n", 
+        "is necessary for": "1.0\tSsrB protein\tis necessary for\ttranscription of genes\n"
+    }, 
+    "stba": {}, 
+    "stbc": {}, 
+    "stda": {
+        "is": "1.0\tstdA dam strain\tis\tmore competitive\n", 
+        "is in": "1.0\tstdA gene disruption\tis in\timmediate ancestor of strain SV503\n"
+    }, 
+    "stdb": {}, 
+    "stia": {
+        "are": "1.0\tstiA\tare\tkey starvation survival genes in rpoS-dependent system\n", 
+        "is in": "1.0\tstiA\tis in\trpoS\n"
+    }, 
+    "stib": {
+        "is": "1.0\tstiB locus\tis\talso required\n"
+    }, 
+    "stic": {
+        "are": "1.0\tstiC\tare\tkey starvation survival genes in rpoS-dependent system\n", 
+        "is in": "1.0\tstiC locus\tis in\tregion\n"
+    }, 
+    "stm0047": {}, 
+    "stm0084": {
+        "is": "1.0\tSTM0084\tis\tannotated\n"
+    }, 
+    "stm0275": {}, 
+    "stm0294": {
+        "are": "1.0\tSTM0294 .1 n levels\tare\tlow\n"
+    }, 
+    "stm0551": {
+        "interacts with": "1.0\tSTM0551\tinteracts with\tfimA gene expression\n", 
+        "is in": "1.0\tstm0551 mutant strain\tis in\tculture conditions\n", 
+        "is with": "1.0\tstm0551 allele\tis with\tglutamic acid\n"
+    }, 
+    "stm0580": {}, 
+    "stm0834": {}, 
+    "stm0906": {}, 
+    "stm1012": {
+        "is": "1.0\tSTM1012\tis\talias GtgR Gifsy-2 phage repressor\n"
+    }, 
+    "stm1013": {}, 
+    "stm1128": {}, 
+    "stm1133": {
+        "is": "1.0\tSTM1133\tis\tfinal gene\n"
+    }, 
+    "stm1214": {}, 
+    "stm1263": {
+        "is in": "1.0\tSTM1263\tis in\tcis\n"
+    }, 
+    "stm1269": {
+        "is with": "1.0\tSTM1269 promoter pFPV25\tis with\tyjdB promoter pFPV25\n"
+    }, 
+    "stm1328": {}, 
+    "stm1344": {
+        "is": "1.0\tSTM1344\tis\tunconventional c-di-GMP-inactive EAL domain protein recently identified as negative regulator of flagella gene expression\n", 
+        "is in": "1.0\tSTM1344 knockout\tis in\tgenes coding for phosphodiesterases previously identi\ufb01ed\n", 
+        "is part of": "0.8676739373353973\tSTM1344\tis part of\t\ufb02agellar regulon\n", 
+        "is with": "1.0\tS. Typhimurium UMR1 STM1344 mutant\tis with\twild-type STM1344-His6 proteins\n"
+    }, 
+    "stm1355": {}, 
+    "stm1499": {}, 
+    "stm1530": {
+        "are": "1.0\tSTM3031and STM1530\tare\tdirectly or indirectly regulated\n", 
+        "is": "1.0\tputative outer membrane protein STM1530\tis\tindeed outer membrane protein\n"
+    }, 
+    "stm1625": {
+        "is in": "1.0\tSTM1625\tis in\tS. Typhimurium genome\n"
+    }, 
+    "stm1703": {
+        "are": "1.0\tSTM1703\tare\tupregulated\n"
+    }, 
+    "stm1787": {
+        "is": "1.0\tSTM1787 promoter\tis\tSecond preferentially activated\n", 
+        "is in": "1.0\tSTM1787 promoter activation\tis in\ttumor microenvironment\n"
+    }, 
+    "stm1790": {}, 
+    "stm1791": {}, 
+    "stm1798": {}, 
+    "stm1841": {}, 
+    "stm1851": {}, 
+    "stm1852": {}, 
+    "stm1863-stm1864": {}, 
+    "stm1954": {
+        "is": "1.0\tSTM1954\tis\tHowever also expressed\n"
+    }, 
+    "stm1956": {}, 
+    "stm1987": {}, 
+    "stm2123": {}, 
+    "stm2176": {}, 
+    "stm2208": {
+        "are": "1.0\tSTM2208\tare\texpressed at low levels in Dam S. enterica\n"
+    }, 
+    "stm2209": {
+        "are": "1.0\tSTM2209 ORFs\tare\tconserved in Salmonella enterica serovar Typhimurium strains respectively in vicinity of sugar transport gene setB\n", 
+        "interacts with": "1.0\tSTM2209\tinteracts with\tinner-membrane protein STM2208\n", 
+        "is": "1.0\tSTM2209 gene product\tis\tsmall hydrophobic peptide\n"
+    }, 
+    "stm2209-stm2208": {
+        "are": "1.0\tSTM2209-STM2208 transcripts\tare\tmore abundant\n", 
+        "is": "1.0\tResults STM2209-STM2208\tis\tSalmonella-specific locus STM2209\n", 
+        "is in": "1.0\tg010 STM2209-STM2208 expression\tis in\twild type populations of Salmonella\n"
+    }, 
+    "stm2234": {}, 
+    "stm2235": {}, 
+    "stm2236": {
+        "is": "1.0\tSTM2236\tis\tOf additional phage genes in SPI-12 similar to head maturation protease\n"
+    }, 
+    "stm2237": {}, 
+    "stm2239": {
+        "is": "1.0\tSTM2239\tis\ttranscriptional regulator\n", 
+        "is regulator of": "1.0\tSTM2239\tis regulator of\tSTM2234-STM2237 operon\n", 
+        "is with": "1.0\tctacaaatgcctcat START FIG 7 STM2239 copuri\ufb01es\tis with\tSTM2237 promoter\n"
+    }, 
+    "stm2243": {
+        "is": "1.0\tSTM2243\tis\tstationary phase RNA\n"
+    }, 
+    "stm2287": {
+        "are": "1.0\tSTM2287\tare\texpressed inversely\n", 
+        "is": "1.0\tSTM2287\tis\texpressed\n"
+    }, 
+    "stm2454": {}, 
+    "stm2666": {}, 
+    "stm2765": {}, 
+    "stm2773": {}, 
+    "stm2911": {
+        "is in": "1.0\tSTM2911\tis in\tSPI-1\n"
+    }, 
+    "stm2912": {}, 
+    "stm2922": {}, 
+    "stm3026": {
+        "is": "1.0\tSTM3026\tis\tDamrepressed locus\n"
+    }, 
+    "stm3031": {}, 
+    "stm3130": {}, 
+    "stm3131": {}, 
+    "stm3152": {}, 
+    "stm3169": {
+        "is": "1.0\tSTM3169\tis\thomologous to DctP in Rhodobacter capsulatus with 31 % identity\n", 
+        "is homologous to": "1.0\tSTM3169\tis homologous to\tDctP in Rhodobacter capsulatus\n", 
+        "is in": "1.0\tSTM3169 protein expression\tis in\twild-type SH100\n"
+    }, 
+    "stm3171": {
+        "are": "1.0\tSTM3171\tare\tlocated immediately downstream from STM3169\n"
+    }, 
+    "stm3216": {
+        "are": "1.0\tSTM3216\tare\tactivated by Dam methylation\n"
+    }, 
+    "stm3253": {}, 
+    "stm3375": {
+        "are": "1.0\tSTM3375\tare\thighly similar proteins\n"
+    }, 
+    "stm3611": {
+        "is": "1.0\tSTM3611\tis\twhen inactive\n", 
+        "is in": "1.0\tphosphodiesterase STM3611\tis in\tS. Typhimurium UMR1\n", 
+        "is with": "1.0\tSoluble STM3611\tis with\tN-terminal FLAG tag fusion\n"
+    }, 
+    "stm3635": {
+        "is": "1.0\tSTM3635\tis\tpredicted\n"
+    }, 
+    "stm4002": {}, 
+    "stm4054": {}, 
+    "stm4118": {}, 
+    "stm4256": {}, 
+    "stm4261": {
+        "contains": "1.0\tannotated STM4261 locus\tcontains\tat least two genes\n"
+    }, 
+    "stm4264": {
+        "is with": "1.0\tmltE mltC STM4264 triple mutant\tis with\tupregulated rdar morphotype\n"
+    }, 
+    "stm4277": {}, 
+    "stm4293": {
+        "are": "1.0\t5 ACGCAACAGAAACTTAGTTTCTTGCTTGCGTGTGTA GGCTGGACGTGCTTC 3 5 TATCGTATCGTATAGCTCCACATGACGACGCATATG AATATCCTCCTTA 3 STM4293\tare\tcomplementary\n"
+    }, 
+    "stm4330": {
+        "is with": "1.0\t2.0 1.54E-08 STM4330 chaperone Hsp60\tis with\tpeptide-dependent ATPase activity\n"
+    }, 
+    "stm4363": {}, 
+    "stm4412": {}, 
+    "stm4417": {
+        "is in": "1.0\tSTM4417\tis in\tstrain LT2\n", 
+        "is with": "1.0\tSTM4417 knockout Insertion-duplication mutant\tis with\tSTM4432 knockout Spontaneous streptomycin-resistant mutant of 14028 In-frame iolR\n"
+    }, 
+    "stm4432": {
+        "is": "1.0\tSTM4432\tis\tpart\n"
+    }, 
+    "stm4463": {
+        "is": "1.0\tSTM4463 gene\tis\tin which expressed from lac promoter\n", 
+        "is in": "1.0\tSTM4463 region\tis in\tstrain 14028s\n", 
+        "is necessary for": "1.0\tSTM4463 regulator\tis necessary for\tS. Typhimurium replication inside macrophages\n"
+    }, 
+    "stm4467": {
+        "are": "1.0\tSTM4467 genes\tare\tpredicted\n", 
+        "is": "1.0\tSTM4467 gene\tis\trequired\n", 
+        "is in": "1.0\tSTM4467\tis in\tS. Typhimurium growing inside macrophages\n"
+    }, 
+    "stm4519": {
+        "is in": "1.0\t32 yhbU 29 Putative protease 32 STM4519 41b Putative NAD-dependent aldehyde dehydrogenase\tis in\tLB medium between high-iron conditions 1\n"
+    }, 
+    "stm4551": {}, 
+    "stpa": {
+        "contains": "1.0\tStpA\tcontains\tphenylalanine at position 21\n", 
+        "is": "1.0\tstpA gene\tis\tderepressed\n", 
+        "is in": "1.0\tmore StpA protein\tis in\tNLM2173\n"
+    }, 
+    "stra": {
+        "is with": "1.0\tSTRA strains\tis with\toverproduction of RamA\n"
+    }, 
+    "sufd": {
+        "are": "1.0\tSufD\tare\tmembers\n"
+    }, 
+    "sula": {}, 
+    "sun": {}, 
+    "sura": {
+        "is with": "1.0\tsurA ATCC 14028s\tis with\tMudJ insertion in tolB ATCC 14028s\n"
+    }, 
+    "tag": {
+        "is in": "1.0\ttet template FLAG tag expression vector Integrational plasmid\tis in\tpMW118 stm3169\n", 
+        "is with": "1.0\ttet template FLAG tag expression vector Integrational plasmid\tis with\tpromoterless lacZ gene Expression vector\n"
+    }, 
+    "tap": {}, 
+    "tar": {}, 
+    "tbpa": {
+        "is": "1.0\ttbpA gene product\tis\tupregulated as result of tigecycline\n"
+    }, 
+    "tcta": {}, 
+    "tctc": {
+        "are": "1.0\ttctC\tare\tC-terminally truncated TTTTTATCCTCACGCCGGACGTCCGGATTTTTCA -121 CRP\n", 
+        "is": "1.0\tTctC\tis\ttricarboxylate-binding-receptor component of TctABC tripartite-tricarboxylate transporter of S. Typhimurium involved in citrate utilization\n"
+    }, 
+    "tctd": {
+        "are": "1.0\ttctD\tare\tC-terminally truncated TTTTTATCCTCACGCCGGACGTCCGGATTTTTCA -121 CRP\n", 
+        "is": "1.0\tTctD\tis\tPerhaps functionally related\n"
+    }, 
+    "tcub": {}, 
+    "tdca": {
+        "is": "1.0\tTdcA\tis\tmember\n", 
+        "is member of": "1.0\tTdcA\tis member of\tLysR family of transcriptional activators\n"
+    }, 
+    "tdcd": {
+        "is in": "1.0\tpBAD30 bla pTDC1 tdcD\tis in\tpBAD18s bla pENTR1A Entry vector\n"
+    }, 
+    "tdce": {}, 
+    "teha": {
+        "are": "1.0\ttehA gene products\tare\tinvolved\n", 
+        "is in": "1.0\ttehA expression\tis in\tS. typhimurium nsrR mutant\n"
+    }, 
+    "teta": {
+        "is": "1.0\ttetA transcript\tis\tFor visualization of resulting transcripts from tetA-\ufb02iC operon fusions shown in light gray\n", 
+        "is in": "1.0\ttetA promoter\tis in\tT-POP\n"
+    }, 
+    "tetr": {
+        "is": "1.0\tTnlO dell6 dell 7 Tetr element\tis\treferred\n", 
+        "is in": "1.0\tF lacIq lacZ M15 Tn10 Tetr\tis in\tMC1061\n", 
+        "is with": "1.0\trepA Tetr Ampr Tetr iolR\tis with\tputative promoter region cloned into pBR322 for complem iolE\n"
+    }, 
+    "tfa": {
+        "is in": "1.0\t0.1 % TFA\tis in\twater\n"
+    }, 
+    "tgt": {}, 
+    "thic": {
+        "is": "0.5645441393919688\tthiC\tis\t1.89 kb\n"
+    }, 
+    "thie": {
+        "is": "1.0\tthiE gene\tis\thomologous\n"
+    }, 
+    "thii": {}, 
+    "thil": {
+        "is in": "1.0\tthiL locus\tis in\tS. typhimurium\n"
+    }, 
+    "this": {
+        "are": "1.0\tthis\tare\tsingle\n", 
+        "is": "1.0\tj.vreede@uva.nl This\tis\tOpen Access article distributed under terms of Creative Commons-Attribution Noncommercial License\n"
+    }, 
+    "thya": {}, 
+    "tig": {
+        "are": "1.0\ttig mRNA levels\tare\thigher\n", 
+        "is in": "1.0\tor tig mRNA levels\tis in\tconditions tested\n"
+    }, 
+    "tlpa": {
+        "is": "1.0\ttemperature-sensing protein TlpA\tis\trepressed\n"
+    }, 
+    "tnpr": {
+        "is with": "1.0\tpromoterless tnpR\tis with\tpromoterless tnpRmut168-lacZY\n"
+    }, 
+    "tolb": {
+        "interacts with": "1.0\tTolB protein\tinteracts with\touter membrane peptidoglycan-associated proteins\n", 
+        "is in": "1.0\ttolB mutation\tis in\tpmrA mutant\n", 
+        "is with": "1.0\ttolB ATCC 14028s\tis with\tMudJ insertion in gnd ATCC 14028s\n"
+    }, 
+    "tolc": {
+        "are": "1.0\tTolC\tare\trequired for Salmonella enterica serovar Typhimurium SL1344 colonize in poultry\n", 
+        "interacts with": "1.0\tTolC\tinteracts with\tdifferent drug ef\ufb02ux systems\n", 
+        "is": "1.0\tTolC\tis\tIn E. coli required for function of MdtABC multidrug ef\ufb02ux systems\n", 
+        "is expressed in": "1.0\ttolC gene\tis expressed in\tcomplex laboratory media\n", 
+        "is in": "1.0\touter membrane protein TolC\tis in\tmaintenance of organic solvent tolerance of Escherichia coli K-12\n"
+    }, 
+    "tonb": {}, 
+    "topa": {
+        "is in": "1.0\ttopA expression\tis in\tmutants\n"
+    }, 
+    "tppb": {
+        "contains": "1.0\ttppB regulatory region\tcontains\tonly single OmpR-binding site\n", 
+        "is": "1.0\ttppB\tis\tIndependently of effects of tppA also induced by external leucine by anaerobiosis\n"
+    }, 
+    "traa": {}, 
+    "trac": {}, 
+    "trad": {}, 
+    "trai": {
+        "is": "1.0\tTraI\tis\tresponsible\n", 
+        "is responsible for": "1.0\tTraI\tis responsible for\tproduction of conjugation factor\n"
+    }, 
+    "traj": {
+        "is": "1.0\ttraJ gene\tis\tHence unlike \ufb01nP repressed by H-NS\n", 
+        "is in": "1.0\ttraJ transcription\tis in\tDam\n"
+    }, 
+    "tran": {
+        "is in": "1.0\ttheir PhoP tran scriptional dependence\tis in\tcells grown\n"
+    }, 
+    "trap": {}, 
+    "trar": {
+        "is": "1.0\tTraR\tis\tactivator required for Ti plasmid-mediated conjugation\n"
+    }, 
+    "trat": {}, 
+    "trba": {
+        "are": "1.0\tmost trbA transcripts\tare\tmonocistronic\n", 
+        "is": "1.0\ttrbA\tis\twhen provided in cis under control of its normal promoter\n", 
+        "is in": "1.0\ttrbA\tis in\tregion\n"
+    }, 
+    "trbb": {
+        "are": "1.0\ttrbB\tare\tseparate transcriptional units\n", 
+        "is": "1.0\ttrbB transcript\tis\tstrongly repressed\n"
+    }, 
+    "trbe": {}, 
+    "trg": {
+        "are": "1.0\ttrg\tare\tresponsible for flagellar function\n", 
+        "is with": "1.0\tPutative transcriptional unit trg srfABC i36 trg srfB\tis with\trepeats\n"
+    }, 
+    "trka": {}, 
+    "trma": {}, 
+    "trmd": {}, 
+    "trpr": {
+        "is in": "1.0\tDNA methylation in\ufb02uences trpR promoter activity\tis in\tEscherichia coli\n"
+    }, 
+    "trxa": {
+        "are": "1.0\ttrxA mutants\tare\tattenuated\n", 
+        "is": "1.0\tTrxA\tis\tunder in conditions in cell culture infections required for functionality of SPI2 acting as SPI2-secreted effector protein\n", 
+        "is in": "1.0\ttrxA mutant phenotype\tis in\tS. serovar Typhi-murium\n", 
+        "is with": "1.0\tS. serovar Typhimurium trxA mutant strain complementation\tis with\tpFA8\n"
+    }, 
+    "trxb": {}, 
+    "tsf": {}, 
+    "tsr": {
+        "are": "1.0\ttsr\tare\tresponsible\n", 
+        "is in": "1.0\tplasmid-encoded TSR activity\tis in\tstrain EB474\n"
+    }, 
+    "tum": {
+        "is": "1.0\tTum\tis\tnearly twice size\n"
+    }, 
+    "tvia": {
+        "are": "1.0\tTviA auxiliary protein\tare\tinvolved in transcriptional control of virulence factors in S. Typhi\n", 
+        "constitute": "1.0\tTviA regulated genes\tconstitute\tsubset of RcsB regulated genes\n", 
+        "is": "1.0\tTviA\tis\tthought\n"
+    }, 
+    "tyrr": {
+        "is": "1.0\tTyrR\tis\t53-kDa\n", 
+        "is in": "1.0\tTyrR\tis in\tE. coli\n", 
+        "is with": "1.0\tTyrR box 1 sequence similarity\tis with\taroFol\n"
+    }, 
+    "ubib": {
+        "is in": "1.0\tubiB\tis in\tS. Typhimurium\n"
+    }, 
+    "ugd": {
+        "contains": "1.0\tugd\tcontains\tPmrA motifs\n", 
+        "is": "1.0\tSalmonella ugd gene\tis\trequired for incorporation of 4-aminoarabinose in li-popolysaccharide\n", 
+        "is in": "1.0\tugd transcription\tis in\tLB\n"
+    }, 
+    "ugtl": {
+        "is": "1.0\tUgtL\tis\trequired\n"
+    }, 
+    "uhpa": {
+        "is": "1.0\tuhpA\tis\tThus absolutely required regardless\n", 
+        "is in": "1.0\tUhpA\tis in\tits unphosphorylated inactive state\n"
+    }, 
+    "uhpabc": {
+        "is in": "1.0\t3.7-kb S. typhimurium uhpABC\tis in\tpKS E. coli uhp region\n"
+    }, 
+    "uhpb": {
+        "are": "1.0\tUhpB amino acid sequences\tare\t91 % identical in two organisms\n", 
+        "contains": "1.0\tUhpB\tcontains\t10 transmembrane segments\n", 
+        "is": "1.0\tuhpB coding sequence\tis\tfollowed by 9-bp intergenic region before start of 442-codon uhpC coding sequence\n", 
+        "is in": "1.0\tUhpB positive roles\tis in\tcontrol of uhpT transcription\n"
+    }, 
+    "uhpc": {
+        "contains": "1.0\tUhpC\tcontains\tGlu6P-binding site relevant for regulation\n", 
+        "is": "1.0\tUhpC\tis\tlonger than UhpC of E. coli owing to insertion of three amino acids just before last residue\n", 
+        "is in": "1.0\tUhpC\tis in\torganisms\n"
+    }, 
+    "uhpt": {
+        "are": "1.0\tUhpT\tare\trelated along their entire lengths with 30.7 % identical amino acids\n", 
+        "is in": "1.0\tUhpT\tis in\tamino acid sequence\n"
+    }, 
+    "ular": {}, 
+    "usha": {
+        "are": "1.0\tushA data\tare\trelative\n", 
+        "is in": "1.0\tcryptic ushA gene\tis in\tnatural isolates of Salmo-nella enterica\n"
+    }, 
+    "uspa": {
+        "are": "1.0\tUspA proteins\tare\tthought\n"
+    }, 
+    "uvrb": {
+        "is": "1.0\tuvrB gene product\tis\tknown\n", 
+        "is in": "1.0\tdelta uvrB mutations\tis in\tAmes strains of Salmonella span 15\n"
+    }, 
+    "uvrc": {
+        "is": "1.0\tS. typhimurium uvrC\tis\tsimilar in size to E. coli uvrC gene\n", 
+        "is in": "1.0\tsirA uvrC\tis in\tpWKS30 Knr\n"
+    }, 
+    "uvry": {
+        "are": "1.0\tuvrY\tare\tencoded upstream of uvrC\n", 
+        "is in": "1.0\tuvrY\tis in\tEscherichia coli\n"
+    }, 
+    "vacb": {}, 
+    "vacj": {
+        "are": "1.0\tgene Primer GCAACCGTACTGAAAGCCAGGG GCCAAAGAAGTCAGTGTTACGGT TTTCCTGCAGGGCGATCCTTATCA CTGCCGTAGAACGGAAGTTGCATA AAACGTGCCGTTGCGGAACTTATC ATTTCTTTGTTCGTCCGCTGCGTG TAACCGCAGCAATTGACGTTACCC TCTACAAGACTCAAGCCTGCCAGT ompD ompD-F ompD-R vacJ vacJ-F vacJ-R psd-F psd-R 16S RNA-F 16S RNA-R psd 16S RNA\tare\tunderlined\n"
+    }, 
+    "vgrg": {}, 
+    "viaa": {
+        "is in": "1.0\tviaA mutations\tis in\tS. typhi\n", 
+        "is with": "1.0\tViaA\tis with\t32\n"
+    }, 
+    "virb": {
+        "is in": "1.0\tvirB transcription\tis in\tShigella flexneri\n"
+    }, 
+    "virk": {
+        "are": "1.0\tFalkow S. virK\tare\timportant for Salmonella enterica serovar Typhimurium infection\n", 
+        "is": "1.0\tVirK\tis\tupregulated\n"
+    }, 
+    "vrgs": {
+        "is in": "1.0\tVrgS\tis in\tS. Typhimurium\n"
+    }, 
+    "waag": {
+        "is": "1.0\twaaG expression\tis\tregulated\n"
+    }, 
+    "waal": {}, 
+    "waap": {}, 
+    "waay": {}, 
+    "wcaf": {
+        "are": "1.0\twcaF genes\tare\tpart of wca cluster for colanic acid synthesis\n"
+    }, 
+    "wcah": {}, 
+    "wcak": {
+        "are": "1.0\twcaK\tare\tpart\n"
+    }, 
+    "wecc": {
+        "is": "1.0\twecC gene\tis\trequired\n"
+    }, 
+    "wza": {}, 
+    "xis": {}, 
+    "xtha": {}, 
+    "xyle": {
+        "is in": "1.0\tXylE activity\tis in\tpresence of different repressorsa\n"
+    }, 
+    "yael": {
+        "is in": "1.0\tYaeL protease\tis in\tVibrio cholerae\n"
+    }, 
+    "yaet": {}, 
+    "yaho": {
+        "is": "1.0\tyahO\tis\tlocated downstream from prpR in serovar Typhimurium\n"
+    }, 
+    "ybir": {}, 
+    "ybjg": {
+        "is with": "1.0\tybjG promoter pFPV25\tis with\tSTM1269 promoter pFPV25\n"
+    }, 
+    "ycei": {}, 
+    "ycep": {}, 
+    "ycfr": {
+        "are": "1.0\tycfR\tare\tinvolved\n", 
+        "is": "1.0\tGene ycfR\tis\talso completely conserved\n", 
+        "is in": "1.0\tChlorine Resistance ycfR deletion mutants\tis in\tS. Typhimurium\n"
+    }, 
+    "ycgr": {
+        "are": "1.0\tycgR\tare\tIn E. coli members of \ufb02agellar regulon\n", 
+        "is": "1.0\tc-di-GMP-binding protein YcgR\tis\tinvolved\n"
+    }, 
+    "ycif": {
+        "is in": "1.0\tYciF\tis in\tAMM-2\n"
+    }, 
+    "ydaa": {}, 
+    "ydal": {
+        "are": "1.0\tydaL\tare\tin E. coli separated by four ORFs namely\n"
+    }, 
+    "ydci": {
+        "are": "1.0\tydcI\tare\tpart of same pathway\n", 
+        "belongs to": "1.0\tS. Typhimurium gene ydcI\tbelongs to\taforementioned class\n", 
+        "is": "1.0\tydcI gene\tis\tclearly expressed in bacteria under standard culture conditions\n", 
+        "is expressed in": "1.0\tydcI gene\tis expressed in\tdifferent bacterial genera\n", 
+        "is in": "1.0\tYdcI DNA binding activity functions\tis in\tbacterial cells\n", 
+        "is part of": "1.0\tydcI\tis part of\trpoS regulon related to stress resistance\n", 
+        "is with": "1.0\tC YdcI gel shift reaction mixtures\tis with\tlabeled H3 probe\n"
+    }, 
+    "yddg": {
+        "are": "1.0\tyddG\tare\trequired for ef\ufb01cient ef\ufb02ux of methyl viologen\n"
+    }, 
+    "ydei": {
+        "interacts with": "1.0\tYdeI\tinteracts with\touter membrane protein OmpD in periplasmic compartment\n", 
+        "is": "1.0\tYdeI\tis\timportant for resistance to polymyxin B in broth for bacterial survival\n", 
+        "is important for": "1.0\tYdeI\tis important for\tresistance to polymyxin B in broth\n", 
+        "is in": "1.0\tB ydeI mRNA levels\tis in\tearly stationary phase cells\n", 
+        "is with": "1.0\tYdeI copuri\ufb01es\tis with\tOmpD/NmpC\n"
+    }, 
+    "ydej": {}, 
+    "ydgr": {
+        "is": "1.0\tserovar Typhimurium ydgR gene\tis\ttppB\n"
+    }, 
+    "ydgt": {
+        "are": "1.0\thha ydgT double mutants\tare\tattenuated\n", 
+        "is": "1.0\tydgT mutant strain\tis\tattenuated\n", 
+        "is with": "1.0\tYdgT forms\tis with\tH-NS\n"
+    }, 
+    "ydie": {
+        "is in": "1.0\tydiE\tis in\tS. Typhimurium\n"
+    }, 
+    "ydik": {
+        "are": "1.0\tRprA E. coli ydiK ydiL RybB E. coli SL0845 SL0846 72 75 5 109\tare\tshown\n"
+    }, 
+    "ydil": {
+        "are": "1.0\tRprA E. coli ydiK ydiL RybB E. coli SL0845 SL0846 72 75 5 109\tare\tshown\n"
+    }, 
+    "ydiu": {
+        "is": "1.0\tYdiU\tis\tresponsible\n", 
+        "is responsible for": "1.0\tYdiU\tis responsible for\tnutritional control of class 2 operons in Salmonella\n"
+    }, 
+    "ydiv": {
+        "are": "1.0\tEA L Domain Protein YdiV Acts\tare\tdivided\n", 
+        "contains": "1.0\tYdiV protein\tcontains\tEAL domain\n", 
+        "interacts with": "1.0\tYdiV\tinteracts with\tFlhD\n", 
+        "is": "1.0\tYdiV\tis\tnovel anti-FlhD4C2 factor responsible for nutritional control of \ufb02agellar regulon\n", 
+        "is in": "1.0\ttwo possible ydiV promoters\tis in\tintergenic region between genes\n", 
+        "is responsible for": "1.0\tydiV gene\tis responsible for\treduction of class 2 expression under low-nutrient conditions\n", 
+        "is with": "1.0\tYdiV protein\tis with\tE-to-A substitution in EAL domain\n"
+    }, 
+    "yeaj": {
+        "are": "1.0\tYeaJ\tare\tcomponents\n", 
+        "is": "1.0\tYeaJ\tis\tindeed active DGC responsible for c-di-GMP production at 37 \u00b0C in S. Typhimurium\n", 
+        "is in": "1.0\tYeaJ senses Sal4-induced changes\tis in\tmembrane integrity\n", 
+        "is necessary for": "1.0\tYeaJ\tis necessary for\tbio\ufb01lm formation at 25 \u00b0C\n", 
+        "is regulator of": "1.0\tYeaJ\tis regulator of\tcellulose production\n"
+    }, 
+    "yecc": {
+        "is": "1.0\tYecC\tis\tInterestingly also very similar\n"
+    }, 
+    "yeht": {
+        "are": "1.0\tyehT genes\tare\tencoded on 2,349 bp long fragment with 4 bp\n", 
+        "is in": "1.0\tYehT expression\tis in\tdifferent media\n"
+    }, 
+    "yehu": {
+        "is in": "1.0\tYehU\tis in\tS. Typhimurium\n"
+    }, 
+    "yehut": {
+        "is in": "1.0\tyehUT regulated gene\tis in\tserovars\n", 
+        "is with": "1.0\tyehUT operon\tis with\tsurrounding genes\n"
+    }, 
+    "yehx": {}, 
+    "yffb": {
+        "is": "1.0\tyffB\tis\tInterestingly predicted\n"
+    }, 
+    "yfgl": {}, 
+    "ygac": {}, 
+    "ygba": {
+        "is": "1.0\tE. coli ygbA\tis\talso regulated\n"
+    }, 
+    "ygim": {}, 
+    "ygin": {}, 
+    "ygiw": {
+        "are": "1.0\tygiW mutants\tare\tsensitive to polymyxin B. Strains with indicated gene deleted\n"
+    }, 
+    "ygiy": {
+        "is": "1.0\tYgiY\tis\tpredicted\n"
+    }, 
+    "yhbj": {
+        "is in": "1.0\tnovel protein YhbJ\tis in\tEscherichia coli\n"
+    }, 
+    "yhbu": {
+        "is in": "1.0\t32 yhbU 29 Putative protease 32 STM4519 41b Putative NAD-dependent aldehyde dehydrogenase\tis in\tLB medium between high-iron conditions 1\n"
+    }, 
+    "yhcq": {}, 
+    "yhcs": {}, 
+    "yhgf": {
+        "contains": "1.0\tYhgF\tcontains\tsimilarity\n"
+    }, 
+    "yhiq": {
+        "are": "1.0\tyhiQ\tare\tThus indeed previously unidenti\ufb01ed heat shock genes\n", 
+        "constitute": "1.0\tyhiQ\tconstitute\toperon\n", 
+        "is": "1.0\tE. coli yhiQ gene\tis\tlocated immediately downstream from prlC\n", 
+        "is in": "1.0\tYhiQ homologs\tis in\tregion of ORF between GTG start codon\n"
+    }, 
+    "yhjb": {
+        "is": "1.0\tYhjB\tis\tconsidered\n", 
+        "is in": "1.0\tYhjB\tis in\tE. coli\n"
+    }, 
+    "yhjh": {
+        "are": "1.0\tyhjH\tare\tIn E. coli members of \ufb02agellar regulon\n"
+    }, 
+    "yiao": {}, 
+    "yibd": {
+        "is with": "1.0\tyibD ATCC 14028s\tis with\tMudJ insertion in dgoA ATCC\n"
+    }, 
+    "yici": {}, 
+    "yifa": {}, 
+    "yigg": {
+        "are": "1.0\tyigG\tare\tInterestingly absent\n"
+    }, 
+    "yigl": {
+        "is": "1.0\tyigL RBS\tis\tFirst unlike canonical anti-antisense mechanisms dispensable for activation by SgrS\n", 
+        "is in": "1.0\tYigL expression\tis in\tsame context of RNase E activity as above\n"
+    }, 
+    "yihe": {
+        "is": "1.0\tdistal yihE promoter\tis\tupstream\n", 
+        "is in": "1.0\tyihE\tis in\tserovar Typhimurium\n", 
+        "is regulator of": "1.0\tYihE kinase\tis regulator of\tprogrammed cell death in bacteria\n"
+    }, 
+    "yihe-dsba": {
+        "is": "1.0\tyihE-dsbA cotranscript\tis\tnecessary\n", 
+        "is necessary for": "1.0\tyihE-dsbA cotranscript\tis necessary for\tdsbA expression\n"
+    }, 
+    "yiho": {
+        "is": "1.0\tYihO\tis\timportan\n", 
+        "is with": "1.0\tyihO\tis with\tputative promoter region replaced\n"
+    }, 
+    "yihq": {
+        "is": "0.6757965558907253\tYihQ\tis\tmember\n", 
+        "is member of": "0.6757965558907253\tYihQ\tis member of\tfamily 31 glycosyl hydrolases\n"
+    }, 
+    "yihs": {}, 
+    "yiht": {}, 
+    "yihu": {
+        "is": "1.0\tyihU promoter\tis\tregulated\n"
+    }, 
+    "yihv": {
+        "is in": "1.0\tlower yihV expression\tis in\tpresence of AgfD\n"
+    }, 
+    "yihvw": {}, 
+    "yihw": {}, 
+    "yjbefgh": {
+        "is": "1.0\tyjbEFGH locus\tis\toperon encoding proteins involved in exopolysaccharide production\n", 
+        "is in": "1.0\tyjbEFGH locus\tis in\tEscherichia coli K-12\n"
+    }, 
+    "yjdb": {
+        "is in": "1.0\tyjdB putative antiporter\tis in\tadi gene cluster\n", 
+        "is with": "1.0\tyjdB promoter pFPV25\tis with\tsseJ promoter pCMPG5611\n"
+    }, 
+    "yjde": {
+        "is": "1.0\tYjdE\tis\targinine\n"
+    }, 
+    "yjeb": {}, 
+    "yjee": {}, 
+    "yjet": {}, 
+    "yjiy": {}, 
+    "ylih": {}, 
+    "ymda": {
+        "is in": "1.0\tymdA\tis in\t\ufb02agellin ABC superfamily\n"
+    }, 
+    "yoda": {
+        "is": "1.0\tYodA\tis\tmetal-binding protein\n"
+    }, 
+    "yohf": {}, 
+    "yohj": {}, 
+    "yojn": {}, 
+    "yrff": {
+        "are": "1.0\tyrfF ORFs\tare\tlocated\n", 
+        "is in": "1.0\tyrfF\tis in\tSalmonella enterica serovar Typhimurium LT2 complete sequence\n"
+    }, 
+    "ysha": {}, 
+    "ytfe": {
+        "is": "1.0\tEscherichia coli YtfE\tis\tdi-iron protein\n"
+    }, 
+    "ytfj": {
+        "is with": "1.0\tytfJ upstream region pAMD-BA-lacZ\tis with\tSTM14_5291 upstream region pAMD-BA-lacZ\n"
+    }, 
+    "ytfk": {
+        "is with": "1.0\tytfK upstream region pAMD-BA-lacZ\tis with\tSTM14_1613 upstream region pAMD-BA-lacZ\n"
+    }, 
+    "zntr": {}, 
+    "znua": {
+        "is": "1.0\tZnuA accumulation\tis\tIn contrast comparable to that observed in wild-type strain\n", 
+        "is in": "1.0\tZnuA accumulation\tis in\tstrain lacking\n"
+    }, 
+    "znub": {}, 
+    "zrap": {
+        "are": "1.0\tzraP\tare\talso significantly induced\n"
+    }, 
+    "zur": {}
+}
