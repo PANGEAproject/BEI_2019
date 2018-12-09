@@ -1,21 +1,73 @@
 #!/usr/bin/python3
+## Notes: V1.0, 25/11/2018
+## Author(s): Velez Santiago Jesus, Cazares Rodriguez Jesus Antonio
+## Email(s): jvelez@lcg.unam.mx, jesuscr@lcg.unam.mx
+
+#===================================================================================================#
+# Objetive: Automatically classify phrases with and without information about regulatory
+#           interactions between transcription factors.
+# Input:
+#   1) --inputFiles:
+#       1.1) File with sentences for the positive class.
+#       1.2) File with sentences for the negative class.
+#   2) --check:
+#       2.1) Word or symbol not present in the text to add as identifier to inputFiles sentences.
+#   3) --column:
+#       3.1) Column of file to estract sentences in inputFiles.
+#   4) --categories:
+#       4.1) Characteristics to select from the parsed file of corenlp. {0:'word',1:'lemma',2:'pos',3:'ner',4:'',5:''}
+#   5) --category_name:
+#       5.1) Name to add to positive class. 
+#   6) --other_name:
+#       6.1) Name to add to negative class.
+#   7) --testsize:
+#       7.1) Size of test class. Training class is equal to 1 - testsize.
+#   8) --regexner:
+#       8.1) Dictionary of categories to special words in inputFiles.
+#       Note:
+#           To know correct form of dictionary input file see:
+#           https://stanfordnlp.github.io/CoreNLP/ner.html?fbclid=IwAR1cKqUR2aS4BxtMDy9BsC-uR-zPwwlfdKnl1DPFibS7awPfFOPvmGX8NbA
+# Output:
+#   1) Files with marks added at the end of each sentence.
+#       Out: fileName.check
+#   2) Raw results of corenlp per file.
+#       Out: fileName.check.conll
+#   3) Parsed results from corenlp.
+#       Out: fileName.check.conll.parsed 
+#   4) File per characteristic selected per input file.
+#       Out: fileName.{word,lemma,pos,ner,,}
+#   5) Files of test and training classes and respective sentences per characteristic selected.
+#       Out: 
+#           5.1) testClass.{word,lemma,pos,ner}
+#           5.2) trainingClass.{word,lemma,pos,ner}
+#           5.3) testData.{word,lemma,pos,ner} 
+#           5.4) trainingData.{word,lemma,pos,ner}
+#
+# Dependencies: os, argparse,pandas, sklearn, corenlp program.
+# Example to run:
+#   Without regexner:
+#   python extract_data_corenlp.py -fs sentences_RI_RIGC.txt sentences_Other.txt -col 2 -cat 0 1 2 3 -t 0.30
+#   With regexner:
+#   python extract_data_corenlp.py -fs sentences_RI_RIGC.txt sentences_Other.txt -re nerdicc.txt -col 2 -cat 0 1 2 3 -t 0.30
+#===================================================================================================#
+
 import os, argparse
 import pandas as pd # Import pandas for using common data science methods.
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import train_test_split # function to create train a test files.
 
-def add_check_mark_to_sentences(files,check = 'PANGEA', col = 1):
+def add_check_mark_to_sentences(files,check = 'PANGEA', col = 0):
     for file in files:
-        with open(file + '.check', 'w') as out:
+        with open(file + '.check', 'w') as out: # Send outputs to current file.
             with open(file,'r') as f:
                 for line in f:
-                    sentence = line.strip('\n').split('\t')[col]
+                    sentence = line.strip('\n').split('\t')[col] # Get column of sentence selected.
                     if sentence.endswith('.'):
-                        out.write(sentence + check + '\n')
+                        out.write(sentence + check + '\n') # Add only check mark.
                     else:
-                        out.write(sentence + ' .' + check + '\n')
+                        out.write(sentence + ' .' + check + '\n') # Add space with dot and check.
 
 def run_corenlp(files,regexner = None):
-    if regexner:
+    if regexner: # Use dictionary to categorize special entities.
         for file in files:
             os.system('/export/apps/corenlp/corenlp.sh -annotators tokenize,ssplit,pos,lemma,ner,regexner -outputFormat conll -file {}.check -regexner.mapping {} -outputDirectory .'.format(file,regexner)) 
     else:
@@ -23,12 +75,14 @@ def run_corenlp(files,regexner = None):
             os.system('/export/apps/corenlp/corenlp.sh -annotators tokenize,ssplit,pos,lemma,ner -outputFormat conll -file {}.check -outputDirectory .'.format(file))
 
 def parse_corenlp_results(corenlp_results,check = 'PANGEA'):
+    # Create a file that contains each word separated by
+    # a tabulator and each category by word separated by a pipeline
     for corenlp_result in corenlp_results:
         with open(corenlp_result) as f:
             text = []
             paragraph = []
             for line in f:
-                if not line.startswith('\n'):
+                if not line.startswith('\n'): # Skip empty lines.
                     line = line.split('\t')
                     if line[1] == check:
                         text.append(' '.join(paragraph))
@@ -37,7 +91,7 @@ def parse_corenlp_results(corenlp_results,check = 'PANGEA'):
                         paragraph.append('|'.join(line[1:5]))
                         
         with open(corenlp_result + '.parsed','w') as out:
-            out.write('\n'.join(text))
+            out.write('\n'.join(text)) # Save results.
 
 def get_categories(corenlp_resulsts_parsed,categories):
     extensions = {0:'.word',1:'.lemma',2:'.pos',3:'.ner',4:'',5:''}
@@ -49,7 +103,6 @@ def get_categories(corenlp_resulsts_parsed,categories):
                     line = line.strip('\n').split(' ')
                     filter_text.append(' '.join([word.split('|')[category] for word in line]))
                     
-            #outfile = os.path.basename(corenlp_resulst_parsed).split('.')[0] + extensions[category]
             outfile = corenlp_resulst_parsed + extensions[category]
             with open(outfile,'w') as out:
                 out.write('\n'.join(filter_text))
@@ -87,22 +140,14 @@ def run_all():
 
     args = parser.parse_args() # Take arguments.
 
-    #add_check_to_sentences_in_files(args.inputFiles,check = args.check, col = args.column)
     add_check_mark_to_sentences(args.inputFiles, check = args.check, col = args.column)
     run_corenlp(args.inputFiles,args.regexner)
     parse_corenlp_results([file + '.check.conll' for file in args.inputFiles], check = args.check)
-    #parse_corenlp_results(args.inputFiles + '.conll', check = args.check)
     extensions = get_categories([file + '.check.conll.parsed' for file in args.inputFiles], args.categories)
-    #extensions = get_categories(args.inputFiles + '.conll.parsed', args.categories)
     category_files = [args.inputFiles[0] + '.check.conll.parsed' + extension for extension in extensions]
     other_files = [args.inputFiles[1] + '.check.conll.parsed' + extension for extension in extensions]
     create_training_and_test_classes(category_files,other_files,extensions,args.test_size, category=args.category_name,other=args.other_name)
 
+# Run main program.
 if __name__ == '__main__':
     run_all()
-#example
-#extract_data_corenlp.py -fs sentences_RI_RIGC.txt sentences_Other.txt -re  -col 2 -cat 0 1 2 3 -t 0.30
-#python extract_data_corenlp.py -fs sentences_RI_RIGC.txt sentences_Other.txt -re nerdicc.txt -col 2 -cat 0 1 2 3 -t 0.30
-#python extract_data_corenlp.py -fs ri.txt other.txt -re nerdicc.txt -col 2 -cat 0 1 2 3 -t 0.30
-
-
