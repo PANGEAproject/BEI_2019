@@ -15,7 +15,7 @@
 #   3) --column:
 #       3.1) Column of file to estract sentences in inputFiles.
 #   4) --categories:
-#       4.1) Characteristics to select from the parsed file of corenlp. {0:'word',1:'lemma',2:'pos',3:'ner',4:'',5:''}
+#       4.1) Characteristics to select from the parsed file of corenlp. {0:'word',1:'lemma',2:'pos',3:'ner',4:'headidx',5:'deprel'}
 #   5) --category_name:
 #       5.1) Name to add to positive class. 
 #   6) --other_name:
@@ -35,13 +35,13 @@
 #   3) Parsed results from corenlp.
 #       Out: fileName.check.conll.parsed 
 #   4) File per characteristic selected per input file.
-#       Out: fileName.{word,lemma,pos,ner,,}
+#       Out: fileName.{word,lemma,pos,ner,headidx,deprel}
 #   5) Files of test and training classes and respective sentences per characteristic selected.
 #       Out: 
-#           5.1) testClass.{word,lemma,pos,ner}
-#           5.2) trainingClass.{word,lemma,pos,ner}
-#           5.3) testData.{word,lemma,pos,ner} 
-#           5.4) trainingData.{word,lemma,pos,ner}
+#           5.1) testClass.{word,lemma,pos,ner,headidx,deprel}
+#           5.2) trainingClass.{word,lemma,pos,ner,headidx,deprel}
+#           5.3) testData.{word,lemma,pos,ner,headidx,deprel} 
+#           5.4) trainingData.{word,lemma,pos,ner,headidx,deprel}
 #
 # Dependencies: os, argparse,pandas, sklearn, corenlp program.
 # Example to run:
@@ -94,7 +94,7 @@ def parse_corenlp_results(corenlp_results,check = 'PANGEA'):
             out.write('\n'.join(text)) # Save results.
 
 def get_categories(corenlp_resulsts_parsed,categories):
-    extensions = {0:'.word',1:'.lemma',2:'.pos',3:'.ner',4:'',5:''}
+    extensions = {0:'.word',1:'.lemma',2:'.pos',3:'.ner',4:'headidx',5:'deprel'}
     for corenlp_resulst_parsed in corenlp_resulsts_parsed:
         for category in categories:
             filter_text = []
