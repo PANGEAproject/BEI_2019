@@ -68,12 +68,13 @@ def add_check_mark_to_sentences(files,check = 'PANGEA', col = 0):
 
 def run_corenlp(files,regexner = None):
     if regexner: # Use dictionary to categorize special entities.
-        for file in files:
-            os.system('/export/apps/corenlp/corenlp.sh -annotators tokenize,ssplit,pos,lemma,ner,regexner -outputFormat conll -file {}.check -regexner.mapping {} -outputDirectory .'.format(file,regexner)) 
+            run_core = '/export/apps/corenlp/corenlp.sh -annotators tokenize,ssplit,pos,lemma,ner,regexner -outputFormat conll -file {}.check -regexner.mapping {} -outputDirectory .'.format(file,regexner) 
     else:
-        for file in files:
-            os.system('/export/apps/corenlp/corenlp.sh -annotators tokenize,ssplit,pos,lemma,ner -outputFormat conll -file {}.check -outputDirectory .'.format(file))
+            run_core = '/export/apps/corenlp/corenlp.sh -annotators tokenize,ssplit,pos,lemma,ner -outputFormat conll -file {}.check -outputDirectory .'.format(file)
 
+    for file in files: # Run corenlp foreach file.
+        os.system(run_core)
+        
 def parse_corenlp_results(corenlp_results,check = 'PANGEA'):
     # Create a file that contains each word separated by
     # a tabulator and each category by word separated by a pipeline
