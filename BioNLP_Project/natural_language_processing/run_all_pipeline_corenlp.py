@@ -13,7 +13,7 @@
 #   2) --check:
 #       2.1) Word or symbol not present in the text to add as identifier to inputFiles sentences.
 #   3) --column:
-#       3.1) Column of file to estract sentences in inputFiles.
+#       3.1) Column of inputFiles to estract sentences.
 #   4) --categories:
 #       4.1) Characteristics to select from the parsed file of corenlp. {0:'word',1:'lemma',2:'pos',3:'ner',4:'headidx',5:'deprel'}
 #   5) --category_name:
