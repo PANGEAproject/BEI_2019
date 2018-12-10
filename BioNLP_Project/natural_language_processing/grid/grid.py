@@ -1,3 +1,18 @@
+# -*- encoding: utf-8 -*-
+###################################################################################################
+                         #grid.py#
+###################################################################################################
+"""Descrición
+Autor: Luis Enrique Ramírez y Jesús Vélez 
+No recibe ningún parámetro, pero al correrlo se debe agregrar un '> #nombre_del_archivo.sh#'
+
+Descripción: crea las lineas que recibe el archivo de python training-crossvalidation-testing-dom.py con todas las combinaciones de parametros que recibe dicho programa
+
+Ejemplo de uso: grid.py '> grid.sh
+
+Dependencias: intertools
+
+"""
 from itertools import product
 
 # Aqui valta agregar sus extensiones de donde va cada parametro. word es el ejemplo de lo que me refiero. ParA TODOS.
